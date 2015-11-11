@@ -2,10 +2,9 @@ package org.com.mots.main;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.regex.Matcher;
+import java.util.StringTokenizer;
 import java.util.regex.Pattern;
 
 import org.apache.commons.io.FileUtils;
@@ -27,6 +26,10 @@ public class Main {
 
 		/* 2) Separar as palavras */
 		words = m.split(lines);
+		
+		for (String word : words) {
+			System.out.println(word);
+		}
 
 		/* 3) Efetuar logica de comparacao */
 		
@@ -46,15 +49,18 @@ public class Main {
 
 	public LinkedList<String> split(List<String> lines) {
 		LinkedList<String> words = new LinkedList<String>();
-
-		Pattern pattern = Pattern.compile("\\w+");
+		
+		Pattern pattern = Pattern.compile("\\ ");
 
 		for (String currentLine : lines) {
-			Matcher matcher = pattern.matcher(currentLine);
-			while (matcher.find()) {
-				words.add(matcher.group());
+			StringTokenizer tokenizer = new StringTokenizer(currentLine);
+
+			while(tokenizer.hasMoreTokens()) {
+				//retira pontos, de finais de frases
+				words.add(tokenizer.nextToken().replace( "." , "") );
 			}
 		}
+		
 		return words;
 	}
 
