@@ -1,0 +1,8775 @@
+mots	semgram	lemfreq	surfreq	répartition
+être	(verbe.)	14083		163
+avoir		11552		163
+de		10503		163
+je		7905		162
+il	(ou ils)	7515		160
+ce	(pronom)	6846		163
+la	(article)	5374		163
+pas	(négation)	5308		158
+à	(prépos.)	5236		163
+et		5082		161
+le	(article)	4957		163
+on		4266		128
+vous		4202		154
+un	(article)	4188		162
+ça	(pronom démonstratif)	3972		159
+les	(article)	3815		162
+que	(conj.)	3537		162
+ne		3283		150
+faire		3174		162
+qui	(relatif)	3096		160
+oui		2935		154
+alors		2854		155
+une	(article)	2780		163
+mais		2768		159
+des	(article indéfini)	2646		161
+elle	(ou elles)	2462		134
+en	(prépos.)	2405		161
+dire		2391		160
+y		2391		143
+pour		2076		161
+dans		2066		162
+me		2014		152
+se		1993		161
+aller		1876		161
+bien	(adv.)	1697		163
+du		1658		154
+tu		1536		105
+en	(pronom-adv.)	1501		153
+au		1490		161
+là		1468		153
+l'	(article le)	1465		158
+comme		1452		153
+voir		1439		153
+non		1435		139
+savoir		1432		150
+nous		1386		141
+puis		1384		136
+ah		1373		139
+l'	(article la)	1319		156
+oh		1258		141
+moi		1218		143
+tout	(adj.)	1205		149
+très		1189		141
+que	(relatif)	1136		157
+pouvoir	(verbe.)	1131		157
+parce que		1126		148
+avec		1087		152
+lui		1066		128
+falloir		1001		151
+enfin		1001		142
+par		965		153
+quand		964		143
+le	(pronom)	894		140
+vouloir		881		146
+petit		863		143
+si	(conditionnel)	837		141
+plus	(comparatif)	832		135
+même		810		148
+sur	(prépos.)	801		139
+ce	(déterminatif)	705		142
+ou	(conj.)	705		137
+autre		695		145
+deux		689		139
+mon		675		133
+ben		620		111
+venir		613		136
+prendre		608		143
+tout	(pronom)	608		130
+arriver		568		133
+beaucoup		561		130
+croire		555		135
+heure		545		117
+rien		541		124
+jour		538		132
+mettre		530		125
+passer		483		136
+un peu		481		120
+chose		411		121
+les	(pronom)	475		120
+devoir	(verbe.)	472		124
+l'	(pronom le)	458		102
+aussi		454		126
+encore		452		138
+des	(de les)	452		95
+trois		450		113
+parler		447		118
+hein		447		74
+toujours		443		117
+cette		439		130
+trouver		439		123
+quoi	(exclamatif)	437		85
+ma		432		107
+grand	(adj.)	428		118
+temps		426		130
+donner		426		128
+après		425		120
+fois		423		121
+eh bien		417		104
+te		413		86
+an		407		111
+son	(possessif)	407		103
+où	(relatif)	406		131
+sa		401		113
+cent		397		92
+comprendre		393		94
+maintenant		391		125
+bon	(adj.)	384		123
+tout	(adv.)	381		110
+quand même		368		97
+chez		365		108
+plus	(temporel)	355		117
+moment		337		114
+vingt		335		101
+qu'est-ce que		328		115
+que	(après comparaison)	328		106
+la	(pronom)	328		105
+comment		327		106
+jamais		325		108
+moins		322		106
+quatre		322		105
+connaître		316		107
+monsieur	(messieurs)	316		92
+ces		314		107
+vraiment		314		101
+dix		311		97
+franc	(monnaie)	311		68
+cinq		310		109
+votre	(déterminatif)	306		86
+partir		305		100
+enfant		305		84
+voilà		304		95
+assez		302		107
+madame	(mesdames)	299		70
+demander		291		108
+trop		286		109
+d'ailleurs		283		98
+tenir		281		106
+maison		278		93
+femme		275		74
+peut-être		273		114
+aimer		267		94
+gens		265		87
+mois		262		78
+penser		258		102
+là-bas		257		76
+mille		257		70
+quelque chose		255		105
+soir		253		91
+rester		250		100
+sans		249		117
+année		247		91
+donc		243		95
+exemple		242		94
+déjà		241		107
+premier		240		96
+manger		240		60
+côté		239		96
+quel		238		100
+ses		238		90
+aux		237		92
+beau		229		82
+mieux		227		96
+matin		223		82
+que	(dans : ne... que)	219		86
+ici		218		83
+appeler		216		87
+surtout		216		86
+sortir		215		96
+mes		215		71
+huit		207		85
+leur	(pronom personnel)	206		78
+six		206		75
+n'est-ce pas		206		62
+évidemment		205		76
+travailler		204		63
+VRAI		202		83
+peu	(adv.)	200		96
+l'	(pronom la)	200		69
+jusque		192		93
+est-ce que		192		65
+vieux		192		71
+leur	(possessif)	191		78
+avant		189		86
+travail		189		76
+seul	(ou seule)	184		78
+histoire		184		66
+seulement		183		94
+mal	(adv.)	183		83
+voiture		182		46
+pendant		181		84
+école		178		63
+acheter		178		61
+français	(nom. et adj.)	178		58
+près		176		97
+laisser		175		86
+quelques		175		84
+écouter		175		75
+entendre		174		85
+un	(pronom)	171		56
+gros		165		77
+rentrer		165		72
+depuis		164		83
+pourquoi		163		90
+commencer		163		85
+marcher		163		68
+regarder		162		71
+un	(numéral)	161		58
+rendre		160		73
+fille		160		58
+revenir		157		81
+dernier		157		79
+tellement		154		78
+trente		154		70
+type		151		47
+lire		151		45
+monter		150		65
+payer		149		53
+sûr	(adj. et adv.)	147		65
+si	(affirmatif)	146		69
+bon	(interjection)	146		58
+chercher		144		78
+eux		144		67
+toi		144		59
+absolument		143		66
+c'est-à-dire		142		73
+coup		142		69
+mot		142		45
+intéressant		141		57
+jouer		139		48
+neuf	(nombre)	137		54
+demi		136		66
+vie		135		67
+sept		135		64
+eau		135		49
+paraître		134		61
+attendre		133		67
+perdre		132		72
+point	(nom.)	132		63
+souvent		132		61
+film		132		17
+si	(intensif)	131		71
+personne	(substantif)	131		61
+homme		131		55
+cher		130		56
+si	(interrogatif)	129		67
+père		129		49
+finir		125		71
+tout le monde		125		70
+naturellement		124		50
+place		120		58
+ville		120		47
+rue		119		95
+façon		119		58
+descendre		118		54
+certain		117		58
+bois		117		37
+tout de même		116		64
+quinze		116		62
+rappeler		116		56
+cheval		116		30
+arrêter		115		59
+guerre		115		28
+raconter		113		55
+apprendre		113		52
+ami		112		54
+justement		111		66
+d'abord		111		59
+général	(adj.)	111		55
+longtemps		110		69
+quoi	(interrogatif)	110		65
+bout		110		58
+gosse		110		50
+notre		109		63
+prix		108		48
+question		108		47
+mari		108		45
+cet		107		59
+quelqu'un		107		55
+main		107		53
+service		106		52
+mère		106		49
+route		104		34
+jeune	(nom. et adj.)	103		55
+dimanche		103		51
+changer		102		59
+journée		102		55
+occuper		102		52
+garçon		102		47
+foi		102		37
+cinquante		101		48
+sentir		101		47
+presque		99		58
+idée		99		55
+tomber		99		55
+loin		99		52
+vers	(prépos.)	99		48
+puisque		98		48
+argent		98		42
+train		98		39
+vendre		98		32
+long		97		55
+servir		97		54
+essayer		97		51
+compte		97		50
+chambre		97		43
+pièce		97		36
+entre		96		56
+semaine		96		47
+vacances		96		38
+professeur		96		28
+appareil		96		26
+combien		95		59
+compter		95		58
+sous	(prépos.)	95		57
+plutôt		95		56
+pied		95		53
+part		94		54
+tête		94		47
+pays		94		44
+quarante		93		50
+mètre		93		43
+une	(numéral)	92		38
+tout de suite		91		60
+écrire		91		51
+remarquer		91		51
+dedans		91		49
+ton	(possessif)	90		41
+drôle	(nom. et adj.)	89		56
+monde		89		53
+nom		89		45
+mauvais		88		54
+obliger		88		51
+devant	(adv. et prépos.)	88		49
+impression		88		45
+gars		88		23
+tout à fait		87		54
+vivre		87		47
+intéresser		87		46
+malade		87		38
+valoir		86		56
+nuit		86		37
+besoin		85		51
+content		85		51
+certainement		85		46
+nouveau		84		54
+famille		84		45
+chaque		83		61
+que	(interrogatif)	83		40
+mal	(nom.)	83		38
+soixante		83		36
+d'accord		82		38
+partout		82		35
+celui		81		48
+ensuite		81		43
+minute		81		43
+pauvre		81		41
+coucher		81		40
+café		81		31
+nos		80		52
+métier		80		38
+etc		80		30
+exactement		79		49
+docteur		79		39
+tourner		79		36
+conduire		79		24
+fin	(nom.)	78		48
+plaire		78		48
+plein		78		47
+somme	(fém.)	78		46
+peur		78		42
+maman		78		37
+marier		78		35
+préciosité		78		1
+fond		77		44
+simple		77		41
+truc		77		39
+terre		77		37
+difficile		76		45
+classe		76		36
+pareil		75		49
+recevoir		75		49
+complètement		75		42
+tel	(telle)	75		39
+client		75		27
+ceux		74		47
+répondre		74		44
+une	(pronom)	74		40
+dieu		74		37
+cinéma		74		28
+autrement		73		51
+cas		73		47
+partie		73		46
+vite		73		46
+fait	(nom.)	72		43
+simplement		72		43
+porter		72		42
+quelquefois		72		41
+gagner		72		39
+plusieurs		71		47
+normal		71		39
+oeil		71		31
+journal		71		30
+gare		71		22
+âge		70		38
+vos		70		37
+froid		70		33
+dormir		70		29
+tandis que		69		45
+dame	(personne)	69		43
+possible		69		42
+fils		69		39
+apporter		69		37
+boire		69		30
+pourtant		68		44
+lit		68		31
+anglais	(nom. et adj.)	68		24
+ni		67		38
+dont		66		45
+amener		66		43
+autant		66		42
+garder		66		41
+lendemain		66		40
+parents	(père et mère)	66		37
+affaire		65		51
+peine		65		45
+ouvrir		65		43
+cela		65		39
+habiter		65		39
+formidable		65		34
+papier		65		29
+ferme	(nom.)	65		15
+reprendre		64		40
+envoyer		64		38
+kilomètre		64		28
+foutre		64		25
+américain	(nom et adj.)	64		22
+vin		64		21
+bas	(adj. et adv.)	63		44
+présenter		63		36
+soeur		63		32
+copain		63		24
+sens		62		39
+couper		62		32
+tour	(masc.)	62		29
+mourir		62		26
+tant		61		44
+aucun		61		43
+continuer		61		41
+gentil		61		41
+après-midi		61		36
+joli		61		35
+derrière	(adv. et prépos.)	61		33
+du tout		61		32
+chaud		61		31
+dur		61		31
+étude		61		29
+précieux		61		2
+genre		60		43
+plaisir		60		42
+personne	(pronom)	60		39
+toucher	(verbe.)	60		34
+espèce		60		33
+fatiguer		60		31
+région		60		27
+livre	(masc.)	60		15
+ensemble	(adv.)	59		42
+table		59		30
+forcément		59		28
+haut		58		45
+midi		58		41
+fort	(adj.)	58		39
+souvenir	(se)	58		37
+merci		58		35
+hier		58		34
+tirer		58		33
+car	(conj.)	58		31
+celle		57		42
+raison		57		35
+où	(interrogation)	57		32
+fil		57		15
+entrer		56		43
+poser		56		33
+dessus		56		28
+installer		56		27
+ta		56		25
+village		56		24
+patron		56		21
+coin		55		41
+devenir		55		36
+tout à l'heure		55		36
+état		55		33
+cuisine		55		32
+préparer		55		28
+eh		55		25
+chien		55		19
+médecin		55		18
+en train de		54		39
+enlever		54		38
+dehors		54		35
+porte		54		34
+droit	(nom.)	54		33
+endroit		54		33
+lever		54		32
+permettre		54		32
+air	(atmosphère)	54		25
+samedi		54		25
+chanter		54		15
+pour que		53		40
+coeur		53		29
+meilleur		52		38
+quoi	(relatif)	52		38
+habitude		52		37
+tas		52		36
+prochain	(adj.)	52		34
+camarade		52		31
+amuser	(et s'amuser)	52		30
+bureau		52		28
+campagne		52		28
+rire		52		28
+boîte	(sens propre)	52		22
+remettre		51		38
+deuxième		51		33
+quart		51		33
+montrer		51		33
+hiver		51		28
+frère		51		27
+ceci		51		19
+attention		50		38
+retrouver		50		35
+asseoir		50		34
+effet		50		33
+juste	(adv.)	50		32
+retourner		50		30
+là-dedans		50		29
+chacun		50		28
+chef		50		22
+théâtre		50		22
+public		50		17
+aujourd'hui		49		33
+milieu		49		32
+intérieur		49		30
+expliquer		49		27
+quartier		49		25
+voyage		49		24
+sorte		48		36
+n'importe		48		32
+l'	(dans : l'on)	48		28
+machine		48		23
+magasin		48		15
+animal	(nom.)	48		10
+moyen	(nom.)	47		36
+autour		47		30
+noir		47		30
+différent		47		29
+emmener		47		27
+particulier		47		27
+micro		47		23
+hôtel		47		22
+repas		47		22
+voix		47		11
+suite		46		35
+heureux		46		30
+chauffer		46		18
+mademoiselle		46		16
+lieu		45		33
+blanc	(nom. et adj.)	45		30
+air	(avoir l'air)	45		29
+quatorze		45		26
+papa		45		23
+lundi		45		21
+disque		45		18
+neige		45		18
+instituteur		45		17
+musique		45		13
+manquer		44		33
+aider		44		28
+dépendre		44		28
+jardin		44		28
+fou	(nom. et adj.)	44		24
+moderne		44		23
+italien	(nom. et adj.)	44		20
+directeur		44		19
+tuer		44		18
+confiance		44		17
+réussir		43		31
+pas du tout		43		28
+cours		43		28
+curieux		43		26
+onze		43		26
+appartement		43		25
+oublier		43		24
+lorsque		43		23
+accident		43		16
+église		43		15
+espérer		42		34
+assurer		42		33
+douze		42		31
+suivre		42		31
+apercevoir		42		30
+coûter		42		28
+rencontrer		42		26
+troisième		42		26
+facilement		42		25
+également		42		24
+extrêmement		42		23
+situation		42		22
+quitter		42		22
+jeu		42		21
+mur		42		21
+visiter		42		21
+cousin		42		20
+vue		42		19
+bateau		42		14
+car	(nom.)	42		13
+agir		41		30
+pousser		41		28
+agréable		41		27
+ailleurs		41		26
+rare		41		26
+reste		41		26
+eh ben		41		23
+élève		41		21
+lettre		41		21
+province		41		17
+été	(saison)	40		31
+terrible		40		30
+qui	(interrogatif)	40		29
+débrouiller		40		29
+voisin	(nom. et adj.)	40		22
+neuf	(adj.)	40		20
+vitesse		40		19
+camp		40		13
+course		40		8
+début		39		31
+enregistrer		39		29
+sujet		39		28
+avis		39		23
+salle		39		23
+face		39		22
+machin		39		20
+plan		39		15
+tard		38		33
+arranger		38		31
+reconnaître		38		29
+téléphoner		38		21
+facile		38		20
+paysan	(nom. et adj.)	38		11
+sérieux		37		29
+exister		37		27
+ancien		37		25
+contre		37		24
+celui-là		37		22
+esprit		37		22
+morceau		37		22
+fenêtre		37		21
+radio	(T.S.F.)	37		17
+réparer		37		17
+million		37		16
+avion		37		9
+bras		36		26
+jeune fille		36		26
+chance		36		22
+différence		36		22
+gêner		36		22
+ménage		36		22
+sembler		36		22
+revoir		36		21
+rouge		36		19
+sauver		36		19
+second		36		19
+grave		36		18
+tissu		36		8
+juste	(nom. et adj.)	35		28
+malgré		35		28
+doute		35		25
+fermer		35		24
+finalement		35		23
+fort	(adv.)	35		23
+laver		35		22
+préférer		35		22
+langue		35		21
+terrain		35		21
+nouvelle	(nom.)	35		20
+offrir		35		20
+oeuf		35		19
+problème		35		19
+qualité		35		18
+verre		35		15
+poste	(masc.)	35		17
+bref	(interjection)	35		13
+chaussure		35		12
+curé		35		11
+vélo		35		10
+colonie		35		7
+entendu		34		19
+remplacer		34		19
+chauffage		34		10
+genou		34		7
+contraire		33		29
+ainsi		33		26
+magnifique		33		24
+charger		33		23
+important		33		23
+plat	(adj. et nom)	33		22
+mouvement		33		21
+remonter		33		21
+sauter		33		21
+marché		33		20
+mer		33		19
+champ		33		18
+couleur		33		18
+employer		33		18
+ouvrier		33		17
+article		33		16
+soirée		33		16
+faim		33		15
+restaurant		33		14
+armée		33		13
+bouquin .		33		11
+huile		33		8
+robe		33		8
+envie		32		26
+bord		32		25
+recommencer		32		22
+uniquement		32		22
+départ		32		20
+ramener		32		20
+rapport		32		20
+repartir		32		20
+actuellement		32		19
+carte		32		16
+jambe		32		16
+sac		32		16
+demain		32		15
+groupe		32		12
+scène		32		12
+camion		32		10
+poussière		32		6
+tranquille		31		27
+placer		31		25
+impossible		31		23
+parfait		31		22
+excellent		31		21
+malheureux		31		21
+étonner		31		20
+non plus		31		18
+pain		31		17
+celle-là		31		16
+Pâques		31		16
+sympathique		31		16
+bâtiment		31		15
+culture		31		14
+opération		31		14
+brûler	(et se brûler)	31		13
+suédois		31		4
+à cause de		30		26
+promener		30		24
+décider		30		23
+pardon		30		23
+casser		30		22
+soigner		30		22
+environ		30		21
+clair		30		20
+discuter		30		20
+forme		30		20
+résultat		30		20
+connaissance		30		19
+bleu	(couleur)	30		18
+là-haut		30		18
+construire		30		17
+louer	(location)	30		16
+lycée		30		16
+que	(exclamatif)	30		16
+moteur		30		13
+peinture		30		12
+bête	(nom.)	30		11
+frontière		30		10
+empêcher		29		26
+heureusement		29		23
+nombre		29		23
+oser		29		23
+force		29		21
+ordre		29		21
+représenter		29		21
+pleurer		29		20
+autrefois		29		18
+étage		29		18
+valeur		29		18
+vert		29		18
+bonjour		29		17
+chemin		29		16
+accent		29		14
+leçon		29		14
+parisien		29		14
+pleuvoir		29		14
+concours	(compétition)	29		12
+téléphone		29		11
+chant		29		6
+suceuse	(nom d'appareil)	29		2
+principe		28		23
+maître		28		22
+suffire		28		22
+là-dessus		28		21
+époque		28		19
+moitié		28		19
+exact		28		18
+pénible		28		18
+prévoir		28		18
+alors que		28		16
+social		28		16
+bête	(adj.)	28		15
+hôpital		28		15
+mort	(concret)	28		15
+bouteille		28		14
+gaz		28		14
+billet		28		12
+commune		28		8
+speaker		28		1
+sûrement		27		25
+directement		27		22
+durer		27		22
+quelque		27		22
+étranger		27		21
+fameux		27		21
+lequel		27		20
+organiser		27		20
+remercier		27		18
+mort	(nom féminin)	27		18
+riche		27		19
+amusant		27		17
+arbre		27		17
+dépenser		27		17
+engager		27		17
+généralement		27		17
+lait		27		17
+mesure		27		17
+naturel		27		17
+auto		27		16
+intelligent		27		16
+supérieur		27		15
+trou		27		14
+voici		27		14
+note		27		13
+national		27		12
+opéra		27		12
+crédit		27		6
+imaginer		26		22
+lancer		26		22
+qu'est-ce qui		27		21
+véritable		26		21
+beau-frère		26		19
+nez		26		19
+souvenir	(nom.)	26		19
+dessous	(adv.)	26		18
+libre		26		18
+d'après		26		17
+blague	(plaisanterie)	26		17
+entrée		26		17
+triste		26		17
+côte		26		16
+courant	(nom.)	26		16
+électrique		26		16
+saison		26		16
+cour	(espace clos)	26		15
+soleil		26		15
+bonhomme		26		14
+cheveu		26		14
+naître		26		14
+profiter		26		14
+propriétaire		26		14
+retraite		26		14
+bouger		26		13
+danser		26		11
+soldat		26		10
+décembre		26		8
+infirmier		26		8
+texte		26		8
+parole		25		21
+tant que		25		19
+choisir		25		18
+pratique		25		18
+courir		25		17
+habiller		25		17
+métro		25		17
+parfaitement		25		17
+l'un		25		17
+avenue		25		16
+rouler		25		16
+treize		25		15
+souffrir		25		14
+équipe		25		13
+noël		25		13
+mariage		25		12
+que	(indéterminé)	25		12
+sou		25		11
+allemand		25		10
+artiste		25		10
+poisson		25		10
+image		25		8
+plaindre		24		21
+dos		24		19
+foie		24		19
+prévenir		24		19
+bruit		24		18
+occasion		24		18
+refaire		24		18
+seize		24		18
+attraper		24		17
+battre		24		17
+tout d'un coup		24		17
+déjeuner	(nom.)	24		16
+causer		24		15
+correspondre		24		15
+couvrir		24		15
+étudiant	(nom.)	24		15
+élever		24		13
+estimer		24		13
+gauche		24		13
+technique		24		13
+usine		24		13
+août		24		12
+roman		24		12
+pêche	(action de pêcher)	24		11
+gorge		24		10
+oncle		24		10
+poule		24		8
+derrière		24		7
+canard		24		6
+personnage		24		6
+capable		23		21
+travers		23		20
+hasard		23		19
+soi		23		19
+ci		23		18
+ordinaire		23		18
+suivant		23		17
+conversation		23		16
+escalier		23		16
+frapper		23		16
+loger		23		16
+tes		23		16
+ramasser		23		15
+ligne		23		14
+nord		23		14
+produire		23		14
+auteur		23		13
+créer		23		13
+carreau		23		12
+chasse		23		11
+opérer		23		11
+suisse		23		10
+litre		23		9
+tente		23		9
+russe		23		8
+ficher		22		20
+dès que		22		18
+ennuyer		22		18
+nombreux		22		18
+risquer		22		18
+arrière		22		17
+brave		22		17
+adresser		22		16
+avancer		22		16
+traverser		22		16
+bain		22		15
+prononcer		22		15
+retard		22		15
+santé		22		15
+droite	(nom.)	22		14
+militaire		22		14
+photo		22		14
+entretenir		22		13
+marchand		22		13
+la plupart		22		13
+meuble		22		12
+numéro		22		12
+taper		22		12
+installation		22		10
+laine		22		10
+rôle		22		10
+juillet		22		9
+devoir	(nom.)	22		8
+douleur		22		8
+religieux		22		8
+jeter		21		19
+mien		21		19
+terminer		21		19
+large		21		18
+énormément		21		17
+expérience		21		17
+centre		21		16
+coller		21		16
+malheureusement		21		16
+nécessaire		21		16
+police		21		16
+avouer		21		15
+inviter		21		15
+retenir		21		15
+mardi		21		14
+jaune		21		12
+passage		21		12
+promenade		21		12
+tante		21		12
+fumer		21		11
+politique		21		11
+syndicat		21		11
+bonne	(nom.)	21		9
+contact		21		9
+fleur		21		9
+médecine		21		9
+tenue		21		9
+émission		21		7
+nager		21		7
+île		21		6
+moto		21		6
+musée		21		6
+initiative		21		4
+coiffeur		21		3
+prêt	(adj.)	20		19
+complet	(adj.)	20		18
+goût		20		18
+repasser		20		18
+spécial		20		17
+condition		20		16
+retirer		20		16
+actuel		20		15
+dîner	(nom.)	20		15
+effort		20		15
+faute		20		15
+octobre		20		15
+supposer		20		15
+rien du tout		20		15
+grand-mère		20		14
+intention		20		14
+jeudi		20		14
+refuser		20		14
+surveiller		20		14
+tromper		20		13
+vérité		20		13
+fête		20		12
+mécanique		20		12
+nettoyer		20		12
+chaleur		20		11
+éducation		20		11
+garage		20		11
+période		20		11
+pointe		20		11
+tableau		20		10
+programme		20		9
+château		20		8
+excursion		20		5
+guide		20		3
+inventeur		20		3
+amour		19		
+art		19		
+avance		19		
+avance	(avance	19	6	
+avance	(à l'avance	19	10	
+avance	(d'avance	19	13	
+beurre		19		
+cacher		19		
+cacher	(cacher	19	15	
+cacher	(se cacher	19	4	
+centimètre		19		
+ceux-la		19		
+charmant		19		
+charmant	charmant	19	10	
+charmant	charmante	19	9	
+concert		19		
+crise		19		
+déjeuner		19		
+déplacer		19		
+déplacer	(déplacer	19	8	
+déplacer	(se déplacer	19	11	
+dès		19		
+domestique		19		
+égal		19		
+égal	égal	19	18	
+égal	égaux	19	1	
+épatant		19		
+épatant	épatant	19	15	
+épatant	épatante	19	4	
+expression		19		
+laquelle		19		
+linge		19		
+marquer		19		
+marrant		19		
+marrant	marrant	19	17	
+marrant	marrante	19	2	
+panne		19		
+patois		19		
+pluie		19		
+pomme		19		
+poulet		19		
+poulet	poulet	19	17	
+poulet	poulette	19	2	
+proposer		19		
+rapporter		19		
+rapporter	(rapporter	19	15	
+rapporter	(se rapporter	19	1	
+rapporter	(rapporter de l'argent,gagner)	19	3	
+réaliser		19		
+recherche		19		
+regretter		19		
+répéter		19		
+ressembler		19		
+rond		19		
+rond	rond	19	14	
+rond	ronde	19	5	
+rose		19		
+rose	(adj.)	19	16	
+rose	(nom.)	19	3	
+veille		19		
+vente		19		
+visite		19		
+affreux		18		
+allumer		18		
+apéritif		18		
+auditeur		18		
+augmenter		18		
+au revoir		18		
+bagage		18		
+baigner		18		
+baigner		18	1	
+se baigner		18	11	
+cigarette		18		
+cinquième		18		
+compliqué		18		
+court		18		
+court		18	08-juin	
+à court de		18	03-févr	
+courte		18	07-juin	
+crever		18		
+crever	(crever (sens propre)	18	07-mars	
+crever	(se crever	18	02-févr	
+crever	(crever (figuré)	18	09-juin	
+davantage		18		
+décoration		18		
+embêtant		18		
+embêtante		18	1	
+ensemble	(nom.)	18		
+erreur		18		
+étudier		18		
+évident		18		
+évidente		18	1	
+gendarme		18		
+indiquer		18		
+instant		18		
+langage		18		
+lapin		18		
+lourd		18		
+lourd	(lourd	18	13-juil	
+lourd	(lourde	18	05-mai	
+manière		18		
+maths		18		
+oeuvre		18		
+or	(nom.)	18		
+parmi		18		
+particulièrement		18		
+piste		18		
+plateau		18		
+quai		18		
+rayon		18		
+renseignement		18		
+reposer		18		
+reposer	(reposer	18	08-juil	
+reposer	(se reposer	18	10-juil	
+sec		18		
+sec	(sec	18	15-oct	
+sec	(sèche	18	03-févr	
+tôt		18		
+vendredi		18		
+arracher		17		
+balle		17		
+balle	(balle (franc)	17	11-janv	
+balle	(balle (de fusil) 	17	04-janv	
+balle	(balle (jouet)	17	02-janv	
+bébé		17		
+bouffer		17		
+boulevard		17		
+camper		17		
+chaîne		17		
+chaîne	(chaîne	17	janv-00	
+chaîne	(chaîne (de montagne)	17	2	
+chat		17		
+chat	chat	17	janv-00	
+chat	chatte	17	01-janv	
+commandant		17		
+conscience		17		
+conséquent	(dans par conséquent)	17		
+considérer		17		
+corps		17		
+couvent		17		
+critique		17		
+critique	(adj.	17	janv-00	
+critique	(fém.	17	04-janv	
+défendre		17		
+défendre	(défendre (sens non déterminé	17	9	
+défendre	(se défendre	17	6	
+défendre	(défendre (interdire	17	2	
+dîner		17		
+doigt		17		
+embêter		17		
+embêter	(embêter	17	11	
+embêter	(s'embêter	17	6	
+ennuyeux		17		
+ennuyeux	ennuyeux	17	16	
+ennuyeux	ennuyeuse	17	1	
+environs		17		
+essence		17		
+essentiel		17		
+extraordinaire		17		
+feu		17		
+figurer		17		
+figurer	(se figurer	17	16	
+figurer	(figurer	17	1	
+filer		17		
+filer	(filer (partir)	17	8	
+filer	(filer (donner)	17	4	
+filer	(filer (au fuseau)	17	5	
+fruit		17		
+halle		17		
+intérêt		17		
+jeunesse		17		
+maladie		17		
+marchandise		17		
+merveilleux		17		
+merveilleux	merveilleux	17	13	
+merveilleux	merveilleuse	17	4	
+pomme de terre		17		
+possibilité		17		
+prier		17		
+propreté		17		
+quantité		17		
+quatrième		17		
+réduire		17		
+remarquable		17		
+repos		17		
+sale		17		
+sauvage		17		
+siècle		17		
+signe		17		
+sinon		17		
+société		17		
+soulier		17		
+surprendre		17		
+test		17		
+toit		17		
+tout le temps		17		
+troupe		17		
+utiliser		17		
+vallée		17		
+vent		17		
+ventre		17		
+wagon		17		
+administration		16		
+au-dessus		16		
+bal		16		
+bicyclette		16		
+bientôt		16		
+chauffeur		16		
+cheminée		16		
+classique		16		
+classique	(classique (nom.)	16	5	
+classique	(classique (adj.)	16	5	
+commander		16		
+commercial		16		
+commercial	commercial	16	10	
+commercial	commerciaux	16	1	
+conduite		16		
+danse		16		
+débarrasser		16		
+débarrasser	(débarrasser	16	7	
+débarrasser	(se débarrasser	16	5	
+déranger		16		
+déranger	(déranger	16	9	
+déranger	(se déranger	16	6	
+élément		16		
+ennui		16		
+espagnol		16		
+étant donné		16		
+étant donné	(étant donné	16	3	
+étant donné	(étant donné que	16	12	
+exagérer		16		
+fer		16		
+garantir		16		
+idiot		16		
+idiot	idiot	16	12	
+idiot	idiote	16	2	
+jurer		16		
+lac		16		
+lâcher		16		
+logement		16		
+marine	(nom.)	16		
+montagne		16		
+nommer		16		
+novembre		16		
+obtenir		16		
+peau		16		
+piquer		16		
+prétendre		16		
+probablement		16		
+projet		16		
+prouver		16		
+rapprocher		16	1	
+rapprocher	(rapprocher	16	6	
+rapprocher	(se rapprocher	16	4	
+rater		16		
+réfléchir		16		
+régiment		16		
+retour		16		
+rigoler		16		
+salon		16		
+séparer		16		
+séparer	(séparer	16	9	
+séparer	(se séparer	16	3	
+sortie		16		
+soupe		16		
+suffisamment		16		
+supprimer		16		
+t	(euphémique)	16		
+thé		16		
+traîner		16		
+vide		16		
+volonté		16		
+voyager		16		
+abîmer		15		
+achat		15		
+agricole		15		
+allure		15		
+arrivée		15		
+balai		15		
+barre		15		
+bâton		15		
+boutique		15		
+central		15		
+cerise		15		
+clef		15		
+chapeau		15		
+charbon		15		
+chocolat		15		
+climat		15		
+climat	(climat	15	12	
+climat	(climat (figuré)	15	3	
+complet		15		
+concierge		15		
+couler		15		
+couteau		15		
+décor		15		
+découvrir		15		
+dent		15		
+dépasser		15		
+désirer		15		
+diriger		15		
+diriger	(diriger	15	12	
+diriger	(se diriger	15	3	
+drôlement		15		
+effrayant		15		
+effrayant	effrayant	15	14	
+effrayant	effrayante	15	1	
+employé		15		
+énorme		15		
+épingle		15		
+extérieur		15		
+FAUX		15		
+FAUX	FAUX	15	8	
+FAUX	fausse	15	7	
+forcer		15		
+fournir		15		
+frais		15		
+frais	frais	15	14	
+frais	fraîche	15	1	
+gamin		15		
+gamin	gamin	15	10	
+gamin	gamine	15	5	
+grenier		15		
+habituer		15		
+habituer	(habituer	15	9	
+habituer	(s'habituer	15	6	
+importance		15		
+japonais		15		
+japonais	japonais	15	12	
+japonais	japonaise	15	3	
+jeune homme		15		
+kilo		15		
+lecture		15		
+manteau		15		
+mener		15		
+municipalité		15		
+nerveux		15		
+nerveux	nerveux	15	11	
+nerveux	nerveuse	15	4	
+ouais		15		
+pension		15		
+permission		15		
+p.m.u		15		
+poche		15		
+point	(négation)	15		
+pont		15		
+porteur		15		
+publicité		15		
+raccord		15		
+réveiller		15		
+réveiller	(réveiller	15	8	
+réveiller	(se réveiller	15	7	
+scolaire		15		
+sécher		15		
+sécher	(sécher	15	14	
+sécher	(sécher (les cours)	15	1	
+soit ... soit		15		
+soit ... soit	(soit que ... soit que)	15	1	
+solide		15		
+solitude		15		
+sud		15		
+tabac		15		
+tapis		15		
+taxi		15		
+trac		15		
+tribunal		15		
+tribunal	tribunal	15	13	
+tribunal	tribunaux	15	2	
+tuyau		15		
+unique		15		
+voler	(dérober)	15		
+accepter		14		
+ambiance		14		
+approcher		14		
+approcher	(approcher	14	9	
+approcher	(s'approcher	14	5	
+arabe		14		
+arabe	(arabe (nom.)	14	8	
+arabe	(arabe (langue)	14	4	
+arabe	(arabe (adj.)	14	2	
+articuler		14		
+bagnole		14		
+baisser		14		
+ballon		14		
+bande		14		
+base		14		
+bille		14		
+bouche		14		
+boulot		14		
+caisse		14		
+caisse	(caisse (comptabilité (	14	7	
+caisse	(caisse (établissement (de crédit)	14	4	
+caisse	(caisse (emballage)	14	3	
+cave		14		
+chaise		14		
+chemise		14		
+chiffon		14		
+clientèle		14		
+couloir		14		
+courant	(dans : au corant)	14		
+craindre		14		
+crier		14		
+cuir		14		
+depuis que		14		
+dernièrement		14		
+double	(adj.)	14		
+énerver		14		
+énerver	(énerver	14	12	
+énerver	(s'énerver	14	2	
+entier		14		
+entier	entier	14	5	
+entier	entière	14	9	
+examiner		14		
+exprès		14		
+fermier		14		
+garde		14		
+grand-père		14		
+haricot		14		
+immédiatement		14		
+ingénieur		14		
+invention		14		
+juin		14		
+légume		14		
+lumière		14		
+lunettes		14		
+mai		14		
+manger	(nom.)	14		
+marche		14		
+matière		14		
+mignon		14		
+mignon	mignon	14	8	
+mignon	mignonne	14	6	
+mont		14		
+organisation		14		
+origine		14		
+page		14		
+parent		14		
+parent	parent	14	11	
+parent	parente	14	3	
+poésie		14		
+précisément		14		
+raisonnable		14		
+réellement		14		
+régulier		14		
+rejoindre		14		
+réserver		14		
+salle à manger		14		
+sang		14		
+sapin		14		
+serviette		14		
+souci		14		
+spectacle		14		
+sport		14		
+succès		14		
+tendre		14		
+tranche		14		
+vis		14		
+voie		14		
+zéro		14		
+aimable		13		
+aîné		13		
+appliquer		13		
+appliquer	(appliquer	13	11	
+appliquer	(s'appliquer	13	2	
+arrêt		13		
+assurance		13		
+atelier		13		
+autobus		13		
+baisse		13		
+banc		13		
+banlieue		13		
+bêtise		13		
+bizarre		13		
+blé		13		
+breton		13		
+breton	(breton (nom.)	13	5	
+breton	(breton (langue)	13	1	
+breton	(breton (adj.)	13	5	
+breton	(bretonne	13	2	
+brillant		13		
+brillant	(brillant (adj.)	13	10	
+brillant	(brillant (nom.)	13	1	
+brillant	(brillante	13	2	
+chemin de fer		13		
+compagnie		13		
+compagnie	(compagnie (commerciale)	13	10	
+compagnie	(compagnie (tenir)	13	2	
+compagnie	(compagnie (année)	13	1	
+comparaison		13		
+cou		13		
+défaut		13		
+définir		13		
+distraction		13		
+démonstration		13		
+dessin		13		
+douter		13		
+douter	(douter	13	4	
+douter	(se douter	13	9	
+enseignement		13		
+évader	(pronom.)	13		
+examen		13		
+figure		13		
+flanquer		13		
+forêt		13		
+former		13		
+guérir		13		
+habitant		13		
+immeuble		13		
+indispensable		13		
+inspecteur		13		
+latin	(nom et adj.)	13		
+loi		13		
+manche		13		
+moral		13		
+normalement		13		
+notamment		13		
+nourrir		13		
+occupation		13		
+officier opinion		13		
+paire		13		
+pavillon		13		
+pendre		13		
+piano		13		
+plafond		13		
+plier		13		
+plier	(plier	13		
+plier	(se plier	13		
+poêle		13		
+poème		13		
+pratiquement		13		
+prêter		13		
+prêter	(prêter	13	12	
+prêter	(se prêter	13	1	
+principal		13		
+principal	(principal (adj.)	13	9	
+principal	(principal (nom.)	13	3	
+principal	(principaux	13	1	
+propos		13		
+puits		13		
+pur		13		
+queue		13		
+quinzaine		13		
+réel		13		
+réparation		13		
+sauf	(adv.)	13		
+septembre		13		
+série		13		
+supporter		13		
+tempérament		13		
+titre		13		
+traction		13		
+uniforme		13		
+vendeur		13		
+vendeur	(vendeur	13	7	
+vendeur	(vendeuse	13	6	
+version		13		
+activité		12		
+admirer		12		
+aise		12		
+ajouter		12		
+alcool		12		
+aspect		12		
+assiette		12		
+asticot		12		
+attirer		12		
+bas	(vêtement)	12		
+bel		12		
+boche		12		
+brevet		12		
+caractère		12		
+changement		12		
+chanson		12		
+cité		12		
+collection		12		
+commode	(adj.)	12		
+complexe	(nom.)	12		
+contrat		12		
+courant		12		
+courant	courant	12	8	
+courant	courante	12	4	
+dactylo	(personne et dactylographe)	12		
+degré		12		
+désagréable		12		
+direction	(route)	12		
+disparaître		12		
+doubler		12		
+écrouler		12		
+électricité		12		
+endormir		12		
+endormir	(endormir	12	8	
+endormir	(s'endormir	12	4	
+entièrement		12		
+établir		12		
+établir	(établir	12	10	
+établir	(s'établir	12	2	
+éviter		12		
+exprimer		12		
+exprimer	(exprimer	12	4	
+exprimer	(s'exprimer	12	8	
+fantastique		12		
+feutre		12		
+frais		12		
+goûter		12		
+goûter	(goûter (transitif)	12	11	
+goûter	(goûter (intransitif)	12	1	
+gouvernement		12		
+gris		12		
+gris	gris	12	9	
+gris	grise	12	3	
+janvier		12		
+lampe		12		
+liberté		12		
+littéraire		12		
+machiner		12		
+maire		12		
+marin		12		
+matériel		12		
+mentalité		12		
+misère		12		
+mordre		12		
+neveu		12		
+noeud		12		
+nourriture		12		
+os		12		
+os	(os (sing.)	12	3	
+os	(os (plur.)	12	9	
+pardessus		12		
+patte		12		
+pire		12		
+plage		12		
+planter		12		
+planter	(planter	12	11	
+planter	(se planter	12	1	
+poterie		12		
+premièrement		12		
+preuve		12		
+propriété		12		
+racine		12		
+rapidement		12		
+réalité		12		
+réchauffer		12		
+réchauffer	(réchauffer	12	6	
+réchauffer	(se réchauffer	12	6	
+réclamer		12		
+régime		12		
+régler		12		
+rembourser		12		
+renvoyer		12		
+réunir		12		
+réunir		12		
+réunir	(réunir	12	9	
+réunir	(se réunir	12	3	
+rouleau		12		
+savant		12		
+savant	savant	12	1	
+savant	savante	12	5	
+sixième		12		
+tâcher		12		
+taille		12		
+taire		12		
+taire	(taire	12	3	
+taire	(se taire	12	9	
+tasse		12		
+température		12		
+ton	(nom.)	12		
+touriste		12		
+tracteur		12		
+traiter		12		
+vapeur		12		
+villa		12		
+vocation		12		
+voleur		12		
+voleur	voleur	12	11	
+voleur	voleuse	12	1	
+adapter		11		
+adapter	(adapter	11	5	
+adapter	(s'adapter	11	6	
+adorer		11		
+aile		11		
+amateur		11		
+anormal		11		
+anormal	anormal	11	3	
+anormal	anormaux	11	3	
+auprès		11		
+auquel		11		
+automatiquement		11		
+avantage		11		
+avril		11		
+bibliothèque		11		
+bocal		11		
+bocal	bocal	11	9	
+bocal	bocaux	11	2	
+boucher	(verbe.)	11		
+boule		11		
+boule	(boule	11	6	
+boule	(boule (pomme d'adan)	11	2	
+boule	(boule (de pain)	11	1	
+boule	(boule (se mettre)	11	2	
+cadre		11		
+cadre	(cadre (menuiserie,etc	11	5	
+cadre	(cadre (personnel)	11	6	
+cahier		11		
+civil		11		
+coiffure		11		
+conseil		11		
+constater		11		
+contenir		11		
+couverture		11		
+dégoûter		11		
+démarrer		11		
+détail		11		
+dizaine		11		
+domicile		11		
+dommage		11		
+éclairer		11		
+économe		11		
+électricien		11		
+enfermer		11		
+enfermer	(enfermer	11	9	
+enfermer	(s'enfermer	11	2	
+enregistrement		11		
+enseigner		11		
+être	(nom.)	11		
+excuser		11		
+excuser	(excuser	11	5	
+excuser	(s'excuser	11	6	
+fin		11		
+fin	fin	11	7	
+fin	fine	11	4	
+fonctionner		11		
+furieux		11		
+furieux	furieux	11	4	
+furieux	furieuse	11	7	
+gifle		11		
+glisser		11		
+glisser	(glisser	11	5	
+glisser	(se glisser	11	6	
+goutte		11		
+gronder		11		
+grossier		11		
+grossier	(grossier	11	9	
+grossier	(grossière	11	2	
+guère		11		
+illustre		11		
+imposer		11		
+imposer	(s'imposer	11	7	
+imposer	(imposer	11	4	
+inscrire		11		
+inscrire	(inscrire	11	7	
+inscrire	(s'inscrire	11	4	
+interdire		11		
+inutile		11		
+kirsch		11		
+léger		11		
+léger	léger	11	6	
+léger	légère	11	5	
+liste		11		
+malheur		11		
+manche		11		
+manque		11		
+méchant		11		
+méchant	méchant	11	5	
+méchant	méchante	11	6	
+médaille		11		
+mercredi		11		
+munir		11		
+nature		11		
+nôtre	(le)	11		
+ouverture		11		
+poids		11		
+populaire		11		
+population		11		
+poste	(p.t.t.)	11		
+poudre		11		
+poupée		11		
+printemps		11		
+privé		11		
+privé	(privé (nom.)	11	2	
+privé	(privé (adj.)	11	9	
+procès		11		
+psychiatre		11		
+quoique		11		
+rang		11		
+rapide	(nom. et adj.)	11		
+renseigner		11		
+renseigner	(renseigner	11	5	
+renseigner	(se renseigner	11	6	
+remplir		11		
+ressortir		11		
+roi		11		
+seau		11		
+secret		11		
+secrétaire		11		
+sentiment		11		
+shampoing		11		
+signer		11		
+silence		11		
+souhaiter		11		
+spirite		11		
+style		11		
+suffisant		11		
+suffisant	suffisant	11	8	
+suffisant	suffisante	11	3	
+taxe		11		
+trajet		11		
+transformer		11		
+transformer	(transformer	11	10	
+transformer	(se transformer	11	1	
+usage		11		
+vache		11		
+viande		11		
+vider		11		
+violon		11		
+accorder		10		
+accorder	(accorder	10	7	
+accorder	(s'accorder	10	3	
+accueillir		10		
+attaquer		10		
+attaquer	(attaquer	10	8	
+attaquer	(s'attaquer	10	2	
+atteindre		10		
+automobile		10		
+avertir		10		
+baron		10		
+baron	baron	10	2	
+baron	baronne	10	8	
+bigre !		10		
+boucher	(nom.)	10		
+bouton		10		
+bouton	(bouton (vêtement)	10	5	
+bouton	(bouton (mécanique)	10	4	
+bouton	(bouton (pathologie)	10	1	
+bricoler		10		
+brosse		10		
+cabine		10		
+cadeau		10		
+cantine	(restaurant)	10		
+carrément		10		
+caserne		10		
+chanteur		10		
+chasser		10		
+cheftaine		10		
+ciel		10		
+cireuse		10		
+cloche		10		
+cochon		10		
+colère		10		
+collègue		10		
+comédie		10		
+communiste		10		
+communiste	(nom.)	10	5	
+communiste	(adj.)	10	5	
+composition		10		
+concevoir		10		
+consacrer		10		
+contrôler		10		
+corde		10		
+coton		10		
+coupe		10		
+coupe	(coupe (en forêt)	10	5	
+coupe	(coupe (schéma)	10	1	
+coupe	(coupe (échantillon de tissu	10	3	
+coupe	(coupe (verre)	10	1	
+critiquer		10		
+cuire		10		
+dentiste		10		
+dépôt	(magasin, chemnin de fer. etc.)	10		
+développer		10		
+développer	(développer	10	6	
+développer	(se développer	10	4	
+disposer		10		
+économie		10		
+effectivement		10		
+embarquer		10		
+embarquer	(embarquer	10	7	
+embarquer	(s'embarquer	10	3	
+entraîner		10		
+entraîner	(entraîner	10	9	
+entraîner	(s'entraîner	10	1	
+entretien		10		
+exposition		10		
+fabriquer		10		
+fonctionnaire		10		
+franchement		10		
+gai		10		
+gâteau		10		
+geler	(et "se geler")	10		
+hauteur		10		
+herbe		10		
+impeccable		10		
+incroyable		10		
+inspection		10		
+jugement		10		
+juger		10		
+lessive		10		
+marque		10		
+mars		10		
+matinée		10		
+ministre		10		
+minuit		10		
+moule		10		
+moulin		10		
+nettement		10		
+niveau		10		
+nu		10		
+ombre		10		
+or	(conjonction)	10		
+oreiller		10		
+oriental		10		
+oriental	oriental	10	4	
+oriental	orientaux	10	6	
+ours		10		
+pantalon		10		
+pâte		10		
+patelin		10		
+peintre		10		
+pénétrer		10		
+pharmacien		10		
+pharmacien	pharmacien	10	9	
+pharmacien	pharmacienne	10	1	
+pion		10		
+pis	(comparatif)	10		
+plaque		10		
+plomb		10		
+poireaux		10		
+port		10		
+position		10		
+préparation		10		
+pronostic		10		
+redescendre		10		
+régulièrement		10		
+reliure		10		
+répétition		10		
+réponse		10		
+réunion		10		
+rêve		10		
+rêver		10		
+roue		10		
+rouspéter		10		
+satisfaire		10		
+science		10		
+scientifique		10		
+séjour		10		
+signaler		10		
+spécialiser		10		
+station		10		
+supplémentaire		10		
+terme		10		
+théâtral		10		
+tonnerre		10		
+traitement		10		
+valable		10		
+vêtements		10		
+vexer		10		
+vivant		10		
+vivant	vivant	10	8	
+vivant	vivante	10	2	
+vôtre		10		
+académie		9		
+accessoire	(nom.)	9		
+acteur		9		
+acteur	acteur	9	8	
+acteur	actrice	9	1	
+affiche		9		
+affoler		9		
+affoler	(affoler	9	3	
+affoler	(affoler	9	9	
+appuyer		9		
+assister		9		
+bac	(baccalauréat)	9		
+baignoire		9		
+bagarre		9		
+beau	(avoir...)	9		
+bénéfice		9		
+bifteck		9	5	
+bistrot		9		
+bonsoir		9		
+boucle		9		
+boucle	(boucle (technique)	9	4	
+boucle	(boucle (de cheveux)	9	4	
+boucle	(boucle (ornement)	9	1	
+calcul		9		
+canadien		9		
+canadien	(canadien (nom.)	9	5	
+canadien	(canadien (adj.)	9	2	
+canadien	(canadienne (adj.)	9	2	
+capitaine		9		
+carré		9		
+carré	(carré (nom.)	9	3	
+carré	(carré (adj.)	9	6	
+cependant		9		
+certificat		9		
+chantier		9		
+charge		9		
+charretier		9		
+charretier	(charretier (nom.)	9	8	
+chasseur		9		
+chasseur	(chasseur (de gibier	9	2	
+chasseur	(chasseur (soldat)	9	2	
+chasseur	(chasseur (groom)	9	3	
+chasseur	(chasseur (avion)	9	2	
+chômage		9		
+circuit		9		
+circuler		9		
+coiffer		9		
+col	(montagne)	9		
+collège		9		
+commission		9		
+commission	(assemblée	9	3	
+commission	(bénéfice	9	3	
+commission	(course	9	3	
+comparer		9		
+composer		9		
+composer	(composer	9	7	
+composer	(se composer de	9	2	
+comptable		9		
+conception		9		
+conducteur		9		
+conférence		9		
+consister		9		
+corsage		9		
+coude		9		
+coude	(coude à coude	9	1	
+coude	(objet cousé	9	6	
+coude	(sens propre (anat	9	2	
+cravate		9		
+crochet		9		
+crochet	(outil	9	7	
+crochet	(itinéraire	9	1	
+crochet	(vivre aux crochets	9		
+crochet	(de	9	1	
+cuisinière	(fourneau)	9		
+culotte		9		
+dame !		9		
+debout		9		
+déchirer		9		
+déchirer	(déchirer	9	7	
+déchirer	(se déchirer	9	2	
+démolir		9		
+dictionnaire		9		
+diminuer		9		
+doux		9		
+doux	doux	9	5	
+doux	douce	9	4	
+duo		9		
+éclairage		9		
+élémentaire		9		
+enquête		9		
+envisager		9		
+épouser		9		
+étendre		9		
+étendre	(étendre	9	8	
+étendre	(s'étendre	9	1	
+étouffer		9		
+étroit		9		
+étroit	étroit	9	2	
+étroit	étroite	9	7	
+existence		9		
+exploitation		9		
+fabrique		9		
+facteur		9		
+faible		9		
+fêter		9		
+fiancé		9		
+fièvre		9		
+foire		9		
+fragile		9		
+frite	(nom.)	9		
+géographie		9		
+hectare		9		
+héros		9		
+ignorer		9		
+inconvénient		9		
+individu		9		
+inouï		9		
+intellectuel		9		
+intellectuel	(intellectuel (adj	9	3	
+intellectuel	(intellectuel (nom	9	2	
+intellectuel	(intellectuelle (nom	9	4	
+jambon		9		
+joie		9		
+jouet		9		
+jupe		9		
+justice		9		
+lecteur		9		
+lecteur	lecteur	9	8	
+lecteur	lectrice	9	1	
+lesquels	(et lesquelles	9		
+liaison		9		
+licence		9		
+limite		9		
+lion		9		
+lion	lion	9	8	
+lion	lionne	9	1	
+littérature		9		
+lyrique		9		
+malin		9		
+malle		9		
+maximum		9		
+mériter		9		
+mode		9		
+modèle		9		
+moine		9		
+monnaie		9		
+moquer	(pronom.)	9		
+moquer	(se moquer	9	5	
+moquer	(s'en moquer	9	4	
+mouiller		9		
+nerf		9		
+nettoyage		9		
+nièce		9		
+noce		9		
+noter		9		
+oreille		9		
+orgueil		9		
+panier		9		
+paroisse		9		
+parti		9		
+partir	(à .. de)	9		
+paysage		9		
+phénomène		9		
+plancher		9		
+poignée		9		
+poil		9		
+poil	(poil	9	5	
+poil	(au poil	9	4	
+pompe		9		
+pompe	(pompe	9	8	
+pompe	(à toute pompe	9	1	
+pot		9		
+poumon		9		
+précis		9		
+précis	précis	9	7	
+précis	précise	9	2	
+presser		9		
+presser	(presser	9	6	
+presser	(se presser	9	3	
+prime		9		
+principalement		9		
+professionnel		9		
+quoi que		9		
+radiant		9		
+rameau		9		
+réaction		9		
+reconstruire		9		
+regard		9		
+relever		9		
+relever	(relever	9	7	
+relever	(se relever	9	2	
+remarier	(pronom.)	9		
+rendez-vous		9		
+renverser		9		
+ressort		9		
+sage		9		
+salade		9		
+sandwich		9		
+sévère		9		
+siège		9		
+solution		9		
+sonnet		9		
+sonner		9		
+souple		9		
+sourire	(verbe.)	9		
+sténo		9		
+tâche		9		
+tare		9		
+téléphérique		9		
+télévision		9		
+tonneau		9		
+totalement		9		
+tourisme		9		
+touristique		9		
+tube		9		
+usuel		9		
+verser		9		
+veuf		9		
+veuf		9		
+veuf	veuf	9	3	
+veuf	veuve	9	6	
+vingtaine		9		
+visage		9		
+vocabulaire		9		
+vocal		9		
+vocal	vocaux	9	1	
+vocal	vocal	9	8	
+vol		9		
+vol	(vol (larcin)	9	5	
+vol	(vol (aviation)	9	4	
+volet		9		
+volume		9		
+volume	(volume (livre)	9	8	
+volume	(volume (géométrie)	9	1	
+abandonner		8		
+adresse	(souscription)	8		
+agent		8		
+allumette		8		
+appel		8		
+assistant		8		
+assistant	assistant	8	3	
+assistant	assistante	8	5	
+atmosphère		8		
+attitude		8		
+auberge	(de jeunesse)	8		
+aussi bien		8		
+baguette		8		
+balader		8		
+balader	(balader	8	4	
+balader	(se balader	8	4	
+ballet		8		
+barque		8		
+bâtir		8		
+beignet		8		
+bon	(nom.)	8		
+bourgeois		8		
+bourgeois	(bourgeois (nom.)	8	5	
+bourgeois	(bourgeois (adj.)	8	2	
+bourgeois	(bourgeoise (nom.)	8	1	
+bourse		8		
+bourse	(bourse (universitaire	8	5	
+bourse	(bourse (porte-monnaie)	8	2	
+bourse	(bourse du travail	8	1	
+brun		8		
+brun	brun 	8	3	
+brun	brune	8	5	
+bus	(autobus)	8		
+but		8		
+butte		8		
+calculer		8		
+camping		8		
+cargo		8		
+catin	(poupée, patois du berry)	8		
+celle-ci		8		
+centaine		8		
+chic		8		
+circulation		8		
+claquer		8		
+claquer	(claquer (éclater, se casser	8	5	
+claquer	(claquer (mourir)	8	1	
+claquer	(claquer (donner une claque)	8	1	
+cloison		8		
+commerçant		8		
+commissariat		8		
+commun		8		
+commun	commun	8	3	
+commun	commune	8	5	
+confort		8		
+congé		8		
+conseiller		8		
+conserve		8		
+conserver		8		
+construction		8		
+contenter	(pronom.)	8		
+convenir		8		
+copie		8		
+copie	(copie (imitation, reproduction)	8	2	
+copie	(copie (devoir)	8	6	
+costume		8		
+courrier		8		
+crayon		8		
+culot		8		
+cultiver		8		
+cultiver	(cultiver	8	4	
+cultiver	(se cultiver	8	4	
+dahu		8		
+danger		8		
+dépense		8		
+déposer		8		
+détendre		8		
+détendre	(détendre	8	4	
+détendre	(se détendre	8	4	
+détente		8		
+difficulté		8		
+disposition		8		
+distraire		8		
+doué		8		
+droit	(adj.)	8		
+droit	droit	8	4	
+droit	droite	8	4	
+duodénum		8		
+échanger		8		
+échapper		8		
+échapper	(échapper	8	6	
+échapper	(s'échapper	8	1	
+entourer		8		
+épée		8		
+épouvantable		8		
+essuyer		8		
+essuyer	(essuyer 	8	6	
+essuyer	(s'essuyer	8	2	
+étoffe		8		
+fâcher		8		
+fâcher	(fâcher	8	4	
+fâcher	(se fâcher	8	4	
+fauteuil		8		
+ficelle		8		
+fixer		8		
+fonction		8		
+formule		8		
+fosse		8		
+fouiller		8		
+fouiller	(fouiller	8	6	
+fouiller	(se fouiller	8	2	
+foule		8		
+fou-rire		8		
+fréquenter		8		
+fruitier		8		
+fruitier	(fruitier (verger)	8	1	
+fruitier	(fruitier (marchand	8	4	
+fruitier	(fruitière	8	3	
+fromage		8		
+fumier		8		
+appendicite		8		
+gendarmerie		8		
+génération		8		
+glace		8		
+glace	(entremet, dessert)	8		
+grimper		8		
+grimper	(grimper	8	7	
+grimper	(se grimper	8	1	
+habitation		8		
+hésiter		8		
+honte		8		
+horreur		8		
+idéal		8		
+immense		8		
+importe	(n'importe lequel,n'importe où)	8		
+incapable		8		
+industriel		8		
+infernal		8		
+inimaginable		8		
+inquiet		8		
+inquiet	inquiet	8	6	
+inquiet	inquiète	8	2	
+institut		8		
+longueur		8		
+luxe		8		
+mairie		8		
+mannequin		8		
+matelas		8		
+mélanger		8		
+ménagère		8		
+milliard		8		
+minimum		8		
+moindre		8		
+mouiller		8		
+moyenne	(nom.)	8		
+musicien		8		
+naissance		8		
+neiger		8		
+nul		8		
+oignon		8		
+ordonnance		8		
+panneau		8		
+pare		8		
+partager		8		
+pâté		8		
+pêcher		8		
+peindre		8		
+personnellement		8		
+pianiste		8		
+pierre		8		
+poli		8		
+posséder		8		
+poursuivre		8		
+préfecture		8		
+primaire		8		
+procurer		8		
+profondeur		8		
+prononciation		8		
+propre	(propriété)	8		
+psychotechnicien		8		
+psychotechnicien	psychotechnicien	8	1	
+psychotechnicien	psychotechnicienne	8	7	
+quant		8		
+quelconque		8		
+relation		8		
+religion		8		
+représentant		8		
+représentation		8		
+reprocher		8		
+reprocher	(reprocher	8	1	
+reprocher	(se reprocher	8	7	
+respirer		8		
+responsabilité		8		
+retaper		8		
+retaper	(retaper	8	6	
+retaper	(se retaper	8	2	
+réveillon		8		
+revue		8		
+revue	(revue (théâtre)	8	1	
+revue	(revue (terme militaire)	8	2	
+revue	(revue (périodique)	8	5	
+rigolo		8		
+rue	(nom.)	8		
+risque		8		
+rural		8		
+sacrifier		8		
+salir		8		
+salir	(salir	8	4	
+salir	(se salir	8	4	
+saluer		8		
+salut		8		
+satisfaction		8		
+sécurité		8		
+seigneur		8		
+septième		8		
+sketch		8		
+s.n.c.f.		8		
+soi-disant		8		
+soif		8		
+son	(nom.)	8		
+soulever		8		
+sous-	(mot composé)	8		
+sous-	(sous-clé	8	1	
+sous-	(sous-directeur	8	1	
+sous-	(sous-lieutenant	8	2	
+sous-	(sous-marin	8	1	
+sous-	(sous-sol	8	1	
+sous-	(sous-préfecture	8	1	
+sous-	(sous-titre	8	1	
+spécialement		8		
+spécialiste		8		
+spécialité		8		
+susceptible		8		
+tâche		8		
+technicien		8		
+tenter		8		
+terrasse		8		
+thème		8		
+toile		8		
+tonton		8		
+tort		8		
+total		8		
+tranquillement		8		
+tronc		8		
+trottoir		8		
+tuberculeux		8		
+tuberculeux	tuberculeux	8	7	
+tuberculeux	tuberculeuse	8	1	
+tueur		8		
+utile		8		
+valise		8		
+varier		8		
+vilain		8		
+vilain	vilain	8	6	
+vilain	vilaine	8	2	
+violet		8		
+acheteur		7		
+acte		7		
+acier		7		
+aide	(nom. fém.)	7		
+alentour		7		
+allo		7		
+amitié		7		
+ampoule	(lampe)	7		
+analyse		7		
+annoncer		7		
+appendice		7		
+apprentissage		7		
+armoire		7		
+artistique		7		
+aussitôt		7		
+autocar		7		
+antenne		7		
+avaler		7		
+bah !		7		
+banal		7		
+banquier		7		
+bas	(de haut)	7		
+bavarder		7		
+beau-père		7		
+berceuse		7		
+berrichon		7		
+berrichon	(berrichon (nom.)	7	1	
+berrichon	(berrichon (patois)	7	2	
+berrichon	(berrichon (adj.)	7	1	
+berrichon	(berrichonne (adj.)	7	3	
+bijou		7		
+bled		7		
+blesser		7		
+bobine		7		
+bol		7		
+bonbon		7		
+bonheur		7		
+brancher		7		
+buffet		7		
+buffet	(buffet (meuble)	7	5	
+buffet	(buffet (restaurant)	7	1	
+buffet	(buffet (argot)	7	1	
+calme		7		
+calme	(calme (nom.)	7	1	
+calme	(calme (adj.)	7	6	
+calmer		7		
+camembert		7		
+capital	(nom.)	7		
+capital	capital	7	1	
+capital	capitaux	7	6	
+caractéristique	(nom. et adj.)	7		
+carpette		7		
+cartable		7		
+castor		7		
+cause		7		
+cendre		7		
+champion		7		
+champion	champion	7	6	
+champion	championne	7	1	
+charme		7		
+chirurgien		7		
+choc		7		
+citer		7		
+civilisation		7		
+claque	(gifle)	7		
+clinique		7		
+clinique	(clinique (nom.)	7	5	
+clinique	(clinique (adj.)	7	2	
+clou		7		
+comptabilité		7		
+concerner		7		
+confortable		7		
+consolent		7		
+contravention		7		
+correct		7		
+correct	correct	7	2	
+correct	correcte	7	5	
+corvée		7		
+courage		7		
+couture		7		
+couvert		7		
+création		7		
+créole		7		
+créole	(créole (nom.)	7	4	
+créole	(créole (adj.)	7	3	
+cuiller		7		
+cylindre		7		
+dangereux		7		
+dangereux	dangereux	7	6	
+dangereux	dangereuse	7	1	
+dater		7		
+débarquer		7		
+décharger		7		
+déclarer		7		
+décrire		7		
+demande		7		
+déménager		7		
+demoiselle		7		
+dépoussiérer		7		
+diable		7		
+discours		7		
+distance		7		
+diviser		7		
+dortoir		7		
+échelle		7		
+éclair		7		
+éclater		7		
+écraser		7		
+éditeur		7		
+édition		7		
+emballer		7		
+émotion		7		
+enchanter		7		
+équiper		7		
+escale		7		
+entendu		7		
+excuse		7		
+expert	(nom et adj.)	7		
+facilité		7		
+fatigue		7		
+faubourg		7		
+fier		7		
+flic		7		
+fonds	(argent)	7		
+formation		7		
+fortune		7		
+foulard		7		
+futur		7		
+gâter		7		
+gênant		7		
+gênant	gênant	7	6	
+gênant	gênante	7	1	
+gérance		7		
+geste		7		
+gilet		7		
+grâce		7		
+graisse		7		
+grands-parents		7		
+gruyère		7		
+guichet		7		
+héritier		7		
+héritier	héritier	7		
+héritier	héritière	7		
+historique		7		
+honneur		7		
+hygiène		7		
+inconscient		7		
+industrie		7		
+interprète		7		
+intervenir		7		
+invraisemblable		7		
+lavabo		7		
+légèrement		7		
+levier		7		
+libération		7		
+liqueur		7		
+livrer		7		
+livrer	(livrer	7	6	
+livrer	(se livrer	7	1	
+maigre		7		
+mare		7		
+marron		7		
+mécanicien		7		
+médical		7		
+mélange		7		
+mémé		7		
+merde		7		
+messe		7		
+mince		7		
+mobilier		7		
+moche		7		
+moniteur		7		
+moniteur	moniteur	7	1	
+moniteur	monitrice	7	6	
+muscle		7		
+négociant		7		
+nègre		7		
+nègre	nègre	7	6	
+nègre	négresse	7	1	
+net		7		
+net	net	7	6	
+net	nette	7	1	
+observer		7		
+omelette		7		
+orthographe		7		
+paix		7		
+parfois		7		
+passé	(nom.)	7		
+patience		7		
+penderie		7		
+perfection		7		
+permanent		7		
+permanent	permanent	7	3	
+permanent	permanente	7	4	
+permis		7		
+persuader		7		
+penser		7		
+phare		7		
+physique		7		
+physique	(physique (nom.)	7	5	
+physique	(physique (adj.)	7	2	
+pitié		7		
+pittoresque		7		
+poète		7		
+portière		7		
+potable		7		
+pourvu que		7		
+précédent		7		
+précédent	précédent	7	3	
+précédent	précédente	7	4	
+présence		7		
+présent	(adj.)	7		
+prisonnier		7		
+procédé		7		
+proche		7		
+production		7		
+progrès		7		
+proprement		7		
+psychologie		7		
+publicitaire		7		
+punir		7		
+quille		7		
+racheter		7		
+rattraper		7		
+rattraper	(rattraper	7	5	
+rattraper	(se rattraper	7	2	
+réagir		7		
+rechercher		7		
+réciter		7		
+récolter		7		
+récupérer		7		
+redonner		7		
+remise		7		
+remorque		7		
+remuer		7		
+remuer	(remuer	7	5	
+remuer	(se remuer	7	2	
+renne		7		
+répertoire		7		
+réservoir		7		
+responsable		7		
+ressentir		7		
+ressentir	(ressentir	7	5	
+ressentir	(se ressentir	7	2	
+rideau		7		
+ridicule		7		
+rond	(argent)	7		
+sachet		7		
+sans que		7		
+secours		7		
+sergent		7		
+serrer		7		
+sien		7		
+sien	sien	7	3	
+sien	sienne	7	4	
+sieste		7		
+s'il vous plait		7		
+soin		7		
+songer		7		
+soufflerie		7		
+studio		7		
+surprise		7		
+taille-crayon		7		
+tailler		7		
+ténor		7		
+terriblement		7		
+territoire		7		
+thèse		7		
+ticket		7		
+timide		7		
+tonne		7		
+travailleur		7		
+travailleur	travailleur	7	6	
+travailleur	travailleuse	7	1	
+tremper		7		
+trimestre		7		
+troll		7		
+turbine		7		
+vaisselle		7		
+veau		7		
+vedette		7		
+victime		7		
+vis à vis		7		
+vivres	(nom	7		
+voyageur		7		
+waters		7		
+accord		6		
+achever		6		
+âgé		6		
+aigu		6		
+aller	(nom.)	6		
+âne		6		
+angle		6		
+anniversaire		6		
+antipathique		6		
+appétit		6		
+applaudir		6		
+apprécier		6		
+approuver		6		
+ardoise		6		
+arme		6		
+arraché	(nom textile)	6		
+arrière-grand-tante		1		
+arrière-grands-parents		1		
+arrière-arrière-grands-parents		2		
+arrière-petits-enfants		1		
+arrière-petit-neveu		1		
+arrondissement		6		
+articulation		6		
+aspirateur		6		
+augmentation		6		
+automatique		6		
+autorité		6		
+autorité	(autorité (pouvoirs)	6	4	
+autorité	(autorité (qualité morale) 	6	2	
+baratin		6		
+barrage		6		
+barrière		6		
+baser	(pronom.)	6		
+batteuse	(machine agricole)	6		
+bazar		6		
+beauté		6		
+belge		6		
+belge	(nom.)	6	1	
+belge	(adj.)	6	5	
+bicycle		6		
+bougie		6		
+à bout de		6	2	
+jusqu'au bout		6	3	
+bout à bout		6	1	
+caméra		6		
+cancer		6		
+carmélite		6		
+carnet		6		
+carotte		6		
+carrelet		6		
+carter		6		
+catalogue		6		
+catastrophe		6		
+catholique		6		
+catholique	(nom.)	6	2	
+catholique	(adj.)	6	3	
+catholique	(dans : pas très (catholique	6	1	
+certain	(sûr)	6		
+classer		6		
+commentaire		6		
+commis		6		
+commis	commis	6	5	
+commis	commise	6	1	
+commissionnaire		6		
+copier		6		
+communication		6		
+compartiment		6		
+compliment		6		
+compte-rendu		6		
+comptoir		6		
+conclusion		6		
+concurrence		6		
+cerveau		6		
+chéri		6		
+chique		6		
+cimetière		6		
+cinquantaine		6		
+cire		6		
+classement		6		
+club		6	3	
+colonne		6		
+colonne	(architecture	6	4	
+colonne	(armée	6	2	
+commande		6		
+constamment		6		
+contre-espionnage		6		
+contrôle		6		
+convenable		6		
+corne		6		
+correctement		6		
+correspondance		6		
+couple		6		
+croûte		6		
+cube		6		
+cube	(objet	6	2	
+cube	(mesure	6	4	
+curiste		6		
+débarquement		6		
+découper		6		
+définition		6		
+dégager		6		
+dégager	(dégager	6	5	
+dégager	(se dégager	6	1	
+délégué	(nom.)	6		
+déshérité		6		
+diction		6		
+discussion		6		
+dispensaire		6		
+dominer		6		
+doucement		6		
+douer		6		
+dresser		6		
+dresser	(dresser	6	5	
+dresser	(se dresser	6	1	
+durant		6		
+écarter		6		
+effectuer		6		
+emballage		6		
+émouvoir		6		
+encourager		6		
+étrange		6		
+exceptionnel		6		
+exiger		6		
+extrême		6		
+faillir		6	1	
+faillir	(faillir	6	5	
+faillir	(faillir à	6	1	
+fantôme		6		
+fatigant		6		
+fatigant	fatigant	6	5	
+fatigant	fatigante	6	1	
+faucher		6		
+faucher	(faucher (voler)	6	4	
+faucher	(être fauché (sans argent)	6	2	
+feuille	(papier)	6		
+fiche		6		
+fidèle		6		
+fixe	(nom et adj.)	6		
+fonder		6		
+fonder	(fonder	6	5	
+fonder	(se fonder	6	1	
+fontaine		6		
+fouille		6		
+frein		6		
+fréquemment		6		
+frotter		6		
+fusil		6		
+gabardine		6		
+gagnant	(nom.)	6		
+géographique		6		
+glacer		6		
+gras		6		
+grec		6		
+grec	(langue	6	4	
+grec	(adj	6	2	
+grossièreté		6		
+honnête		6		
+honteux		6		
+honteux		6		
+honteux	honteux	6	4	
+honteux	honteuse	6	2	
+hors		6		
+humain	(adj.)	6		
+imbécile		6		
+importer	(impersonnel)	6		
+impôt		6		
+indien		6		
+indien	indien	6	5	
+indien	indienne	6	1	
+indiscret		6		
+indiscret	indiscret	6	5	
+indiscret	indiscrète	6	1	
+inscription		6		
+insister		6		
+inspirer		6		
+inspirer	(inspirer	6	4	
+inspirer	(s'inspirer	6	2	
+instructif		6		
+instructif	instructif	6	3	
+instructif	instructive	6	3	
+instrument		6		
+interroger		6		
+intestins		6		
+inverse		6		
+je ne sais quoi		6		
+kermesse		6		
+larme		6		
+libérer		6		
+libérer	(libérer	6	5	
+libérer	(se libérer	6	1	
+lire	(monnaie)	6		
+lis		6		
+livraison		6		
+locataire		6		
+maigrir		6		
+maintenir		6		
+manifestation		6		
+manifester		6		
+marraine		6		
+massif		6		
+méfier	(pronom.)	6		
+mêler		6		
+mêler	(mêler	6	3	
+mêler	(se mêler	6	3	
+mensonge		6		
+mention		6		
+mentir		6		
+menu		6		
+métal		6		
+méthode		6		
+mil		6		
+millier		6		
+mise		6		
+montre		6		
+mouche		6		
+mouette		6		
+nef		6		
+nulle part		6		
+nylon		6		
+obus		6		
+odeur		6		
+oiseau		6		
+onde		6		
+orchestre		6		
+organe		6		
+outil		6		
+papeterie		6		
+pardi		6		
+passionner		6		
+peiner		6		
+pendant	(adj.)	6		
+pente		6		
+personnalité		6		
+perte		6		
+peuple		6		
+pinceau		6		
+pipe		6		
+piston		6		
+placard		6		
+planquer		6		
+planquer	(planquer	6	3	
+planquer	(se planquer	6	3	
+pois		6		
+pondre		6		
+pratiquer		6		
+pratiquer	(pratiquer	6	5	
+pratiquer	(se pratiquer	6	1	
+prière		6		
+prise		6		
+profondément		6		
+proportion		6		
+provenir		6		
+provincial	(adj.)	6		
+proximité		6		
+psychiatrique		6		
+quatorzième		6		
+qui c'est qui ?		6		
+qui est-ce qui ?		6		
+radiateur		6		
+ragoût		6		
+ranger		6		
+rassembler		6		
+rassembler	(rassembler	6	5	
+rassembler	(se rassembler	6	1	
+ration		6		
+réchaud		6		
+réclame		6		
+redresser		6		
+redresser	(redresser	6	3	
+redresser	(se redresser	6	3	
+réfectoire		6		
+règle		6		
+reine		6		
+relativement		6		
+relier		6		
+renier		6		
+république		6		
+résistance		6		
+résumé		6		
+revendeur		6		
+rivière		6		
+roulant		6		
+roulant	roulant	6	5	
+roulant	roulante	6	1	
+roulement		6		
+sacré		6		
+saint		6		
+saint	saint	6	2	
+saint	sainte	6	4	
+séchoir		6		
+sensible		6		
+signifier		6		
+ski		6		
+sol		6		
+souper		6		
+splendide		6		
+subventionner		6		
+sucre		6		
+tantôt		6		
+tarif		6		
+théorie		6		
+timbre		6		
+tournée		6		
+trafic		6		
+tribu		6		
+troubler		6		
+troubler	(troubler	6	5	
+troubler	(se troubler	6	1	
+t.s.f		6		
+utilisation		6		
+vase	(masc.)	6		
+vaste		6		
+veste		6		
+vidanger		6		
+vieil		6		
+vieillir		6		
+vitre		6		
+volant	(mécanique)	6		
+abattre		5		
+abuser action		5		
+adaptation		5		
+adverbe		5		
+afficher		5		
+allée	(nom.)	5		
+améliorer		5		
+améliorer	(améliorer	5	3	
+améliorer	(s'améliorer	5	2	
+anorak		5		
+antenne		5		
+antiquaire		5		
+apparaître		5		
+apprenti		5		
+architecte		5		
+assommer		5		
+astuce		5		
+audition		5		
+avant-guerre		5		
+bachot		5		
+bâfrer		5		
+balancer		5		
+balayer		5		
+bataille		5		
+bec		5		
+berger		5		
+berger	berger	5	3	
+berger	bergère	5	2	
+bloquer		5		
+bombardement		5		
+bondir		5		
+boniment		5		
+bouchon		5		
+bouillotte		5		
+bouquet		5		
+bouquet	(bouquet de fleurs	5	1	
+bouquet	(c'est le bouquet	5	1	
+bouquet	(outil de bûcheron [savoie])	5	1	
+branche		5		
+branche	(arbre	5	2	
+branche	(figuré	5	3	
+bref	(adj.)	5		
+bref	bref	5	1	
+bref	brève	5	4	
+briller		5		
+brosser		5		
+brouiller		5		
+brouillon		5		
+brouillon	(adj.)	5	2	
+brouillon	(nom.)	5	3	
+brusquement		5		
+budget		5		
+cabane		5		
+caillou		5		
+cale		5		
+campagne	(guerre)	5		
+canal		5		
+canal	canal	5	4	
+canal	canaux	5	1	
+cane		5		
+carcasse		5		
+carton		5		
+cerisier		5		
+cesser		5		
+chameau		5		
+chansonnier		5		
+charitable		5		
+chaussette		5		
+choix		5		
+choquer		5		
+christ		5		
+cirque		5		
+ciseaux		5		
+collation		5		
+colline		5		
+comédien		5		
+comédien	comédien	5	5	
+comédien	comédienne	5	1	
+comique		5		
+compagnon		5		
+comparable		5		
+compétent		5		
+compétent	compétent	5	2	
+compétent	compétente	5	3	
+compliquer		5		
+confondre		5		
+connerie		5		
+constituer		5		
+constituer	(constituer	5	4	
+constituer	(se constituer	5	1	
+contenu		5		
+contrarier		5		
+cote	(valeur boursière	5		
+coudre		5		
+coupable		5		
+couramment		5		
+couronne		5		
+couronne	(diadème	5	1	
+couronne	(monnaie	5	4	
+couvercle		5		
+craintif		5		
+craintif		5		
+craintif	craintif	5	3	
+craintif	craintive	5	2	
+crétin		5		
+cuisinier		5		
+cuisinier	cuisinier	5	2	
+cuisinier	cuisinière	5	3	
+cuite		5		
+cure	(sens médical)	5		
+danois		5		
+danois	(nom.)	5		
+danois	(adj.)	5	1	
+datte		5		
+débuter		5		
+décorer		5		
+décourager		5		
+dégât		5		
+démarcation		5		
+demeurer		5		
+démonter		5		
+département		5		
+déplacement		5		
+dérouler		5		
+dévot		5		
+dialecte		5		
+dialogue		5		
+digérer		5		
+divorcer		5		
+doucement		5		
+dorer		5		
+douanier		5		
+dragneux	(argot guérisseur	5		
+drap	(de lit)	5		
+écurie		5		
+élastique	(nom.)	5		
+élection		5		
+emmerder		5		
+empaler		5		
+empaler	(empaler	5	4	
+empaler	(s'empaler	5	1	
+emprunt		5		
+encaustique		5		
+énergie		5		
+enfiler		5		
+engagement		5		
+engueuler		5		
+enterrement		5		
+enthousiasme		5		
+entr'acte		5		
+entreprise		5		
+épais		5		
+épais	épais	5	3	
+épais	épaisse	5	2	
+épicier		5		
+éprouver		5		
+espace		5		
+espionnage		5		
+estomac		5		
+établissement		5		
+étaler		5		
+étonnant		5		
+excessif		5		
+excessif	excessif	5	1	
+excessif	excessive	5	3	
+exposer		5		
+faculté	(université).	5		
+faiblesse		5		
+familial		5		
+familial	familial	5	4	
+familial	familiale	5	1	
+fanfare		5		
+fédération		5		
+filet		5		
+fjord		5		
+folie		5		
+foncer		5		
+fortification		5		
+four		5		
+freiner		5		
+front		5		
+galoper		5		
+garantie		5		
+gardien		5		
+gelée		5		
+gentiment		5		
+grade		5		
+grain		5		
+grotesque		5		
+gueule		5		
+gueuler		5		
+gueuleton		5		
+habit		5		
+hall		5		
+hélas		5		
+horaire		5		
+horrible		5		
+hospitalité		5		
+identité		5		
+imprimé	(nom.)	5		
+incident		5		
+indemnité		5		
+indépendant		5		
+indication		5		
+information		5		
+ingrat		5		
+ingrat	ingrat	5	4	
+ingrat	ingrate	5	1	
+instruction		5		
+instruire		5		
+instruire	(instruire	5	4	
+instruire	(s'instruire	5	1	
+internat		5		
+international		5		
+international	international	5	4	
+international	internationale	5	1	
+jésuite		5		
+kidnapper		5		
+lamentable		5		
+largement		5		
+lentement		5		
+librairie		5		
+lieutenant		5		
+limiter		5		
+lingerie		5		
+local	(nom.)	5		
+local	local	5	2	
+local	locale	5	3	
+location		5		
+longer		5		
+lot		5		
+lotissement		5		
+loup		5		
+loup	loup	5	4	
+loup	louve	5	1	
+louper	(argot)	5		
+maraîcher		5		
+marquise		5		
+marrer	(pronom.)	5		
+mémoire		5		
+menteur		5		
+menteur	menteur	5	4	
+menteur	menteuse	5	1	
+mérite		5		
+metteur en scène		5		
+militant		5		
+militant	militant	5	2	
+militant	militante	5	3	
+minable		5		
+moeurs		5		
+montée		5		
+musical	(ou musicale)	5		
+navire		5		
+nécessité		5		
+noyer	(verbe.)	5		
+noyer	(noyer	5	3	
+noyer	(se noyer	5	2	
+nudité	(s. fig.style)	5		
+objet		5		
+oculiste		5		
+oie		5		
+orateur		5		
+originaire		5		
+original	(ou originale)	5		
+paquet		5		
+parler	(nom.)	5		
+parquet	(plancher)	5		
+pas	(nom.)	5		
+passager	(nom.)	5		
+passeport		5		
+pavé		5		
+pêcheur		5		
+peigner		5		
+pelle		5		
+pelote		5		
+pensionnaire		5		
+percer		5		
+perpétuellement		5		
+pilon		5		
+pilon	(pilon de volaille	5	3	
+piscine		5		
+plante		5		
+poétique		5		
+pommier		5		
+porcelaine		5		
+postal		5		
+poteau		5		
+pourboire		5		
+poussin		5		
+préférence		5		
+présent	(à)	5		
+projeter		5		
+promettre		5		
+protège-cahier		5		
+prudent		5		
+prudent	prudent	5	4	
+prudent	prudente	5	1	
+puissance		5		
+pull-over		5		
+pyjama		5		
+rafler		5		
+râler	(argot,rouspéter)	5		
+rarement		5		
+rassurer		5		
+ravitaillement		5		
+récent		5		
+récent	récent	5	4	
+récent	récente	5	1	
+récit		5		
+recommander		5		
+recouvrir		5		
+reculer		5		
+reculer	(reculer	5		
+reculer	(se reculer	5	3	
+réflexion		5	2	
+règlement		5		
+relieur		5		
+remerciement		5		
+rentrée		5		
+réserve		5		
+respect		5		
+respecter		5		
+retarder		5		
+réveil		5		
+révéler		5		
+révéler	(révéler	5	3	
+révéler	(se révéler	5	2	
+royalement		5		
+ruine		5		
+rythme		5		
+sacrifice		5		
+sain		5		
+sain	sain	5	3	
+sain	saine	5	2	
+saleté		5		
+sauna		5		
+séance		5		
+seconde		5		
+secrétariat		5		
+sensationnel		5		
+sensibilité		5		
+sinistré		5		
+sinusite		5		
+situer		5		
+sobriquet		5		
+soie		5		
+sot		5		
+sot	sot	5	3	
+sot	sotte	5	2	
+souper		5		
+souterrain		5		
+spirituel		5		
+sportif		5		
+sportif	sportive	5	1	
+sportif	sportif	5	4	
+square		5		
+stage		5		
+suicider	(pronom.)	5		
+subir		5		
+superbe		5		
+supplément		5		
+supplier		5		
+surface		5		
+symphonique		5		
+systématiquement		5		
+tailler		5		
+tandis		5		
+tel que, telle que		5		
+témoin		5		
+tenailles		5		
+tendance		5		
+tendresse		5		
+tombeau		5		
+torchon		5		
+toubib		5		
+tricot		5		
+tripoter		5		
+tringle		5		
+universitaire		5		
+université		5		
+urine		5		
+vacherie		5		
+varié		5		
+veillée		5		
+veillée		5		
+ventouse		5		
+ver		5		
+véritablement		5		
+vertu		5		
+veston		5		
+vêtement		5		
+vigne		5		
+vitrine		5		
+voile		5		
+vu		5		
+abri		4		
+accessible		4		
+accommoder	(pronom.)	4		
+accoucher		4		
+adjoint		4		
+adjoint	adjoint	4	3	
+adjoint	adjointe	4	1	
+admettre		4		
+administratif		4		
+administratif	administratif	4	1	
+administratif	administrative	4	3	
+aéré		4		
+aéroplane		4		
+aisé		4		
+amélioration		4		
+amygdale		4		
+analogue		4		
+aplatir		4		
+apparence		4		
+appartenir		4		
+aptitude		4		
+argot		4		
+as		4		
+aspiration		4		
+associé attaque		4		
+au-delà		4		
+au-dessous		4		
+au fur et à mesure		4		
+auparavant		4		
+auto-stop		4		
+avant	(nom.)	4		
+avant-hier		4		
+avant-dernier		4		
+avant-dernier	avant-dernier	4	3	
+avant-dernier	avant-dernière	4	1	
+avant	(expressions)	4		
+avant	(avant tout	4	2	
+avant	(en avant	4	2	
+aviation		4		
+avoine		4		
+azur balcon		4		
+bachelier		4		
+bachelier	bachelier	4	1	
+bachelier	bachelière	4	3	
+baccalauréat		4		
+baptême		4		
+baraque		4		
+basket		4		
+basse-cour		4		
+bassin		4		
+beaux-parents		4		
+belotte		4		
+bénir		4		
+benne		4		
+berceau		4		
+bétail		4		
+biberon		4		
+bidet	(ustensile)	4		
+bigorneau		4		
+blouson		4		
+boiter		4		
+bouchée	(à la reine)	4		
+bouillant		4		
+bouillant	bouillant	4	1	
+bouillant	bouillante	4	3	
+bouleverser		4		
+bourg		4		
+bricole		4		
+bricole	(objet)	4	3	
+bricole	(travail)	4		
+brièvement		4		
+brimade		4		
+bronche		4		
+brûleur		4		
+brûlure		4		
+brusque		4		
+bûche		4		
+buter		4		
+cabaret		4		
+cabinet		4		
+cabinet de toilette		4		
+cacheter		4		
+canne		4		
+canne	(canne	4	3	
+canne	(canne (vannerie)	4	1	
+carburateur		4		
+casserole		4		
+catégorie		4		
+cathédrale		4		
+céder ceinture		4		
+célèbre		4		
+chagrin		4		
+chalet		4		
+chapelle		4		
+chariot		4		
+châtaignier		4		
+chauffant		4		
+chauffant	chauffant	4	1	
+chauffant	chauffante	4	2	
+chausson		4		
+chiffre		4		
+chute		4		
+citron	(fruit)	4		
+clairon		4		
+coloris		4		
+commencement		4		
+commissaire		4		
+communion		4		
+compléter		4		
+compresseur	(nom. et adj.)	4		
+compteur		4		
+comte		4		
+comte	comtesse	4	4	
+comte	comte	4	1	
+conclure		4		
+concours	(aide)	4		
+congrégation		4		
+consciencieux		4		
+consciencieux	consciencieux	4	3	
+consciencieux	consciencieuse	4	1	
+consentir		4		
+constant		4		
+constant	constant	4	3	
+constant	constante	4	1	
+continu		4		
+contre-ut		4		
+convenablement		4		
+costaud		4		
+couchage		4		
+coucher	(nom.)	4		
+goût		4		
+crâne		4		
+crasseux		4		
+crème		4		
+crème	(pommade 	4	2	
+crème	(couleur	4	2	
+culbute		4		
+cultivateur		4		
+découverte		4		
+définitif		4		
+définitif	définitif	4	0	
+définitif	définitive	4	4	
+déformer		4		
+dégourdi		4		
+dégoûtant		4		
+dégoûtant	dégoûtant	4	3	
+dégoûtant	dégoûtante	4	1	
+délicat		4		
+délicat	délicat	4	3	
+délicat	délicate	4	1	
+délicieux		4		
+démiteur		4		
+démocrate		4		
+démontrer		4		
+démoraliser		4		
+dépanner		4		
+déplaisant		4		
+dépouiller		4		
+dérouillée	(nom.)	4		
+désert	(adj.)	4		
+désir		4		
+desservir		4		
+déterminer		4		
+diamant		4		
+diffuser		4		
+dinde		4		
+direct		4		
+direct	direct	4	2	
+direct	directe	4	2	
+direction	(administrative )	4		
+dispute		4		
+dissimuler		4		
+distinguer		4		
+distinguer	(distinguer	4	3	
+distinguer	(se distinguer	4	1	
+divers		4		
+dixième		4		
+doré		4		
+douceur		4		
+droit	(adv.)	4		
+dune		4		
+écartement		4		
+échelonner		4		
+échouer		4		
+éclaireuse		4		
+éclaireuse	(éclaireur	4	0	
+économiser		4		
+écorcher		4		
+écossais		4		
+écossais	écossais	4	2	
+écossais	écossaise	4	2	
+écrivain		4		
+éditer		4		
+effacer		4		
+efficacité		4		
+effrayer		4		
+effroyable		4		
+élevé	(haut)	4		
+élite		4		
+embêtement		4		
+emboîter		4		
+encaisseur		4		
+encaustique		4		
+enchaîner		4		
+enfer		4		
+enfler		4		
+enfoncer		4		
+enfoncer	(enfoncer	4	2	
+enfoncer	(s'enfoncer	4	2	
+engraisser		4		
+enlèvement		4		
+ennemi		4		
+entreprendre		4		
+enveloppe		4		
+envers	(nom.)	4		
+s'envoler		4		
+éplucher		4		
+épuiser		4		
+espoir		4		
+essentiellement		4		
+étape		4		
+éternuer		4		
+européen		4		
+européen	européen	4	2	
+européen	européenne	4	2	
+excessivement		4		
+exercice		4		
+exotique		4		
+explication		4		
+exproprier		4		
+fabrication		4		
+faitout		4		
+fantaisie		4		
+faveur		4		
+favorable		4		
+favori		4		
+favori	favori	4	3	
+favori	favorite	4	1	
+féliciter		4		
+féminin		4		
+féminin	féminin	4		
+féminin	féminine	4		
+féroce		4		
+février		4		
+filleul		4		
+football		4		
+forcé		4		
+fort	(nom.)	4		
+foudre		4		
+fourneau		4		
+frac		4		
+fraîcheur		4		
+fréquent		4		
+fréquent	fréquent	4		
+fréquent	fréquente	4		
+fumée		4		
+garagiste		4		
+gazer	(argot	4		
+géologie		4		
+géranium		4		
+germain		4		
+gibier		4		
+glace	(miroir)	4		
+grâce à		4		
+gracieux		4		
+grammaire		4		
+grandeur		4		
+graphique	(nom.)	4		
+graisser		4		
+habituel		4		
+hameau		4		
+handicap	(course)	4		
+hausse		4		
+honnêteté		4		
+horloge		4		
+hors d'oeuvre		4		
+huitième		4		
+humble		4		
+humidité		4		
+imiter		4		
+immoler		4		
+imperméable	(adj.)	4		
+impressionner		4		
+imprimerie		4		
+innaccessible		4		
+incarner		4		
+insecte		4		
+intermédiaire		4		
+intermédiaire	(intermédiaire	4	3	
+intermédiaire	(par intermédiaire	4	1	
+interne	(nom.)	4		
+intervention		4		
+intimider		4		
+introduire		4		
+inventer		4		
+invitation		4		
+jardinier		4		
+jardinier	jardinier	4	2	
+jardinier	jardinière	4	2	
+journaliste		4		
+jument		4		
+kilogramme		4		
+kilowatt		4		
+lier		4		
+lier	(lier	4	3	
+lier	(lier conversation, amitié)	4	1	
+ligue		4		
+lisse		4		
+logique	(adj.)	4		
+logis		4		
+lointain		4		
+louche	(adj. )	4		
+loyer		4		
+main d'oeuvre		4		
+mamy	(mamie)	4		
+manie		4		
+manoeuvre	(fém	4		
+manuel	(adj.)	4		
+marne		4		
+marre	(en avoir)	4		
+martini		4		
+masse		4		
+masser		4		
+match		4		
+maternité		4		
+mélodie		4		
+membre	(corps)	4		
+ménager		4		
+métallique		4		
+meubler		4		
+ministère		4		
+mise en plis		4		
+mobiliser		4		
+modestie		4		
+morale		4		
+morbide		4		
+mosaïque		4		
+municipal		4		
+municipal	municipal	4	3	
+municipal	municipaux	4	1	
+nordique		4		
+nuance		4		
+obligatoirement		4		
+obstacle		4		
+office		4		
+olive		4		
+olivier		4		
+orange		4		
+orgue		4		
+outillage		4		
+ouest		4		
+ovaire		4		
+ovale		4		
+paille		4		
+palais de justice		4		
+palissade		4		
+parenthèse		4		
+partage		4		
+participer		4		
+partisan		4		
+patate		4	1	
+pâtisserie		4		
+patronage		4		
+pédale		4		
+pencher		4		
+pencher	(pencher	4	1	
+pencher	(se pencher	4	3	
+pendule		4		
+pensée		4		
+performance		4		
+peuh !		4		
+philo		4		
+photographier		4		
+photographier	(photographier	4	3	
+photographier	(se photographier	4	1	
+piqûre		4		
+plaisant		4		
+plaisant	plaisant	4	2	
+plaisant	plaisante	4	2	
+plaisanter		4		
+planche		4		
+plâtre		4		
+pli		4		
+policier		4		
+portefeuille		4		
+pourrir		4		
+précipiter		4		
+préférable		4		
+préfet		4		
+pression		4		
+prêtre		4		
+profession		4		
+profond		4		
+profond	profond	4	2	
+profond	profonde	4	2	
+protéger		4		
+provoquer		4		
+puissant		4		
+puissant	puissant	4	3	
+puissant	puissante	4	1	
+quelque part		4		
+querelle		4		
+raffiné		4		
+rogner		4		
+romain		4		
+salaud		4		
+salle de bains		4		
+saoul		4		
+saucisson		4		
+saut		4		
+scandale		4		
+scénario		4		
+sècheresse		4		
+secouer		4		
+seizième		4		
+semblable		4		
+sentimental		4		
+serre		4		
+si	(note)	4		
+sincère		4		
+slip		4		
+solidarité		4		
+solitaire		4		
+solo		4		
+sombrer		4		
+souffler		4		
+soulager		4		
+source		4		
+souris		4		
+statistique		4		
+strictement		4		
+stupide		4		
+subvention		4		
+suer		4		
+suppléance		4		
+tacher		4		
+tartine		4		
+teindre		4		
+télégramme		4		
+témoignage		4		
+tendu		4		
+tension		4		
+tétanos		4		
+théière		4		
+théorique		4		
+thermomètre		4		
+tiers		4		
+tilleul		4		
+tisane		4		
+toilette		4		
+tôlier		4		
+tomate		4		
+topo		4		
+tordant		4		
+tordant	tordant	4	3	
+tordant	tordante	4	1	
+touche		4		
+tournante	(adj.)	4		
+tournante	(tournant (adj.)	4	0	
+traduction		4		
+tragique		4		
+trame		4		
+travailliste		4		
+trembler		4		
+trentaine		4		
+trésor		4		
+troupeau		4		
+raisin		4		
+raisonnement		4		
+ralentir		4		
+rallonge		4		
+rampe		4		
+ranch		4		
+raser		4		
+raser	(se raser)	4	1	
+rayonner		4		
+récemment		4		
+récipient		4		
+récolte		4		
+recueillir		4		
+récupérer		4		
+réduction		4		
+redoubler		4		
+rééducation		4		
+refermer		4		
+régional		4		
+rendement		4		
+répandre		4		
+reparler		4		
+repeindre		4		
+repérer		4		
+reprise		4		
+réseau		4		
+résumer		4		
+revendre		4		
+rhétorique		4		
+rigoureux		4		
+rigoureux	rigoureux	4	3	
+rigoureux	rigoureuse	4	1	
+tuberculose		4		
+typographie		4		
+user		4		
+vague	(adj.)	4		
+vaillant		4		
+vaillant	vaillant	4	3	
+vaillant	vaillante	4	1	
+véhicule		4		
+verbe		4		
+vice		4		
+vif		4		
+vif	vif	4		
+vif	vive	4		
+virage		4		
+viser		4		
+voeu		4		
+voler	(se déplacer dans l'espace)	4		
+vomir		4		
+voyelle		4		
+vulgaire		4		
+zone		4		
+abbaye		3		
+ablation		3		
+abominable		3		
+abordable		3		
+aborder		3		
+absence		3		
+absent		3		
+absent	absent	3	2	
+absent	absente	3	1	
+absolu	(adj.)	3		
+absorber		3		
+abstenir	(pronom.)	3		
+académique		3		
+accélérer		3		
+accès		3		
+accuser		3		
+acrobate		3		
+actualité		3		
+adhérence		3		
+admirablement		3		
+adopter		3		
+aérium		3		
+aérodynamique		3		
+agiter		3		
+agiter	(agiter	3	2	
+agiter	(s'agiter	3	1	
+agriculture		3		
+aide-conducteur		3		
+aisance		3		
+ajusteur		3		
+aléatoire		3		
+alerte	(nom.)	3		
+alerte	(adj.)	3		
+algérien		3		
+algérien	algérien	3	2	
+algérien	algérienne	3	1	
+ambassadeur		3		
+amender		3		
+ameublement		3		
+amour-propre		3		
+à moins que		3		
+amoureux 		3		
+amoureux 	amoureux	3	1	
+amoureux 	amoureuse	3	2	
+amusement		3		
+anneau		3		
+annonce		3		
+antiquité		3		
+anus		3		
+aperçu		3		
+apprêter		3		
+appui		3		
+apte		3		
+archi-		3		
+archi-	(archi-complet 	3	1	
+archi-	(archi-mal	3	1	
+archi-	(archi-neuve	3	1	
+architecture		3		
+armement		3		
+artichaut		3		
+assainisseur		3		
+assistance	(aide)	3		
+associer		3		
+associer	(associer	3	1	
+associer	(s'associer	3	1	
+atterrir		3		
+autel		3		
+autoriser		3		
+autoroute		3		
+avancement		3		
+avantageusement		3		
+aventure		3		
+aviron		3		
+avocat		3		
+baby-foot		3		
+ballade		3		
+baie	(golfe)	3		
+ballast		3		
+bander		3		
+banjo		3		
+banquet		3		
+bas-fond		3		
+bassine		3		
+béquille		3		
+biche		3		
+bicher		3		
+bielle		3		
+billot		3		
+blanchissage		3		
+bloc	(immeuble)	3		
+blond		3		
+blond	blond	3	1	
+blond	blonde	3	2	
+bombarder		3		
+bombe	(projectile)	3		
+bond		3		
+bondé		3		
+bonté		3		
+borne		3		
+botte		3		
+boucherie	(commerce)	3		
+bouleau		3		
+boursier		3		
+bousculer		3		
+braquer		3		
+brasserie		3		
+bravo		3		
+breveter		3		
+briser		3		
+broderie		3		
+brouette		3		
+brutal		3		
+buse	(appareil)	3		
+cachet	(médicament	3		
+cadavre		3		
+cadence		3		
+calé		3		
+calvaire		3		
+camaraderie		3		
+camoufler		3		
+cantonal		3		
+caoutchouc		3		
+capital	(adj.)	3		
+capital	capital	3	2	
+capital	capitaux	3	1	
+capitale	(nom.)	3		
+carburo		3		
+caresser		3		
+carrière	(professionnelle	3		
+carrière	(extraction	3		
+carre	(partie de	3		
+carrefour		3		
+carrosserie		3		
+caser		3		
+caser	(caser	3	2	
+caser	(se caser	3	1	
+casino		3		
+casque		3		
+casquette		3		
+cendrier		3		
+censé		3		
+cerner		3		
+chahut		3		
+chamailler	(pronom.)	3		
+champagne	(vin)	3		
+chanvre		3		
+charrier		3		
+châssis		3		
+châtiment		3		
+chausser		3		
+chef-lieu		3		
+chèque		3		
+chevelure		3		
+chinos		3		
+chinos	(nom	3	2	
+chinos	(adj.)	3	1	
+chleu	(allemand)	3		
+choper		3		
+ciborium		3		
+cinématographique		3		
+circulaire	(adj.)	3		
+ciré	(adj.)	3		
+clé	(anglaise)	3		
+clocher		3		
+code		3		
+cohue		3		
+coincer		3		
+coincer	(coincer	3	2	
+coincer	(se coincer	3	1	
+colis		3		
+colonel		3		
+comble		3		
+comité		3		
+commandeur		3		
+commenter		3		
+commode	(meuble)	3		
+comprimé	(nom.)	3		
+compris	(inclus)	3		
+concentrer		3		
+concentrer	(concentrer	3	1	
+concentrer	(se concentrer	3	2	
+concret		3		
+concret	concret	3	1	
+concret	concrète	3	2	
+concurrent		3		
+condamner		3		
+conditionnement		3		
+confection		3		
+confier		3		
+confiture		3		
+confiture	(sens propre	3	1	
+confiture	(sens figuré	3	2	
+confrère		3		
+confus		3		
+conscrit		3		
+conséquence		3		
+conservateur		3		
+conservatoire		3		
+considérable		3		
+consigne		3		
+consommer		3		
+continuel		3		
+continuellement		3		
+contradictoire		3		
+contribuer		3		
+contrôleur		3		
+convaincre		3		
+converti	(nom.)	3		
+conviction		3		
+coopérative		3		
+copieux		3		
+corriger		3		
+cortège		3		
+couche	(peinture)	3		
+couplet		3		
+coupole		3		
+coupure		3		
+courageux		3		
+coûteux		3		
+crainte		3		
+crevant		3		
+cri		3		
+cristal		3		
+cristal	cristal	3	0	
+cristal	cristaux	3	1	
+croix		3		
+cuisse		3		
+cuivre		3		
+cumuler		3		
+cuvette		3		
+cycliste		3		
+damnation		3		
+danseur		3		
+débit	(dépense)	3		
+débiter		3		
+déblayer		3		
+déborder		3		
+décalcifier		3		
+décapiter		3		
+déchausser		3		
+décidément		3		
+décoller		3		
+décommander		3		
+décontenancer		3		
+défaire		3		
+défense	(protection	3		
+déficit		3		
+défoncer		3		
+dégringolade		3		
+délégation		3		
+demeure		3		
+dénouement		3		
+denrée		3		
+dentaire		3		
+départemental		3		
+départemental	départemental	3	2	
+départemental	départementaux	3	1	
+déplacé		3		
+déporté		3		
+dérider		3		
+dés	(jeu de)	3		
+descendance		3		
+descente		3		
+désespérer		3		
+desquels	(ou desquelles)	3		
+dessert		3		
+dessiner		3		
+détailler		3		
+dévisser		3		
+dévouer		3		
+dévouer	(dévouer	3	1	
+dévouer	(se dévouer	3	2	
+dignement		3		
+diplôme		3		
+discret		3		
+discret	discret	3	2	
+discret	discrète	3	1	
+discrètement		3		
+dissoudre		3		
+divan		3		
+doctrine		3		
+documenter		3		
+dollar		3		
+domaine		3		
+douane		3		
+drague	(argot fait.de guérir en charlatan)	3		
+dramatique		3		
+drap	(matière)	3		
+ébène		3		
+échecs	(jeu)	3		
+éclore		3		
+écoeurer		3		
+écolier		3		
+économique		3		
+écouler		3		
+écouler	(écouler	3	1	
+écouler	(s'écouler	3	2	
+écran		3		
+écriture		3		
+éduquer		3		
+égard.		3		
+élan	(animal)	3		
+élégant		3		
+élégant	élégant	3	1	
+élégant	élégante	3	2	
+élevage		3		
+éloigner		3		
+éloigner	(éloigner	3	2	
+éloigner	(s'éloigner	3	1	
+email		3		
+embarrasser		3		
+embaucher		3		
+empire		3		
+emploi		3		
+empreinte	(nom.)	3		
+encaisser		3		
+encaisser	(encaisser	3	2	
+encaisser	(s'encaisser (se supporter mutuellement)	3	1	
+enfantin		3		
+enfantin	enfantin	3	1	
+enfantin	enfantine	3	2	
+enrager		3		
+ensuivre	(pronom.)	3		
+enterrer		3		
+épater		3		
+épiphanie		3		
+époux		3		
+époux	époux	3	2	
+époux	épouse	3	1	
+éruption		3		
+esquinter		3		
+esquinter	(esquinter	3	2	
+esquinter	(s'esquinter	3	1	
+est	(point cardinal	3		
+estampe		3		
+étalage		3		
+éteindre		3		
+étiquette	(écriteau)	3		
+événement		3		
+éventrer		3		
+éveiller		3		
+évier		3		
+exclusivement		3		
+exercer		3		
+exploiter		3		
+exposé	(nom.)	3		
+externe		3		
+extraire		3		
+faisable		3		
+fanatique		3		
+fascisme		3		
+faufiler	(pronom.)	3		
+fêler		3		
+félicitation		3		
+ferraille		3		
+fesse		3		
+fesser		3		
+feuille	(d'arbre)	3		
+fiancer	(pronom.)	3		
+fifre		3		
+fillette		3		
+fini		3		
+foncé		3		
+foot		3		
+forçat		3		
+fracture		3		
+fraternité		3		
+fresque		3		
+friction		3		
+fuir		3		
+fureur		3		
+gâchis		3		
+gala		3		
+galerie		3		
+galette		3		
+gangster		3		
+gant		3		
+gendre		3		
+général	(nom.)	3		
+génie		3		
+gentillesse		3		
+gicleur		3		
+gomme		3		
+gouttière		3		
+gramme		3		
+grandir		3		
+gratter		3		
+gratuitement		3		
+grève	(cessation de travail)	3		
+grief		3		
+griller		3		
+grippe		3		
+grouper		3		
+grouper	(grouper	3	1	
+grouper	(se grouper	3	2	
+gymnastique		3		
+habillement		3		
+hacher		3		
+halte	(nom.)	3		
+hangar		3		
+hareng		3		
+harpon		3		
+haut-parleur		3		
+honorer		3		
+houspiller		3		
+housse		3		
+huitaine		3		
+humeur		3		
+humide		3		
+humour		3		
+hypophyse		3		
+identique		3		
+imbécillité		3		
+imitateur		3		
+impardonnable		3		
+impressionnant		3		
+impressionnant	impressionnant	3	2	
+impressionnant	impressionnante	3	1	
+improviser		3		
+inactif		3		
+inconnu		3		
+index	(doigt)	3		
+indigène		3		
+indiscrétion		3		
+inférieur		3		
+infériorité		3		
+influence		3		
+injecter		3		
+injurier		3		
+inquiéter	(pronom.)	3		
+inquiétude		3		
+insuffisant		3		
+insuffisant	insuffisant	3	2	
+insuffisant	insuffisante	3	1	
+insupportable		3		
+intelligence		3		
+interminable		3		
+interpréter		3		
+interrogatoire		3		
+interrompre		3		
+intime		3		
+jadis		3		
+jeunes gens		3		
+joueur		3		
+judiciaire		3		
+juge		3		
+juif		3		
+kyste		3		
+laboratoire		3		
+labourer		3		
+lanterne		3		
+lasser		3		
+lasser	(lasser	3	2	
+lasser	(se lasser	3	1	
+légion d'honneur		3		
+lessiver		3		
+lessiver	(sens propre	3	2	
+lessiver	(argot (anéantir)	3	1	
+licencié	(adj.)	3		
+lied		3		
+limousin	(nom et adj.)	3		
+limousin	limousin	3	2	
+limousin	limousine	3	1	
+liquide	(nom et adj.).	3		
+livre	(fém.)	3		
+local	(adj.)	3		
+loisir		3		
+loterie		3		
+luge		3		
+lune		3		
+lynx		3		
+magistrat		3		
+magnétique		3		
+majorité		3		
+maltraiter		3		
+manège		3		
+manivelle		3		
+manoeuvrer		3		
+mansarde		3		
+maraîcher		3		
+maraîcher	maraîcher	3	0	
+maraîcher	maraîchère	3	3	
+marais		3		
+marâtre		3		
+marge		3		
+maroquin		3		
+masculin		3		
+mazout		3		
+merveille		3		
+mesurer		3		
+métaphysique		3		
+meublé		3		
+mi-...		3		
+mine	(de charbon)	3		
+minime		3		
+minuscule		3		
+miracle		3		
+mission		3		
+mite		3		
+mixte		3		
+modique		3		
+modulé		3		
+moineau		3		
+moisson		3		
+montagnard		3		
+montant		3		
+montant	montant	3	2	
+montant	montante	3	1	
+moquerie		3		
+motocycliste		3		
+mouton		3		
+mûr		3		
+mutilé		3		
+naphtaline		3		
+happe		3		
+natation		3		
+navrer		3		
+nier		3		
+normalien		3		
+normalien	normalien	3	2	
+normalien	normalienne	3	1	
+feuilles		3		
+nuancer		3		
+olfactif		3		
+olfactif	olfactif	3	2	
+olfactif	olfactive	3	1	
+oral		3		
+ordonner		3		
+ordure		3		
+oreillons		3		
+orgueilleux		3		
+orgueilleux	orgueilleux	3	2	
+orgueilleux	orgueilleuse	3	1	
+orienter		3		
+orienter	(orienter	3	1	
+orienter	(s'orienter	3	2	
+pan		3		
+pantoufle		3		
+paradis		3		
+par-ci		3		
+parcours		3		
+par-là		3		
+parrain		3		
+partenaire		3		
+passeur		3		
+passeur	passeur	3	2	
+passeur	passeuse	3	1	
+patient		3		
+patient	patient	3	1	
+patient	patiente	3	2	
+péché		3		
+peigne		3		
+pèlerinage		3		
+peloton		3		
+pénal		3		
+pensionnat		3		
+percepteur		3		
+perfectionner		3		
+perlé		3		
+perpétuel		3		
+pétard		3		
+petit-fils		3		
+petit-fils	petit-fils	3	1	
+petit-fils	petite-fille	3	2	
+pharmacie		3		
+philosophique		3		
+phlegmon		3		
+photographie		3		
+pigeon		3		
+pile		3		
+pin		3		
+pinard		3		
+pin-up		3		
+pique-niquer		3		
+pisser		3		
+pistolet	(à peinture).	3		
+plaine		3		
+plaquer		3		
+plaquer	(plaquer	3	2	
+plaquer	(se plaquer	3		
+plastique		3		
+plate-forme		3		
+pleurésie		3		
+pleutre		3		
+pluriel		3		
+pneu		3		
+pneumatique		3		
+pneumo	(-thorax)	3		
+poing		3		
+poison		3		
+poivrot		3		
+polytechnique		3		
+portée	(nom.)	3		
+portrait		3		
+poulailler		3		
+pourcentage		3		
+pouvoir	(nom.)	3		
+précaution		3		
+préciser		3		
+préface		3		
+présentation		3		
+presse	(journaux)	3		
+prestige		3		
+priorité		3		
+priver		3		
+priver	(priver	3	1	
+priver	(se priver	3	2	
+probable		3		
+procurer		3		
+procurer	(procurer	3	2	
+procurer	(se procurer	3	1	
+productif		3		
+progresser		3		
+prolo		3		
+prolongation		3		
+propane		3		
+propreté		3		
+prototype		3		
+provisoirement		3		
+psychologique		3		
+p.t.t.		3		
+publier		3		
+purée		3		
+purement		3		
+questionner		3		
+quête		3		
+quitte		3		
+quotidien		3		
+quotidien	quotidien	3	0	
+quotidien	quotidienne	3	3	
+rabattre		3		
+rabattre	(rabattre	3	2	
+rabattre	(se rabattre	3	1	
+raccrocher		3		
+radiographier		3		
+radis		3		
+ragot		3		
+rapatrier		3		
+rassemblement		3		
+reboucher		3		
+rebrunir	(mécanique, égaliser	3		
+recaler		3		
+recette		3		
+récital		3		
+reconduire		3		
+recoucher	(pronom.)	3		
+redire		3		
+refouler		3		
+régaler		3		
+régaler	(régaler	3	2	
+régaler	(se régaler	3	1	
+regret		3		
+rejeter		3		
+relâcher		3		
+relâcher	(relâcher	3	2	
+relâcher	(se relâcher	3	1	
+relais		3		
+relire		3		
+remarque		3		
+rembourré	(nom.)	3		
+renard		3		
+rencontre		3		
+renfort		3		
+renoncer		3		
+réparateur		3		
+réputation		3		
+résiné		3		
+resservir		3		
+restitution		3		
+restriction		3		
+retraité		3		
+revanche	(en revanche)	3		
+revenu		3		
+révolution		3		
+revolver		3		
+rhum		3		
+rhumatisme		3		
+rigolade		3		
+rocher		3		
+rococo		3		
+rombière		3		
+roseau		3		
+rosse		3		
+rôti		3		
+ronet		3		
+roupiller		3		
+routière		3		
+royal		3		
+royauté		3		
+rude		3		
+rudement		3		
+ruiner		3		
+ruiner	(ruiner	3	2	
+ruiner	(se ruiner	3	1	
+ruisseau		3		
+sage-femme		3		
+sauce		3		
+saumoné		3		
+savon		3		
+scier		3		
+scout		3		
+secteur		3		
+selon		3		
+semer		3		
+sentier		3		
+sérieusement		3		
+siffler		3		
+sifflet		3		
+simplifier		3		
+singulier		3		
+singulier	singulier	3	1	
+singulier	singulière	3	2	
+soigneux		3		
+solde		3		
+solognot		3		
+solognot	solognot	3	2	
+solognot	solognote	3	1	
+sonore		3		
+sort		3		
+sottise		3		
+souffle		3		
+souhaitable		3		
+souplesse		3		
+standard		3		
+sténodactylo		3		
+stop		3		
+stylisation		3		
+styliser		3		
+successeur		3		
+sucer		3		
+sulfureux		3		
+sulfureux	sulfureux	3	0	
+sulfureux	sulfureuse	3	1	
+sûreté		3		
+surveillant		3		
+surveillant	surveillant	3	1	
+surveillant	surveillante	3	2	
+suspendre		3		
+sympathie		3		
+symptôme		3		
+tablier		3		
+talus		3		
+tacot		3		
+teinturier		3		
+teinturier	teinturier	3	1	
+teinturier	teinturière	3	2	
+temple		3		
+tentative		3		
+tessiture		3		
+tétine		3		
+timidité		3		
+timoré		3		
+tirelire		3		
+tiroir		3		
+tôle		3		
+tombereau		3		
+toquard		3		
+toucher	(nom.)	3		
+tradition		3		
+traduire		3		
+tragédie		3		
+traînard		3		
+traînard	traînard	3	0	
+traînard	traînarde	3	3	
+tramway		3		
+transport		3		
+transporter		3		
+treuil		3		
+truite		3		
+trust		3		
+tuile		3		
+tulle		3		
+vaguement		3		
+valet		3		
+vanité		3		
+variété		3		
+végétation		3		
+veilleur		3		
+veine		3		
+vernis		3		
+verrou		3		
+vidange		3		
+vierge		3		
+vingtième		3		
+violoniste		3		
+virer	(chasser)	3		
+vision visser		3		
+vivement		3		
+volant	(adj.)	3		
+volontiers		3		
+voter		3		
+voyou		3		
+watt		3		
+wc		3		
+zèle		3		
+abandonné		2		
+abattement		2		
+abcès		2		
+abondance		2		
+aboutir		2		
+aboyer		2		
+abréger		2		
+abreuvoir		2		
+abruti		2		
+abstrait		2		
+absurde		2		
+accidentellement		2		
+accrocher		2		
+acquérir		2		
+actif		2		
+actif	active	2	2	
+actif	actif	2	0	
+adhérent		2		
+adjudant		2		
+admissible		2		
+adoptif		2		
+adoptif	adoptif	2	1	
+adoptif	adoptive	2	1	
+adroit		2		
+adulte		2		
+aérogare		2		
+aéronautique		2		
+affecté		2		
+affirmer		2		
+affreusement		2		
+affronter		2		
+agence		2		
+agglomération		2		
+aggraver		2		
+aggraver	(aggraver	2	1	
+aggraver	(s'aggraver	2	1	
+agneau		2		
+agrég		2		
+agrégatif	(nom.)	2		
+agrégation		2		
+agrément		2		
+agriculteur		2		
+aisément		2		
+ajiste		2		
+à la va vite		2		
+albumine		2		
+aligner		2		
+allécher		2		
+alliance		2		
+allonger		2		
+allouer		2		
+alphabet		2		
+alphabétique		2		
+amabilité		2		
+amant		2		
+amas		2		
+aménagement		2		
+aménager		2		
+amende		2		
+amortir		2		
+amputation		2		
+ancienneté		2		
+ânerie		2		
+anesthésie		2		
+angine		2		
+animer		2		
+annexe		2		
+annuler		2		
+applaudissement		2		
+appoint		2		
+approximativement		2		
+appréciable		2		
+approprier		2		
+aquarelle		2		
+arbitraire		2		
+argenté		2		
+argument		2		
+armer		2		
+arriéré		2		
+arrondir		2		
+arsenal		2		
+arsenal	arsenal	2	1	
+arsenal	arsenaux	2	1	
+aspérité		2		
+artifice		2		
+artisan		2		
+asiatique	(adj.)	2		
+asperger		2		
+asphalte		2		
+aspirer		2		
+assaisonner		2		
+assassin		2		
+assécher		2		
+asséner		2		
+assortir		2		
+asthme		2		
+atroce		2		
+attabler	(pronom.)	2		
+atteler		2		
+attendant	(en)	2		
+attendrir		2		
+atterrissage		2		
+attraction		2		
+attristé		2		
+aube		2		
+aubergiste		2		
+authentique		2		
+autochtone	(nom.)	2		
+automatisme		2		
+autoritaire		2		
+auvergnat		2		
+avarice		2		
+avenir		2		
+azur	(côte d'azur)	2		
+baisser	(pronom	2		
+balayage		2		
+balafré		2		
+baladeuse	(nom, lampe)	2		
+baie	(fenêtre)	2		
+badaud		2		
+ballot	(figuré)	2		
+bamboula		2		
+banlieusard		2		
+banque		2		
+baptistère		2		
+bar		2		
+barbare		2		
+barbe		2		
+barbe	(vieilles barbes	2	1	
+barbe	(a la barbe des..	2	1	
+barber	(pronom.)	2		
+barder		2		
+barrette		2		
+bascule		2		
+batterie	(de cuisine)	2		
+batteur		2		
+bavard		2		
+bavard	bavard	2	1	
+bavard	bavarde	2	1	
+bêche		2		
+bêcher		2		
+bénévolement		2		
+béret		2		
+bestiaux		2		
+bibi	(argot : moi)	2		
+bicoque		2		
+bidonner	(pronom.)	2		
+bière		2		
+bigarré		2		
+billard	(argot)	2		
+billard	(c'est du billard	2	1	
+billard	(table d'opération	2	1	
+bisette		2		
+biscuit		2		
+bisser		2		
+blagueur		2		
+blanchisserie		2		
+bleusaille		2		
+blinder	(blindé)	2		
+blouse		2		
+boeuf		2		
+boisé		2		
+bombardier		2		
+bon	(pour de)	2		
+bon sang		2		
+bossu		2		
+botanique		2		
+bottin		2		
+bouillir bouillon boulanger		2		
+bouler		2		
+boulonner	(travailler)	2		
+bourrer		2		
+boussole		2		
+boy	(seulement au pluriel)	2		
+bricoler		2		
+bridge	(jeu)	2		
+bringue		2		
+brique	(couleur)	2		
+briquer	(astiquer)	2		
+bronchite		2		
+bronze		2		
+brousse		2		
+brûlé	(nom.)	2		
+bûcheron		2		
+buvette		2		
+cachot		2		
+cadran		2		
+cage		2		
+caleçon		2		
+calmant	(adj.)	2		
+calmant	calmant	2	1	
+calmant	calmante	2	1	
+campeur		2		
+canadienne	(vêtement.	2		
+canalisation		2		
+canapé		2		
+candidate		2		
+canon		2		
+canon	(de fusil	2	1	
+canon	(d'artillerie	2	1	
+canton		2		
+cantonner	(pronom.)	2		
+capitaliste	(adj.)	2		
+capot	(mécanique)	2		
+capricieux		2		
+captiver		2		
+captivité		2		
+carton-pâte		2		
+cartouche		2		
+cassé		2		
+casse-pieds		2		
+catastrophique		2		
+cavalcade		2		
+cavalier		2		
+caverne		2		
+censure		2		
+centenaire		2		
+cercle		2		
+cercueil		2		
+céréale		2		
+cérémonie		2		
+chahuter		2		
+chair		2		
+chanoine		2		
+char	(blindé)	2		
+charcuterie	(viande de porc)	2		
+charpente		2		
+chatelain		2		
+chaudière		2		
+chaussée		2		
+chavirer		2		
+chef-d'oeuvre		2		
+chemisier	(vêtement	2		
+chênette		2		
+chevalier		2		
+chier		2		
+chiper		2		
+chiquer		2		
+chorale		2		
+chou		2		
+chou-chou		2		
+chouette	(adj.)	2		
+chou-fleur		2		
+chrétien		2		
+chronique	(nom.)	2		
+ciment		2		
+circonstance		2		
+circulaire	(nom.)	2		
+cirer		2		
+cisaille		2		
+civiliser		2		
+clairement		2		
+classeur		2		
+classification		2		
+clou	(des clous)	2		
+cocagne		2		
+cocher	(nom.)	2		
+cocktail		2		
+coffrer		2		
+collaborateur		2		
+collaborer		2		
+collant		2		
+collant	collant	2	1	
+collant	collante	2	1	
+collecter		2		
+collectionneur		2		
+colonial	(adj.)	2		
+combat		2		
+commercialement		2		
+commettre		2		
+communal		2		
+communiquer		2		
+compagne		2		
+compagnonnage		2		
+compensation		2		
+compositeur		2		
+comptant	(paiement	2		
+concerter		2		
+concorder		2		
+concourir		2		
+cône		2		
+confettis	(argot balles do revolver)	2		
+confirmer		2		
+congestion		2		
+congestionner		2		
+connaisseur		2		
+connexion		2		
+conquérir		2		
+consacré		2		
+consentant		2		
+consentant	consentant	2	1	
+consentant	consentante	2	1	
+consistant		2		
+consistant	consistant	2	1	
+consistant	consistante	2	1	
+consommation		2		
+consonne		2		
+constance		2		
+consumer		2		
+contaminer		2		
+conte		2		
+contenance		2		
+conter		2		
+contour		2		
+contremaître		2		
+contremarche	(d'un escalier	2		
+controverser		2		
+convoi		2		
+coquet		2		
+coquet	coquet	2	1	
+coquet	coquette	2	1	
+corbeille		2		
+corporation		2		
+corporel		2		
+cosmopolite		2		
+costard		2		
+coter		2		
+côtoyer		2		
+coulée	(nom.)	2		
+coulisse	(mécanique)	2		
+courbe	(nom.)	2		
+coureur		2		
+couronner		2		
+courre	(chasse à..)	2		
+coutil		2		
+couturière		2		
+cracher		2		
+cran	(courage)	2		
+crapule		2		
+craquer		2		
+crasse		2		
+crevette		2		
+crime		2		
+criminel	(adj.)	2		
+croisière		2		
+crosse	(fusil)	2		
+créance		2		
+cru		2		
+cruauté		2		
+crypte		2		
+cubage		2		
+cueillir		2		
+culasse		2		
+culminant		2		
+culte		2		
+curiosité		2		
+cuve		2		
+cylindrique		2		
+dames	(jeu de ..)	2		
+dansante		2		
+débarbouiller	(pronom.)	2		
+débarras		2		
+débloquer		2		
+débraillé		2		
+débrouillard		2		
+décaniller		2		
+décapotable		2		
+décéder		2		
+déceler		2		
+décevoir		2		
+décharge		2		
+déchiffrer		2		
+décision		2		
+déclaration		2		
+décoction		2		
+décoratif		2		
+dédaigner		2		
+dégringoler		2		
+dégueuler		2		
+démancher		2		
+démancher	(démancher	2	1	
+démancher	(se démancher	2	1	
+dépiter		2		
+démobiliser		2		
+dénonciation		2		
+dépens		2		
+déplaire		2		
+dépliant		2		
+déplorer		2		
+dépoussiérage		2		
+descendant	(nom.)	2		
+déséquilibré		2		
+déshabiller		2		
+déshabilleuse		2		
+désillusion		2		
+désinfectant	(adj.)	2		
+désinfecter		2		
+dessécher	(pronom.)	2		
+désoler		2		
+dessinateur		2		
+destiner		2		
+désuet		2		
+désuet	désuet	2	1	
+désuet	désuette	2	1	
+déterminé		2		
+détraqué		2		
+détruire		2		
+deuil		2		
+développement		2		
+dévoiler		2		
+dévouement		2		
+dictée	(nom.)	2		
+dicton		2		
+différemment		2		
+diffus		2		
+diffus	diffus	2	1	
+diffus	diffuse	2	1	
+digest		2		
+digue		2		
+diligence	(voiture)	2		
+diminution		2		
+dindon		2		
+diphtérie		2		
+discipline		2		
+discipliner		2		
+disperser dissertation		2		
+distillerie		2		
+distribuer		2		
+...dit	(le dit	2		
+...dit	(du dit ... etc	2		
+divorce		2		
+dock		2		
+documentaire	(nom.)	2		
+dogme		2		
+donné		2		
+doreur		2		
+douche		2		
+douzaine		2		
+douzième		2		
+drapeau		2		
+drapier	(blanchisseur de draps	2		
+drogue		2		
+duel		2		
+duquel		2		
+durée		2		
+ébarber		2		
+écaille		2		
+échauffer		2		
+échec		2		
+échoir		2		
+écriteau		2		
+effacé		2		
+égoïsme		2		
+égoïste		2		
+égout		2		
+élan		2		
+élargir		2		
+électriquement		2		
+éléphant		2		
+élire		2		
+éloge		2		
+éloigné		2		
+éloquent		2		
+embarcadère		2		
+embellir		2		
+embrouiller		2		
+déformation		2		
+émerveiller		2		
+émigrer		2		
+emplacement		2		
+empocher		2		
+empoisonner		2		
+emprunter		2		
+ému		2		
+encadrer		2		
+enceinte		2		
+encombrer		2		
+encrasser		2		
+énervé		2		
+enfance		2		
+enfouir		2		
+engrais		2		
+enjamber		2		
+enquiquinement		2		
+enrhumé		2		
+enrichir	(pronom.)	2		
+entente		2		
+enthousiaste		2		
+entrain		2		
+entrant	(nom.)	2		
+entrave		2		
+entrepreneur		2		
+entre temps		2		
+envelopper		2		
+envier		2		
+épaissir		2		
+épaule		2		
+éperdument		2		
+épicerie		2		
+épineux		2		
+épineux	épineux	2	1	
+épineux	épineuse	2	1	
+épluchure		2		
+équivalent		2		
+équivoque		2		
+errer		2		
+érudit		2		
+escalader		2		
+esclave		2		
+esquimau		2		
+essayage		2		
+essor		2		
+estamper		2		
+esthétique		2		
+étang		2		
+état-civil		2		
+éternel		2		
+étonnant		2		
+étrangler		2		
+étroitement		2		
+étui		2		
+évacuation		2		
+évadé	(nom.)	2		
+évangile		2		
+évasion		2		
+éveillé		2		
+éventail		2		
+évoluer		2		
+évolution		2		
+exagération		2		
+excès		2		
+exigence		2		
+exode		2		
+expédition		2		
+expertise		2		
+explétif		2		
+exploit		2		
+express		2		
+extérioriser	(pronom.)	2		
+extrait		2		
+extrémité		2		
+fabuleux		2		
+fabuleux	fabuleux	2	1	
+fabuleux	fabuleuse	2	1	
+fâcheux		2		
+fâcheux	fâcheux	2	1	
+fâcheux	fâcheuse	2	1	
+facture		2		
+fagot		2		
+faillite		2		
+famélique		2		
+familier		2		
+fantaisiste		2		
+fatal		2		
+fauché	(argot)	2		
+féerique		2		
+femelle	(adj.)	2		
+ferme	(adj.)	2		
+ferré		2		
+fiançailles		2		
+fichier		2		
+fier	(pronom.)	2		
+filière		2		
+filtre		2		
+finances		2		
+fioriture		2		
+flacon		2		
+flageoler		2		
+flancher		2		
+flatter		2		
+flèche		2		
+fleurir		2		
+fleuve		2		
+foin		2		
+folklorique		2		
+fondamental		2		
+fondamental	fondamental	2	1	
+fondamental	fondamentale	2	1	
+fondre		2		
+forgeron		2		
+formalité		2		
+formellement		2		
+fortifiant		2		
+fouet		2		
+fouetter		2		
+fougasse		2		
+fourgon		2		
+fourgonnette		2		
+fournée		2		
+fourni	(obèse)	2		
+franc	(historique)	2		
+frémir s		2		
+frigidaire		2		
+fringale		2		
+fripé		2		
+froisser		2		
+frousse		2		
+fruste		2		
+frustrer		2		
+fuseau	(à filer)	2		
+gâcher		2		
+gaffe		2		
+gaieté		2		
+gaillardement		2		
+gallo-romain	(seulement au féminin	2		
+galon		2		
+gamelle		2		
+garçonnet		2		
+gardes-chiourme		2		
+garderie		2		
+garnir		2		
+gaucherie		2		
+gaver		2		
+gazogène		2		
+gélatineux		2		
+gencive		2		
+généraliser		2		
+généraliser	(généraliser	2	1	
+généraliser	(se généraliser	2	1	
+géométrique		2		
+gerbe		2		
+gestapo		2		
+gigogne	(dans lit	2		
+goinfrer	(pronom.)	2		
+goupiller	(pronom.)	2		
+glacé	(nom, terme de cuisine	2		
+glande		2		
+gésier		2		
+gourmand		2		
+graine		2		
+graissage		2		
+grammaticales		2		
+graphologie		2		
+grange		2		
+gratification		2		
+gratuit		2		
+gravier		2		
+greffer		2		
+grelotter		2		
+grenade	(arme	2		
+grille		2		
+grincer		2		
+grondement		2		
+grossir		2		
+guimpe		2		
+habile		2		
+habitué		2		
+hantise		2		
+harnais		2		
+haussières		2		
+héréditaire		2		
+heurter		2		
+hospitalier		2		
+humaine	(nom.)	2		
+hurler		2		
+iglou		2		
+ignorant	(nom. et adj.)	2		
+ignorant	ignorant	2	1	
+ignorant	ignorante	2	1	
+imaginaire		2		
+immangeable		2		
+immobile		2		
+imperméable	(nom.)	2		
+impotent		2		
+impotent	impotent	2	1	
+impotent	impotente	2	1	
+imprimeur		2		
+incendie		2		
+incollable		2		
+indigène	(nom.)	2		
+individualiste		2		
+individuellement		2		
+industriellement		2		
+infect		2		
+infecter		2		
+infiltrer	(pronom.)	2		
+infiniment		2		
+influencer		2		
+informer		2		
+infuse	(science)	2		
+infuser		2		
+initial		2		
+injure		2		
+inondation		2		
+inonder		2		
+insignifiant		2		
+instituer		2		
+instructeur		2		
+insuffisamment		2		
+insulter		2		
+intacte		2		
+intenable		2		
+internement		2		
+interner		2		
+intonation		2		
+invariablement		2		
+inventaire		2		
+invité	(nom.)	2		
+irlandaise		2		
+irlandais		2	0	
+ironiquement		2		
+irrespect		2		
+islandais		2		
+issue		2		
+jaloux		2		
+jaloux	jaloux	2	1	
+jaloux	jalouse	2	1	
+jazz		2		
+à jeun		2		
+jonc		2		
+joue		2		
+jouir		2		
+journaux		2		
+journalisme		2		
+jumeaux		2		
+jumelles		2		
+jus		2		
+justifier		2		
+kimono		2		
+lacet		2		
+laid		2		
+lainage		2		
+laïque		2		
+laissez-passer		2		
+laitue		2		
+lame		2		
+lard		2		
+latent		2		
+latent	latent	2	1	
+latent	latente	2	1	
+lauréate		2		
+laurier		2		
+lavasse		2		
+layette		2		
+légende		2		
+lessiveuse		2		
+lèvre		2		
+libraire		2		
+librement		2		
+lien		2		
+lièvre		2		
+ligature		2		
+literie		2		
+lors		2		
+loufiat		2		
+lourdement		2		
+lyonnais		2		
+lyrisme		2		
+macchabée		2		
+mâcher		2		
+machinisme		2		
+mâchonner		2		
+magnétophone		2		
+maigrichon		2		
+maillot		2		
+maîtriser		2		
+malaise		2		
+mâle		2		
+malhonnête		2		
+maniable		2		
+manier		2		
+marécageux		2		
+marée		2		
+margelle		2		
+marié		2		
+maritime		2		
+marron		2		
+marseillaise	(chant)	2		
+martinet		2		
+marxiste		2		
+masseur		2		
+masure		2		
+mater		2		
+mater	(mère)	2		
+matricule		2		
+mayonnaise		2		
+méandre		2		
+mécaniquement		2		
+mécanisme		2		
+méchanceté		2		
+meeting		2		
+mélodramatique		2		
+menacer		2		
+ménager		2		
+méningite		2		
+menton		2		
+mépriser		2		
+méridional		2		
+mérovingien		2		
+méticuleux		2		
+métisse		2		
+métronome		2		
+métropolitain	(personne	2		
+microphone		2		
+mijoter		2		
+militariste		2		
+minéralogie		2		
+miniature		2		
+mobile		2		
+modeste		2		
+modifier		2		
+moissonneuse		2		
+molette		2		
+môme		2		
+mondial		2		
+mondial	mondial	2	1	
+mondial	mondiale	2	1	
+monseigneur		2		
+monstre		2		
+montagneux		2		
+monticule		2		
+monument		2		
+moralisme		2		
+morceler		2		
+morne		2		
+morvandiau		2		
+mosquée		2		
+motrice	(adj.)	2		
+motif		2		
+motoriser		2		
+moustache		2		
+mouvoir		2		
+moyen-age		2		
+moyennant		2		
+muet		2		
+multiple		2		
+mûrir		2		
+musicalité		2		
+mutuel		2		
+mystérieux		2		
+nage		2		
+naïf		2		
+natte		2		
+navigation		2		
+nécessairement		2		
+nécessité		2		
+niche		2		
+noble		2		
+noblesse		2		
+noix		2		
+nomination		2		
+normand		2		
+normand	normand	2	1	
+normand	normande	2	1	
+notaire		2		
+notion		2		
+nourri	(applaudissements	2		
+nourries		2		
+noyau		2		
+nuire		2		
+objectif		2		
+obligation		2		
+obligatoire		2		
+occasionner		2		
+occidental		2		
+occupant		2		
+occurrence		2		
+ocre		2		
+oeillet		2		
+ondulation		2		
+opérer		2		
+opposer		2		
+optimiste		2		
+oratorio		2		
+ordinairement		2		
+outre		2		
+ouvrage		2		
+ouvrier	(adj.)	2		
+paie		2		
+paiement		2		
+pain d'épice		2		
+palace		2		
+place		2		
+palier		2		
+palmier		2		
+pancarte		2		
+panorama		2		
+pantomime		2		
+paquebot		2		
+paradichlorobenzène		2		
+paranoïaque		2		
+parapluie		2		
+paravent		2		
+parcourir		2		
+pare-brise		2		
+paresse		2		
+parleur		2		
+paroi		2		
+partition		2		
+parvenir		2		
+pas-de-porte		2		
+passage à niveau		2		
+passant	(nom.)	2		
+passant	passant	2	1	
+passant	passante	2	1	
+passé	(nom.)	2		
+passe-temps		2		
+passion		2		
+pastille		2		
+pathétique		2		
+patin		2		
+pâturage peaux-rouges		2		
+pêche	(fruit)	2		
+peigné	(tissu)	2		
+peler		2		
+pendule	(fém.)	2		
+pépie		2		
+pépin		2		
+perche		2		
+perdant		2		
+perdrix		2		
+périmètre		2		
+périssoire		2		
+permanence		2		
+pernod		2		
+perpète	(à ...)	2		
+perroquet		2		
+persévérance		2		
+persévérer		2		
+perspective		2		
+pète-sec		2		
+petite-nièce		2		
+pétition		2		
+pétrin	(embarras) pétrole	2		
+phlébite		2		
+phonétique		2		
+phonographe		2		
+phosphate		2		
+piastre		2		
+plage		2		
+piloter		2		
+piqueur		2		
+plaider		2		
+plantation		2		
+plâtrier		2		
+plonger		2		
+pommer	(argot)	2		
+pognon		2		
+poing		2		
+pointu		2		
+poliment		2		
+politesse		2		
+pommade		2		
+pomper		2		
+porcelet		2		
+porridge		2		
+portail		2		
+portée	(à la ...de)	2		
+pouce		2		
+poursuite		2		
+prairie		2		
+précédemment		2		
+précéder		2		
+précision		2		
+précipitamment		2		
+précoce		2		
+prédicateur		2		
+prédire		2		
+prélever		2		
+prématurément		2		
+préparatoire		2		
+préserver		2		
+président		2		
+présomption		2		
+pressentiment		2		
+pressentiment		2		
+présumer		2		
+prêt	(nom.)	2		
+prétention		2		
+prétexte		2		
+primer		2		
+primeur		2		
+primitif		2		
+prison		2		
+profit		2		
+progressif		2		
+progressif	progressif	2	1	
+progressif	progressive	2	1	
+progressiste		2		
+propagande		2		
+proportionner		2		
+prosterner	(pronom.)	2		
+protestation		2		
+prune		2		
+pruneau		2		
+prussien		2		
+psychanalyse		2		
+puer		2		
+pulvérisateur		2		
+punition		2		
+qualifier		2		
+quincaillier		2		
+quinconce		2		
+rabaisser		2		
+raccourcir		2		
+racler		2		
+radar		2		
+radeau		2		
+radin		2		
+raffinement		2		
+rafraîchissement		2		
+raisinet		2		
+ralenti		2		
+ralentissement		2		
+rangée	(nom.)	2		
+ranimer		2		
+râper		2		
+rapprochement		2		
+ras	(nom. et adj.)	2		
+ras	ras	2	1	
+rase	rase	2	1	
+rase-mottes		2		
+raté		2		
+ravir		2		
+ravissant		2		
+ravitailler	(pronom.)	2		
+réactionnaire		2		
+réalisation		2		
+rebâtir		2		
+rebuter		2		
+réception		2		
+recharger		2		
+récidiviste		2		
+réciproquement		2		
+recoller		2		
+recommandable		2		
+récompenser		2		
+reconstruction		2		
+record		2		
+recoudre		2		
+recouper		2		
+récrire		2		
+redevenir		2		
+réfection		2		
+réflexe		2		
+réfractaire		2		
+réfugié		2		
+régionalisme		2		
+régisseur		2		
+réglable		2		
+reine-marguerite		2		
+relater		2		
+relayer		2		
+remède		2		
+remord		2		
+remplacement		2		
+remplissage		2		
+remporter		2		
+rémunérer		2		
+renforcer		2		
+rente		2		
+renverse	(à la)	2		
+repasseur		2		
+repenser		2		
+repentir	(pronom.)	2		
+reportage		2		
+résider		2		
+résistant		2		
+résister		2		
+respectueusement		2		
+respectueux		2		
+respiratoire		2		
+ressouder	(pronom.)	2		
+ressource		2		
+restauration		2		
+retoucher		2		
+retrousser		2		
+retrousser		2	1	
+retrousser	(décéder	2		
+retrousser	(argot	2	1	
+réveillonner		2		
+révolter	(pronom.)	2		
+révolutionnaire	(adj.)	2		
+rez-de-chaussée		2		
+rhume		2		
+rigueur		2		
+rizière		2		
+robinet		2		
+rodage		2		
+roder	(voiture)	2		
+romantique		2		
+rompre		2		
+ronde	(nom.)	2		
+rondelle		2		
+ruche		2		
+ruelle		2		
+rugby		2		
+sable		2		
+sabot		2		
+sadique		2		
+saisir		2		
+salaire		2		
+salé		2		
+salopard		2		
+saloperie		2		
+sang-froid		2		
+sarrasin		2		
+saucisse		2		
+sauvette		2		
+scinder		2		
+seconder		2		
+secouriste		2		
+secousse		2		
+section		2		
+seigle		2		
+seigneurial		2		
+sein		2		
+sel		2		
+selle		2		
+semblant		2		
+semelle		2		
+sentinelle		2		
+seriner		2		
+seringue		2		
+serment		2		
+signalement		2		
+significatif		2		
+silentbloc		2		
+simplicité		2		
+sincèrement		2		
+site		2		
+sitôt que		2		
+skieur		2		
+snob		2		
+soixantaine		2		
+solidement		2		
+solidité		2		
+soliste		2		
+sommeil		2		
+sommier		2		
+sonate		2		
+souffrance		2		
+soupape		2		
+soutenir		2		
+soutien-gorge		2		
+spectateur		2		
+spontané		2		
+stabilisation		2		
+stable		2		
+sténographie		2		
+sténotypie		2		
+successif		2		
+successivement		2		
+sud-est		2		
+sueur		2		
+superficiel		2		
+superstition		2		
+suppléer		2		
+supportable		2		
+surajouter		2		
+surlendemain		2		
+surnom		2		
+survoler		2		
+symbole		2		
+sympathiser		2		
+synchronisé		2		
+syrien		2		
+tablette		2		
+tabou		2		
+taffetas		2		
+talent		2		
+tamponner		2		
+tape		2		
+tapisserie		2		
+tapissier		2		
+tatiller		2		
+taux		2		
+teint		2		
+terne		2		
+terreau		2		
+terroir		2		
+testicule		2		
+teuf-teuf		2		
+textile	(adj.)	2		
+thermostat		2		
+thorax		2		
+tien		2		
+toiture		2		
+totalité		2		
+toupet	(fig.)	2		
+tour	(fém.)	2		
+tourelle		2		
+tourmenter		2		
+tourneur		2		
+tournevis		2		
+tousser		2		
+toutefois		2		
+trait		2		
+traite		2		
+traité		2		
+traître		2		
+tranquillité		2		
+transformation		2		
+transi		2		
+transit		2		
+transmettre		2		
+troisième		2		
+trier		2		
+trilogie		2		
+tripaille		2		
+trompette		2		
+trouble		2		
+trousser		2		
+turc		2		
+tyrolienne	(nom.)	2		
+unir		2		
+univers		2		
+urgent		2		
+utilitaire		2		
+vachement		2		
+valet de chambre		2		
+valse		2		
+vanter		2		
+varice		2		
+vase	(fém.)	2		
+vénérer		2		
+vengeance		2		
+verbal		2		
+verglas		2		
+vérification		2		
+vérifier		2		
+vertige		2		
+vestiaire		2		
+vexant		2		
+vigoureusement		2		
+vinaigre		2		
+violette	(nom.)	2		
+violoncelle		2		
+viscères		2		
+volcan		2		
+voltiger		2		
+vulgairement		2		
+zinnia		2		
+zoo		2		
+a.b.c.		1		
+abaissement		1		
+abaisser	(pronom.)	1		
+abandon		1		
+abécédaire		1		
+abondamment		1		
+abattage		1		
+abbé		1		
+abdomen		1		
+abdominale		1		
+abeille		1		
+aboutissant		1		
+aboutissement		1		
+à bout portant		1		
+abricot		1		
+à brûle pourpoint		1		
+abrutir	(pronom.)	1		
+absenter	(pronom.)	1		
+abusif		1		
+abusif	abusif	1	0	
+abusif	abusive	1	1	
+académicien		1		
+accéder		1		
+accéléré		1		
+accentuer		1		
+acceptable		1		
+accidentel		1		
+accordéon		1		
+accroc		1		
+accrochage		1		
+accrocher	(pronom.)	1		
+accueil		1		
+accueillant		1		
+acharnement		1		
+acharner	(pronom.)	1		
+acheminer		1		
+achoppement		1		
+acide	(nom.)	1		
+à-coups	(nom.)	1		
+acquittement		1		
+acquitter	(pronom.)	1		
+addition		1		
+adéquat		1		
+adéquat	adéquat	1	0	
+adéquat	adéquate	1	1	
+adhérer		1		
+adieu		1		
+adjudication		1		
+administrativement		1		
+admirable		1		
+admiration		1		
+adonner	(pronom.)	1		
+adoration		1		
+adresse	(habileté)	1		
+adversaire		1		
+affable		1		
+affaiblir		1		
+affaisser	(pronom.)	1		
+affamer		1		
+affectation		1		
+affichage		1		
+affilée	(d')	1		
+affleurer		1		
+afflux		1		
+affolé		1		
+affolement		1		
+affût	(de canon)	1		
+afin de		1		
+africain	(adj.)	1		
+africain	africain 	1	0	
+africain	africaine	1	1	
+agaçant		1		
+agacé		1		
+agacer		1		
+agape		1		
+agio		1		
+agité		1		
+agrafer		1		
+agrandir	(pronom.	1		
+agréer		1		
+agrégatif	(adj.)	1		
+agrégé	(nom.)	1		
+agrémenter		1		
+agressif		1		
+agressif	agressif	1	0	
+agressif	agressive	1	1	
+ahuri		1		
+aide-comptable		1		
+aïeul		1		
+aiguillage		1		
+aiguille		1		
+aiguiseur		1		
+aimablement		1		
+aire		1		
+alarmer	(pronom.)	1		
+alcoolique	(adj.)	1		
+alésage		1		
+algèbre		1		
+aliéniste		1		
+aliment		1		
+alimentaire		1		
+alimenter		1		
+alité		1		
+allié	(parent)	1		
+allonger	(pronom.)	1		
+allumage		1		
+allusion		1		
+alouette		1		
+alpin		1		
+alpiniste		1		
+alsacien	(nom.)	1		
+altitude		1		
+aluminium amalgame		1		
+ambassade		1		
+ambiguïté		1		
+ambitieux		1		
+ambition		1		
+ambitionner		1		
+ambulant		1		
+amenuisement		1		
+amiable	(à l'...)	1		
+amical		1		
+amiral		1		
+amorce		1		
+amortisseur	(nom.)	1		
+ampère		1		
+amphibie		1		
+amphithéâtre		1		
+ampleur		1		
+amplification		1		
+ampoule	(cloque)	1		
+analyser		1		
+anarchiste		1		
+ancêtre		1		
+ancrer		1		
+andouille	(fig.)	1		
+anecdote		1		
+ange		1		
+angelot		1		
+angoisse		1		
+anguleux		1		
+anguleux	anguleux	1	0	
+anguleux	anguleuse	1	1	
+anicroche		1		
+animation		1		
+animisme		1		
+anis		1		
+ankyloser	(pronom.)	1		
+annexer		1		
+annihiler		1		
+annonceur		1		
+anodin		1		
+anormalité		1		
+antérieur		1		
+antériorité		1		
+anticommuniste		1		
+antiparasiter		1		
+anti-populisme		1		
+anti-troll	(v.troll).	1		
+apaiser	(pronom )	1		
+apéro		1		
+aphone		1		
+aphteuse	(fièvre)	1		
+apostolat		1		
+apparenter	(pronom.)	1		
+apparition		1		
+appauvrir	(pronom)	1		
+appétissant		1		
+appointé		1		
+apport		1		
+approprié		1		
+approvisionner	(pronom	1		
+a priori		1		
+arboriculteur		1		
+arboriculture		1		
+archaïsme		1		
+archéologue		1		
+archet		1		
+archevêque		1		
+architectural		1		
+architectural	architectural	1	0	
+architectural	architecturaux	1	1	
+ardeur		1		
+à rebours		1		
+arêtes		1		
+aristocratique		1		
+armé	(béton)	1		
+armistice		1		
+armoricain		1		
+armoricain	armoricain	1	0	
+armoricain	armoricaine	1	1	
+aromates		1		
+arpète		1		
+arrêté		1		
+arrondi		1		
+arsenic		1		
+arthrite		1		
+artificiellement		1		
+artillerie		1		
+ascenseur		1		
+ascension		1		
+asile		1		
+assaillir		1		
+assainir		1		
+assassiner		1		
+assembler	(pronom.)	1		
+auscultation		1		
+assimilable		1		
+assimiler		1		
+assises	(cour d')	1		
+association assommant		1		
+assurance	(confiance en soi	1		
+astiquer		1		
+astucieux		1		
+atomique		1		
+atout		1		
+attachant		1		
+attachant	attachant	1	0	
+attachant	attachante	1	1	
+attachement		1		
+attelage		1		
+attelle		1		
+attente		1		
+attenter		1		
+attentif		1		
+attestation		1		
+attirail		1		
+attirance		1		
+attitrer		1		
+attrape		1		
+attrape-nigaud		1		
+audace		1		
+auditionnable		1		
+auditoire		1		
+aumône		1		
+auditoire		1		
+auréole		1		
+auscultation		1		
+auspice	(ou auspices)	1		
+autocensure		1		
+automobiliste		1		
+autopsie		1		
+autorisation		1		
+auto-stopiste		1		
+auxiliaire		1		
+avantager		1		
+avant-garde		1		
+avant-scène		1		
+avantageux		1		
+avare		1		
+aveugle		1		
+avenant		1		
+averse		1		
+aveu		1		
+aveu		1		
+aveugler		1		
+bac	(bateau)	1		
+bacchus		1		
+bâclé		1		
+bâcler		1		
+bâche		1		
+bachotage		1		
+bacillaire		1		
+bagarrer	(pronom.)	1		
+baïonnette		1		
+bahut	(meuble)	1		
+balance		1		
+balayette		1		
+balbutier		1		
+balistique		1		
+balade	(promenade)	1		
+balsamique		1		
+ban		1		
+banalisé		1		
+banaliser		1		
+banquette .		1		
+baraquement		1		
+baratiner		1		
+barbant		1		
+barbarie	(orgue)	1		
+barboteuse		1		
+baroud		1		
+barrer		1		
+barricade		1		
+basilique		1		
+bas-lieu		1		
+basque		1		
+bastion		1		
+bataillon		1		
+bath		1		
+battage		1		
+battant		1		
+baver	( en ...	1		
+bazarder		1		
+bégayer		1		
+belle	(l'échapper belle)	1		
+bémol		1		
+bénéficiaire		1		
+bénévole		1		
+bénin		1		
+bénin	bénin	1	0	
+bénin	bénigne	1	1	
+berbère		1		
+bercer		1		
+bergerie		1		
+berline		1		
+berlingue		1		
+besogne		1		
+bestiole		1		
+bêtement		1		
+béton		1		
+betterave		1		
+biberonner		1		
+bidon		1		
+bidule		1		
+bien-être		1		
+bienveillant		1		
+bifurquer		1		
+bigarreau		1		
+bigler		1		
+bigot		1		
+bilan		1		
+bile	(se faire de la)	1		
+bise		1		
+biseau		1		
+bizuth		1		
+bistre		1		
+bizness		1		
+blaguer		1		
+blâme		1		
+blanchir		1		
+blanquette		1		
+blasé		1		
+blédine		1		
+bloc	(à bloc)	1		
+blocus		1		
+bohème	(vie de)	1		
+bombé		1		
+bon à rien		1		
+bonnement		1		
+bonnet		1		
+bonneterie		1		
+boogie		1		
+bordant		1		
+border		1		
+borné		1		
+borner	(pronom.)	1		
+bosse		1		
+botte		1		
+boucan		1		
+boucler		1		
+bouddhique		1		
+boudoir		1		
+bouc		1		
+bouffeur		1		
+bouffeur	bouffeur	1	0	
+bouffeur	bouffeuse	1	1	
+bougainvillier		1		
+bouille	(à lait)	1		
+bouille		1		
+bouilloire		1		
+boulangerie		1		
+bouleversé		1		
+boulon		1		
+bourgeoisie		1		
+bourgeon		1		
+bourgogne	(vin de)	1		
+bourré		1		
+boutade		1		
+boutonnière		1		
+boyau	(viscère)	1		
+brancard		1		
+brandebourgs		1		
+branlant		1		
+branlant	branlant	1	0	
+branlant	branlante	1	1	
+branle	(se mettre en)	1		
+branler		1		
+brassage		1		
+brasser		1		
+brassière		1		
+brebis		1		
+bredouiller		1		
+bric à brac		1		
+brigade		1		
+brigadier		1		
+brigand		1		
+brimer		1		
+brin		1		
+brique	(nom.)	1		
+briquet		1		
+bristol		1		
+britannique	(adj.)	1		
+brochet		1		
+brochure		1		
+broncher		1		
+broncho-pneumonie		1		
+brouille		1		
+brouillard		1		
+broussaille		1		
+broyer		1		
+brûlant		1		
+brume		1		
+brunissage		1		
+brusquer		1		
+brutalement		1		
+bruyamment		1		
+bruyant		1		
+buanderie		1		
+buée		1		
+bureaucrate		1		
+butagaz		1		
+butane		1		
+byzantin		1		
+byzantin	byzantin	1	0	
+byzantin	byzantine	1	1	
+cabotin		1		
+cachalot(figuré)		1		
+cache-poussière		1		
+cachet	(air)	1		
+cacophonie		1		
+cadenas		1		
+cadrer		1		
+cafard	(spleen)	1		
+cahoter		1		
+caïd		1		
+caille		1		
+cajoler		1		
+cake		1		
+calaminer		1		
+calcaire		1		
+calembour		1		
+calendrier		1		
+calendrier		1		
+calorifère		1		
+calquer		1		
+calter		1		
+calvados	(alcool)	1		
+cambrouse		1		
+camelot		1		
+camelote		1		
+camionnette		1		
+campement		1		
+camphre		1		
+cancan		1		
+candélabre		1		
+canner		1		
+canotier	(rameur)	1		
+cantate		1		
+cape		1		
+capillaire		1		
+capitolade		1		
+capitulation		1		
+caporal		1		
+caprice		1		
+captation		1		
+capter		1		
+capturer		1		
+carabine		1		
+caractériser		1		
+carafe		1		
+caramel		1		
+carboniser		1		
+carnage		1		
+carrée	(nom.)	1		
+carrelage		1		
+carriole		1		
+carrossable		1		
+carrure		1		
+casaque		1		
+cascade		1		
+cascadeur		1		
+casier		1		
+cassable		1		
+casse-noisette		1		
+caste		1		
+catacombe		1		
+catalan	(langue)	1		
+catalepsie		1		
+cataracte	(yeux)	1		
+catéchisme		1		
+cauchemar		1		
+caution		1		
+cavale		1		
+cavatine		1		
+cavité		1		
+cellulosique		1		
+celtique		1		
+centralisation		1		
+centrer		1		
+centuple		1		
+céramique		1		
+certifier		1		
+cesse	(sans...)	1		
+ceux-ci		1		
+chahuteur		1		
+chai		1		
+chaland	(bateau)	1		
+chaleureusement		1		
+chaloupe		1		
+chamaillerie		1		
+chamarré		1		
+chambouler		1		
+chambre à air		1		
+championnat		1		
+chandail		1		
+chandelier		1		
+change		1		
+changeant		1		
+chantage		1		
+chantonner		1		
+chapelet		1		
+charabia		1		
+charbonnier		1		
+charcuterie	(boutique)	1		
+charmer		1		
+charogne		1		
+charpentier		1		
+charrue		1		
+chartreux		1		
+chasse-roue		1		
+chaste		1		
+châtaigne	(couleur)	1		
+chateau-arrière		1		
+chatouiller		1		
+chatouilleux		1		
+chaudement		1		
+chaume		1		
+chaumière		1		
+cheminot		1		
+chêne		1		
+chenille	(animal)	1		
+cheptel		1		
+chercheur		1		
+cherry		1		
+chevet		1		
+chiader		1		
+chèvre		1		
+chiche		1		
+chien	(de fusil)	1		
+chiffrer	(se...par)	1		
+chimérique		1		
+chiner	(se moquer)	1		
+chipoter		1		
+chirurgie		1		
+choir		1		
+chorégraphe		1		
+chouchouter		1		
+choucroute		1		
+choyer		1		
+chrétienté		1		
+chromé		1		
+chronologie		1		
+cible		1		
+cicatriser	(pronom.)	1		
+cidre		1		
+cigare		1		
+cil		1		
+cime		1		
+cimenter		1		
+ciné		1		
+circonférence		1		
+circonflexe	(accent)	1		
+cirrhose		1		
+cisaille	(instrument	1		
+citation		1		
+citerne		1		
+citoyen		1		
+citron	(citroën)	1		
+civet		1		
+civilisé		1		
+claire-voie		1		
+clarinette		1		
+clarté		1		
+classard		1		
+classifier		1		
+claviculaire		1		
+clavicule		1		
+clérical		1		
+clignement		1		
+cligner		1		
+clin d'oeil		1		
+clochard		1		
+clocher	(verbe.)	1		
+clore		1		
+clos	(nom.)	1		
+clôture		1		
+clouer	(pronom.)	1		
+cobaye		1		
+cocarde		1		
+cocasse		1		
+cocasserie		1		
+cochonnerie		1		
+cocotte	(cuisine)	1		
+cocotte	(en papier)	1		
+cocu		1		
+coefficient		1		
+coffre		1		
+cognac		1		
+cogner		1		
+coi	(se tenir...)	1		
+coincé		1		
+coïncider		1		
+colique		1		
+colite		1		
+collaboration		1		
+colle		1		
+collectionner		1		
+colorant		1		
+coloration		1		
+coloré		1		
+colossal		1		
+colza		1		
+coma		1		
+combattre		1		
+combine		1		
+combiner		1		
+comédie	(française)	1		
+comice		1		
+commanditer		1		
+commando		1		
+commisératif		1		
+communauté		1		
+communisme		1		
+commutateur		1		
+compétence		1		
+complainte		1		
+complexe	(adj.)	1		
+complexité		1		
+complicité		1		
+complimenter		1		
+comporter		1		
+compote		1		
+compréhension		1		
+compromettre		1		
+compromis		1		
+compromission		1		
+con		1		
+concerto		1		
+concession		1		
+concessionnaire		1		
+concilier		1		
+concordant		1		
+concurremment		1		
+condamné		1		
+condoléance		1		
+confesser	(pronom.)	1		
+confiant		1		
+confidentiel		1		
+configuration		1		
+confiner		1		
+confiserie		1		
+conformation		1		
+confortablement		1		
+confusément		1		
+confusion		1		
+comique		1		
+conjugal		1		
+conquête		1		
+conseiller	(nom.)	1		
+conséquente	(importante	1		
+conservation		1		
+conservé		1		
+consolation		1		
+consoler		1		
+consommé	(adj.)	1		
+consonance		1		
+constant		1		
+consterné		1		
+constructif		1		
+consulat		1		
+consultation		1		
+consulter		1		
+contemplation		1		
+contempler		1		
+contentement		1		
+contexte		1		
+continuation		1		
+contracter		1		
+contrairement		1		
+contraste		1		
+contrebalancer		1		
+contrebandier		1		
+contrebas		1		
+contrecarrer		1		
+contrecoup		1		
+contredanse	(contravention	1		
+contrefort		1		
+contre-jour		1		
+contrepoids		1		
+convalescence		1		
+convention		1		
+convenance		1		
+converser		1		
+convertir		1		
+convocation		1		
+convoquer		1		
+convulsion		1		
+copeau		1		
+coq		1		
+coq à l'âne		1		
+coquetterie		1		
+coquillage		1		
+coquillard		1		
+coquille		1		
+coquin		1		
+cor	(de chasse)	1		
+corbeau		1		
+cordonnier		1		
+corniche		1		
+cornichon		1		
+cocon		1		
+correction		1		
+correctionnelle		1		
+correspondant		1		
+corrigé	(nom.)	1		
+corsaire		1		
+coterie		1		
+côtière		1		
+cotisation		1		
+cotiser	(pronom.)	1		
+coulisses	(théâtre	1		
+coupé		1		
+courber		1		
+courses	(emplettes	1		
+courtois		1		
+couscous		1		
+coussin		1		
+court	(adv.)	1		
+coutume		1		
+coutumière		1		
+couver		1		
+couveuse		1		
+couvre-feu		1		
+couvreur		1		
+cow-boy		1		
+crack		1		
+cramponner	(pronom.)	1		
+crapaud		1		
+créateur		1		
+credo		1		
+crémière		1		
+crémier		1		
+crépu		1		
+crépuscule		1		
+crête	(de montagne)	1		
+creuser		1		
+creux	(nom.)	1		
+crevaison		1		
+crève	(argot:nom)	1		
+cricri		1		
+crincrin		1		
+crispation		1		
+critiquable		1		
+croisé	(mots ..)	1		
+croiser		1		
+croisement		1		
+croiseur		1		
+croissance		1		
+croquer		1		
+croquettes		1		
+croyant		1		
+cruchon	(fig:bête)	1		
+crûment		1		
+cuber		1		
+cuirassé	(nom.)	1		
+cuisant		1		
+cuisiner		1		
+cuistot	(cuisinier)	1		
+cycle		1		
+cymbales		1		
+dactylographier		1		
+dada		1		
+dagobert	(fauteuil)	1		
+daigner		1		
+dalle		1		
+dancing		1		
+darder		1		
+date		1		
+déambuler		1		
+débandade		1		
+débardeur		1		
+débarrasser		1		
+débat		1		
+débit	(élocution)	1		
+débitage		1		
+déblaiement		1		
+déboîter	(pronom.)	1		
+débordante	(adj.)	1		
+débordement		1		
+débouché		1		
+débrayage		1		
+débris		1		
+décadence		1		
+décalaminer		1		
+décalcification		1		
+décapage		1		
+décati	(fig.)	1		
+déception		1		
+décerner		1		
+décès		1		
+déchaîner		1		
+déclamer		1		
+déclic		1		
+déconseiller		1		
+décontracter		1		
+découdre		1		
+décréter		1		
+dédier		1		
+dédire	(pronom.)	1		
+défilé	(militaire)	1		
+défiler		1		
+déformé		1		
+défrichement		1		
+dégagement		1		
+dégouliner		1		
+dégoût		1		
+dégrader		1		
+dégueulasse		1		
+déguster		1		
+déjanter	(pronom.)	1		
+delahaye	(voiture)	1		
+délecter	(pronom.)	1		
+délicatesse		1		
+délié		1		
+délinquant		1		
+delirium		1		
+délivrer		1		
+demandeur		1		
+démarche		1		
+démarrage		1		
+démarreur		1		
+déménagement		1		
+démener	(pronom.)	1		
+démettre		1		
+démodé		1		
+démographique		1		
+démolition		1		
+démonstrateur		1		
+démonstratif		1		
+démultiplier		1		
+dénivellation		1		
+dénommé		1		
+dénommer		1		
+dénoncer		1		
+dénoter		1		
+dense		1		
+dépannage		1		
+dépaysé		1		
+dépêcher	(pronom.)	1		
+déplorable		1		
+dépositaire		1		
+dépôt	(dans un liquide)	1		
+dépourvu	(au)	1		
+dépourvu		1		
+dépréciatif		1		
+dépression		1		
+députés		1		
+dérangement		1		
+dérision		1		
+désaccord		1		
+désaffectation		1		
+désarçonner		1		
+désarmer		1		
+désastreuse		1		
+descendant	(adj.)	1		
+déserter		1		
+désespéré		1		
+désespoir		1		
+désherber		1		
+déshumaniser		1		
+désintéressé		1		
+désirable		1		
+désirée		1		
+désolé		1		
+désordonné		1		
+désorienter		1		
+désordre		1		
+désormais		1		
+destination		1		
+détaché		1		
+détacher	(se...de)	1		
+détaillant		1		
+détecter		1		
+détester		1		
+détone		1		
+détraquer		1		
+détresse		1		
+détromper		1		
+deuxièmement		1		
+déveine		1		
+dévergondé		1		
+déversoir		1		
+déviation		1		
+deviner		1		
+dévorer		1		
+dévotion		1		
+dévoué		1		
+diagonale		1		
+diagnostic		1		
+diamètre		1		
+dicter		1		
+différentiel		1		
+diffuseur		1		
+digestif	(nom.)	1		
+diluer		1		
+diplomate	(adj.)	1		
+direction	(mécan.)	1		
+dirigeant		1		
+discréditer		1		
+disculper	(pronom.)	1		
+disloquer		1		
+dispenser	(donner)	1		
+disponible		1		
+disputer	(pronom.)	1		
+distant		1		
+distilleuse		1		
+distinction		1		
+distrait		1		
+distrayant		1		
+distribution		1		
+diurétique		1		
+divergence		1		
+diversité		1		
+divertissant		1		
+divine		1		
+divorcé		1		
+divulguer		1		
+dodu		1		
+don		1		
+dorsal		1		
+doryphore		1		
+dossier		1		
+doublage		1		
+doublure	(étoffe)	1		
+doucher		1		
+douteuse		1		
+draperie		1		
+dresseur	(music-hall	1		
+droguer		1		
+dû	(nom.)	1		
+dureté		1		
+ébéniste		1		
+éberluer		1		
+ébouriffant		1		
+ébullition		1		
+écart		1		
+échanson		1		
+échantillon		1		
+échelon		1		
+éclaircir		1		
+éclats		1		
+éclectique		1		
+écoeurant		1		
+économat		1		
+écorchage		1		
+écourter		1		
+écoute		1		
+écouteur	(auditeur	1		
+écureuil		1		
+édification		1		
+édifier		1		
+effectif	(nom.)	1		
+effondrer		1		
+efforcer		1		
+effrontément		1		
+égaler		1		
+égaliser		1		
+égarer	(pronom.)	1		
+élancer	(pronom.)	1		
+élargissement		1		
+électrification		1		
+électrocuter		1		
+élévation		1		
+élimination		1		
+éliminer		1		
+éloquence		1		
+émaner		1		
+emballeur		1		
+embarras		1		
+embarras	(santé)	1		
+embauche		1		
+embaumer		1		
+embobiner		1		
+emboîtage		1		
+embonpoint		1		
+embrouillamini		1		
+embuer	(pronom.)	1		
+émérite		1		
+émetteur		1		
+émigrant		1		
+émigré		1		
+éminemment		1		
+emmancher	(pronom.)	1		
+emmitoufler		1		
+émoi		1		
+émotionner		1		
+émoustiller		1		
+émouvant		1		
+empêche	(n' - que)	1		
+empereur		1		
+emplette		1		
+emplir		1		
+empoisonnant	(fig.)	1		
+empoisonnement		1		
+empreinte	(adj.)	1		
+empresser	(pronom.)	1		
+emprise		1		
+emprisonnement		1		
+emprunt		1		
+en tant que		1		
+encadreur		1		
+enclos	(nom.)	1		
+encoche		1		
+encombrant		1		
+encombrement		1		
+encontre	(à 	1		
+encoubler	(?)(sic)	1		
+encyclopédie		1		
+endetter	(pronom.)	1		
+endeuiller		1		
+endives		1		
+endocrinien		1		
+endormi		1		
+enduire		1		
+enflammer		1		
+enfoiré	(nom.)	1		
+enfourcher		1		
+enjôler		1		
+enlumineur		1		
+enquiquinant		1		
+enquiquiner		1		
+enrhumé		1		
+enrôler		1		
+enrouler		1		
+enrubanné		1		
+ensemencer		1		
+entamer		1		
+entasser		1		
+entêter	(pronom.)	1		
+entourloupette		1		
+entêté		1		
+entité		1		
+entoiler		1		
+entraider	(pronom.)	1		
+entraînement		1		
+entraîneur		1		
+entrecouper		1		
+entreposer		1		
+entrevue		1		
+énumérer		1		
+envers	(prépos.)	1		
+envol		1		
+épanchement		1		
+épanouir		1		
+éparpiller		1		
+épidémie		1		
+épinard		1		
+épine		1		
+épinière		1		
+épique		1		
+épisode		1		
+éploré		1		
+épluchage		1		
+épopée		1		
+épreuve		1		
+épuisement		1		
+épuration		1		
+équilibre		1		
+équilibré		1		
+équipage		1		
+équipement		1		
+équivaloir		1		
+ère		1		
+ermite		1		
+errant		1		
+erroné		1		
+escadre		1		
+escalope		1		
+escargot		1		
+escrimeur		1		
+esgourder		1		
+espacé		1		
+espacé		1		
+essoré		1		
+espérance		1		
+espéranto		1		
+espiègle		1		
+estomaquer		1		
+estropier		1		
+étagère		1		
+étain		1		
+étanche		1		
+étendue	(nom.)	1		
+éther		1		
+étouffoir		1		
+étrangement		1		
+étrenne		1		
+étripailler		1		
+eucalyptus		1		
+eunuque		1		
+évacuer		1		
+évanouir	(pronom.)	1		
+éveil		1		
+éventail		1		
+évêque		1		
+évidence		1		
+évolué		1		
+examinateur		1		
+exaspération		1		
+exaspérer		1		
+excédé		1		
+excéder		1		
+excellence	(par)	1		
+excepté		1		
+exception		1		
+excitation		1		
+exciting		1		
+exclamation		1		
+exclusivité		1		
+excusable		1		
+exécuter		1		
+exécution		1		
+exempt		1		
+exempter		1		
+exhumer		1		
+exigent		1		
+exil		1		
+existentialiste		1		
+expatrier	(pronom.)	1		
+exploitant		1		
+explosion		1		
+expropriation		1		
+exquise		1		
+extérieurement		1		
+extra		1		
+extravagant		1		
+fa	(note)	1		
+fable		1		
+façade		1		
+facette		1		
+façonnier		1		
+factice		1		
+faculté	(aptitude)	1		
+faïence		1		
+falot		1		
+falot		1	0	
+falote		1	1	
+familiariser	(pronom.)	1		
+familiarité		1		
+faon		1		
+farce		1		
+farceur		1		
+fatras		1		
+faubourien		1		
+faucheuse		1		
+fausser		1		
+fauter		1		
+faux-frais		1		
+favoriser		1		
+feignant		1		
+feinte	(nom.)	1		
+fendiller	(pronom.)	1		
+fermenté		1		
+fermeture		1		
+ferreux		1		
+feuille	(argot oreille)	1		
+feuillet		1		
+feuilleté		1		
+fibre		1		
+fidèlement		1		
+fierté		1		
+figue		1		
+file		1		
+filet	(de pêche)	1		
+filou		1		
+final		1		
+finaud		1		
+finesse		1		
+finlandais		1		
+fissure		1		
+flagrant		1		
+flamande	(adj.)	1		
+flan	(du)	1		
+flanc		1		
+flaque		1		
+flash	(es) (flacon	1		
+flegmatique		1		
+flemmard		1		
+flemme		1		
+fleur de lis		1		
+fleuriste		1		
+flirter		1		
+florin		1		
+florissante		1		
+flot	(à) (en abondance	1		
+flotte	(eau)	1		
+flou		1		
+fluet		1		
+flûte		1		
+flûtiste		1		
+fluvial		1		
+fofolle		1		
+foireux		1		
+folklore		1		
+follement		1		
+foncière		1		
+fondateur		1		
+footing		1		
+forestière		1		
+formaliser	(pronom.)	1		
+formel		1		
+formuler		1		
+forteresse		1		
+fortiche	(argot)	1		
+fortuné		1		
+fouillis		1		
+fourbi		1		
+fourchette		1		
+fourmilière		1		
+fournil		1		
+fournisseur		1		
+fourniture		1		
+fourrer		1		
+fourrure		1		
+foyer	(optique)	1		
+fragilité		1		
+fraise		1		
+franc	(adj.) (loyal)	1		
+franchir		1		
+franchise		1		
+franger		1		
+frayeur		1		
+frêne		1		
+fréquentation		1		
+fricoter		1		
+frileux		1		
+friper		1		
+frire		1		
+friture	(poisson)	1		
+froidement		1		
+frôler		1		
+fromager		1		
+fructueux		1		
+faite		1		
+funiculaire		1		
+fureter		1		
+fusion		1		
+futé		1		
+futur	(adj.)	1		
+fuyante		1		
+gâchette		1		
+gaillard		1		
+gaine		1		
+galant	(adj.)	1		
+galanterie		1		
+galère		1		
+galet		1		
+galipettes		1		
+gallois		1		
+galopade		1		
+galvaniser		1		
+gambade		1		
+gambiller		1		
+gamme		1		
+gangrène		1		
+garde-boue		1		
+garde-malade		1		
+garde-manger		1		
+garnement		1		
+gasoil		1		
+gaspiller		1		
+gazon		1		
+gazouiller	(argot)	1		
+gel		1		
+gémir		1		
+généalogie		1		
+généalogique		1		
+généreusement		1		
+générique	(nom.)	1		
+genevoise		1		
+génial		1		
+gent		1		
+gentilhomme		1		
+géologue		1		
+géomètre		1		
+géométrie		1		
+gérant		1		
+gérer		1		
+gifler		1		
+gigantesque		1		
+girafe		1		
+girond	(adj.)	1		
+gitan		1		
+gitan	gitan	1	0	
+gitan	gitane	1	1	
+glacé	(papier glacé	1		
+glacier	(établissement	1		
+glacière		1		
+glacial		1		
+glaiseuse	(nom.)	1		
+gland		1		
+glissière		1		
+gobe-mouches		1		
+godasse	(s)	1		
+goguette		1		
+goinfrerie		1		
+golf		1		
+golfe		1		
+gond		1		
+gondole		1		
+gondoler	(pronom.)	1		
+gonfler		1		
+gorgée		1		
+gouache		1		
+gourde	(adj.)	1		
+gourer	(pronom.)	1		
+gourmandise		1		
+goûter		1		
+gouvernante		1		
+gouvernemental		1		
+gouvernemental		1	0	
+gouvernementaux		1	1	
+gouverner		1		
+grabat		1		
+gracieusement		1		
+grand	(adv.)	1		
+grand-tante		1		
+graphologue		1		
+granit		1		
+grappe		1		
+gratiné		1		
+gratiné		1		
+gratis		1		
+gravement		1		
+graver	(pronom.)	1		
+gravité		1		
+graviter		1		
+gravure		1		
+grelon		1		
+grenaille		1		
+grès		1		
+grever		1		
+griffer		1		
+grillage		1		
+grimace		1		
+grimpette		1		
+gripper		1		
+grisonnant		1		
+grisonnant	grisonnant	1	0	
+grisonnant	grisonnante	1	1	
+grivois		1		
+grivois	grivois	1	0	
+grivois	grivoise	1	1	
+grog		1		
+grec		1		
+grossesse		1		
+grosseur		1		
+grossiste		1		
+groupement		1		
+guérilla		1		
+guibole		1		
+guidon		1		
+guillotine		1		
+guillotiner		1		
+guirlande		1		
+guise	(en - de)	1		
+guitare		1		
+guyanais		1		
+gynécologue		1		
+habileté		1		
+habituellement		1		
+haillons		1		
+haine		1		
+haleine		1		
+hallucination		1		
+hanche		1		
+hand-ball		1		
+harceler		1		
+hargneux		1		
+harmonica		1		
+harmonieux		1		
+harmonium		1		
+harponner		1		
+hâte		1		
+hâter	(pronom.)	1		
+hébergement		1		
+héberger		1		
+hélice		1		
+hélicoïde		1		
+hémorragie		1		
+herbage		1		
+herboriste		1		
+héritage		1		
+hériter		1		
+hernie		1		
+héroïsme		1		
+héron		1		
+heurt		1		
+hévéas		1		
+hilarité		1		
+hindou		1		
+hippodrome		1		
+hollandais		1		
+homard		1		
+homélie		1		
+hommage		1		
+homogène		1		
+honorable		1		
+honorablement		1		
+horion		1		
+horlogerie		1		
+horriblement		1		
+hortensia		1		
+hortensia		1		
+hospice		1		
+hostilité		1		
+houle		1		
+hourra		1		
+huître		1		
+humblement		1		
+humilier		1		
+humoriste		1		
+hurlement		1		
+hygiénique		1		
+hypothéquer		1		
+hypothèse		1		
+identifier		1		
+idiotie		1		
+idylle		1		
+idyllique		1		
+ignifuger		1		
+ignoble		1		
+ignorance		1		
+illégal		1		
+illicite		1		
+illustré	(nom	1		
+illustré	(adj.)	1		
+illustrer		1		
+imagination		1		
+imbiber		1		
+immensément		1		
+immoral		1		
+immortaliser		1		
+impalpable		1		
+imparfait		1		
+impatience		1		
+imprimer		1		
+impromptu		1		
+impropre		1		
+improvisation		1		
+inadapté		1		
+inadmissible		1		
+inaperçu		1		
+inattendu		1		
+incalculable		1		
+incapacité		1		
+incendier		1		
+incidemment		1		
+inciser		1		
+inciter		1		
+inclinaison		1		
+inclure		1		
+incognito		1		
+incohérent		1		
+incompétent		1		
+incompréhensible		1		
+incontestable		1		
+incorporer	(pronom.)	1		
+incorrection		1		
+inculquer		1		
+indépendamment		1		
+indépendance		1		
+indéterminé		1		
+indifférent		1		
+indigence		1		
+indigestion		1		
+indirect		1		
+indiscipline		1		
+indiscipliné		1		
+indiscutablement		1		
+indisposer		1		
+indochinois		1		
+inédite		1		
+inégaux		1		
+inévitable		1		
+inextinguible		1		
+infectieuse		1		
+infection		1		
+infini		1		
+inflammation		1		
+inflexions		1		
+influent		1		
+informe		1		
+ingester		1		
+ininterrompue		1		
+initiale		1		
+initier		1		
+injustice		1		
+innocent		1		
+inoffensive		1		
+innommable		1		
+inquiétant		1		
+inséparable		1		
+insoutenable		1		
+inspiration		1		
+instable		1		
+instance		1		
+instantanément		1		
+instinct		1		
+instinctif		1		
+instrumental		1		
+insuffisance		1		
+insulaire	(adj.)	1		
+intarissable		1		
+intégralement		1		
+intégrer		1		
+intellectuellement		1		
+intense		1		
+intéressé		1		
+interférences		1		
+intérieurement		1		
+interlocuteur		1		
+interprétation		1		
+interrogative		1		
+interrogation		1		
+interruption		1		
+intersection		1		
+interviewer		1		
+intestinal		1		
+intimité		1		
+intituler		1		
+intrados		1		
+intriquer		1		
+intuition		1		
+inutilisable		1		
+invective		1		
+involontairement		1		
+iode		1		
+ironiser		1		
+irrégulier		1		
+irresponsabilité		1		
+irresponsable		1		
+irriguer		1		
+irriter		1		
+isoler		1		
+issu	(part. passé)	1		
+itinéraire		1		
+jaquet	(jeu)	1		
+jalousie		1		
+jardinage		1		
+jargon		1		
+jasmin		1		
+jaspage		1		
+jauge		1		
+jaunisse		1		
+jésuite		1		
+jeep	(automobile)	1		
+jersey		1		
+jet		1		
+jetés		1		
+jeûne		1		
+jeunet		1		
+jockey		1		
+joindre		1		
+joliment		1		
+joncher		1		
+jouissance		1		
+joujou		1		
+journalier	(adj.)	1		
+journellement		1		
+joyeux		1		
+judo		1		
+junior		1		
+jury		1		
+jusqu'à temps que		1		
+justiciable		1		
+kayak		1		
+kidnapper		1		
+kifkif	(pareil)	1		
+kilométrique		1		
+kilt		1		
+kyrielle		1		
+labyrinthe		1		
+lad		1		
+laideur		1		
+laiterie		1		
+lamenter	(pronom.)	1		
+lampadaire		1		
+lance		1		
+lancier		1		
+langouste		1		
+laps de temps		1		
+lapsus		1		
+laqué		1		
+larder		1		
+larron		1		
+lassé		1		
+lassitude		1		
+lécher		1		
+légèreté		1		
+lent		1		
+leucémie		1		
+lever	(nom.)	1		
+liasse		1		
+libéral		1		
+licencier	(renvoyer)	1		
+liège		1		
+liguer		1		
+limonadier		1		
+lin		1		
+lingère		1		
+lino		1		
+liquette		1		
+lisible		1		
+littéralement		1		
+littoral		1		
+livret		1		
+localiser		1		
+locomotion		1		
+longuement		1		
+lopin		1		
+loque		1		
+lorgnon		1		
+louche	(nom.)	1		
+louis xiii	(style)	1		
+lucrative		1		
+lumbago		1		
+lunch		1		
+lustres	(suspension	1		
+lutin		1		
+lutte		1		
+luzerne		1		
+lymphatique		1		
+macaron		1		
+macaroni		1		
+macérer		1		
+magie		1		
+magistrature		1		
+magnat		1		
+magnifiquement		1		
+majesté		1		
+majeur	(doigt)	1		
+majeure	(adj.)	1		
+majuscule		1		
+malaxeur		1		
+malchance		1		
+mallette		1		
+mandat		1		
+manganèse		1		
+mangeuse		1		
+manifeste	(nom.)	1		
+manifestement		1		
+manioc		1		
+manipulation		1		
+manitou		1		
+manoeuvre	(masc.)	1		
+manuellement		1		
+manufacture		1		
+manuscrit		1		
+maousse	(argot)	1		
+maquette		1		
+maquignon		1		
+maquiller		1		
+maquis		1		
+maquisard		1		
+marbre		1		
+marc		1		
+marchander		1		
+marchepied		1		
+mark		1		
+maréchal des logis		1		
+mariolle		1		
+marionnette		1		
+marmaille		1		
+marmite		1		
+mariner		1		
+marotte		1		
+marquant		1		
+martyriser		1		
+masque		1		
+massage		1		
+matérialiser		1		
+matérialisme		1		
+matériellement		1		
+mathématique	(adj.)	1		
+matheux		1		
+matinal		1		
+matrimonial		1		
+maxillaire		1		
+maxime		1		
+mec		1		
+méconnaissable		1		
+mécontent		1		
+médicament		1		
+médicochirurgical		1		
+méditer		1		
+médium	(chant)	1		
+méfiance		1		
+mégot		1		
+mélancolique		1		
+mélodique		1		
+mélodrame		1		
+mendiant		1		
+mendier		1		
+menthe		1		
+menuisier		1		
+méritante		1		
+mésallier	(pronom.)	1		
+messagerie		1		
+métalo		1		
+métayer		1		
+métropole		1		
+meurtre		1		
+mexicain		1		
+miauler		1		
+mic-mac		1		
+mie		1		
+miel		1		
+miette		1		
+militantisme		1		
+millionnaire		1		
+mimique		1		
+mine	(faire mine de	1		
+minorité		1		
+minot	(gamin)	1		
+minuter		1		
+miraculeuse		1		
+miroir		1		
+miroiter		1		
+mistral		1		
+filtrai		1		
+mitrailleuse		1		
+mixture		1		
+mobilisateur		1		
+mobilisation		1		
+modéré		1		
+modérer		1		
+moderniser		1		
+modestement		1		
+modification		1		
+moelle		1		
+moissonner		1		
+moissonneur		1		
+molester		1		
+momentané		1		
+momentanément		1		
+monastère		1		
+monceau		1		
+monophasé		1		
+monopoliser		1		
+monotonie		1		
+montage		1		
+moquette		1		
+moqueur		1		
+moraine		1		
+moralement		1		
+moralité		1		
+merdeuse	(nom.)	1		
+morphologique		1		
+mors		1		
+mortaise		1		
+mortel	(adj.)	1		
+mortier		1		
+morveux		1		
+motrice	(nom.)	1		
+motte		1		
+mou	(nom:poumons)	1		
+mouchard		1		
+mouchoir		1		
+moudre		1		
+mousse	(fém.)	1		
+moustique		1		
+mouvementé		1		
+moyeux		1		
+mue		1		
+multiplier		1		
+music-hall		1		
+musulman		1		
+myope		1		
+mystico -	(inachevé	1		
+naguère		1		
+natif		1		
+nation		1		
+nationaliser		1		
+nationalité		1		
+nattier	(bleu -)	1		
+naturaliser		1		
+naval		1		
+néant	(sic	1		
+néfaste		1		
+négligeable		1		
+négligence		1		
+négliger		1		
+nénuphar		1		
+néon		1		
+nervosité		1		
+nescafé		1		
+neurasthénique		1		
+neuvième		1		
+nid		1		
+nigaud		1		
+nipper		1		
+noisette		1		
+nonchalant		1		
+nonchalance		1		
+nord-africain		1		
+norvégien		1		
+nostalgie		1		
+notable		1		
+notice		1		
+nouveau-né		1		
+nouvellement		1		
+noviciat		1		
+numération		1		
+numéroter		1		
+nymphe		1		
+obéissance		1		
+oblique		1		
+obscur		1		
+obscurité		1		
+observation		1		
+obstiner	(pronom.)	1		
+obstruction		1		
+obtempérer		1		
+obturation		1		
+octroyer		1		
+oesophage		1		
+offensive		1		
+officialiser		1		
+officiel		1		
+ombragé		1		
+omettre		1		
+onzième		1		
+opérateur		1		
+opérette		1		
+opticien		1		
+orage		1		
+orchestral		1		
+ordonné		1		
+orienter		1		
+originalité		1		
+ornemental		1		
+orthographier		1		
+ossature		1		
+otage		1		
+ôter		1		
+ouate		1		
+ouïe		1		
+ouragan		1		
+outilleur		1		
+outrance		1		
+outrancier		1		
+outre-mer		1		
+outré		1		
+outrecuidance		1		
+ouvrager		1		
+ovation		1		
+pacte		1		
+pagaille		1		
+païen		1		
+paillote		1		
+pair		1		
+paître		1		
+palais		1		
+palefrenier		1		
+paletot		1		
+pallier	(verbe.)	1		
+palmarès		1		
+palpitation		1		
+pâmoison		1		
+panique		1		
+pansement		1		
+pantin		1		
+pantouflard		1		
+paon		1		
+papoter		1		
+papy		1		
+parachuter		1		
+parachutiste		1		
+paradoxal		1		
+paradoxe		1		
+parallèlement		1		
+paralyser		1		
+parapet		1		
+parasite		1		
+parcelle		1		
+pardonner		1		
+pardon		1		
+parc-choc		1		
+paresser		1		
+paresseux		1		
+parfaire		1		
+parfum		1		
+parfumer		1		
+pari		1		
+parier		1		
+parlante		1		
+parlant		1	0	
+partant		1		
+participation		1		
+particule		1		
+parure		1		
+passable		1		
+passablement		1		
+passive		1		
+passif		1	0	
+passionnant		1		
+passionné		1		
+potache		1		
+paternel		1		
+patienter		1		
+patrouille		1		
+pause		1		
+pauvreté		1		
+paver		1		
+payant		1		
+pécuniaire		1		
+pédagogique		1		
+péjoratif		1		
+pelleteuse		1		
+pelure		1		
+penaud		1		
+pendable		1		
+pénitencier		1		
+pension de famille		1		
+pensum		1		
+pentecôte		1		
+pépée		1		
+perception		1		
+perforer		1		
+périphérie		1		
+péritaine		1		
+perle		1		
+perpendiculairement		1		
+perpétuation		1		
+persécuter		1		
+persécution		1		
+persienne		1		
+persil		1		
+persister		1		
+péter		1		
+petits-enfants		1		
+petit-neveu		1		
+pétouillard		1		
+pétrolette		1		
+peuchère		1		
+phénix		1		
+philanthrope		1		
+philanthropique		1		
+philologique		1		
+philosophie		1		
+phono		1		
+phonographique		1		
+phrygien		1		
+physiquement		1		
+piaule		1		
+pichet		1		
+pick-up		1		
+pierrot		1		
+piétiner		1		
+piéton		1		
+piètre		1		
+pigment		1		
+pigeon		1		
+pilier		1		
+pilote		1		
+pilotis		1		
+piment		1		
+pinceaux	(argot: pied	1		
+ping-pong		1		
+pipelette		1		
+piper	(argot)	1		
+pipi		1		
+piquant	(nom.)	1		
+pique-nique		1		
+piquet		1		
+pirate		1		
+piraterie		1		
+pirouette		1		
+pivot		1		
+plain-pied		1		
+plaintif		1		
+plaisanterie		1		
+plant		1		
+plantureuse		1		
+plantureux		1	0	
+plaquette		1		
+platane		1		
+plat-vendre		1		
+pliant		1		
+plinthe		1		
+plomber		1		
+plombier		1		
+pochette		1		
+poigne		1		
+poignet		1		
+pointer		1		
+poire		1		
+poisse		1		
+poitrinaire		1		
+poitrine		1		
+poivre		1		
+polémique		1		
+policé		1		
+polir		1		
+polonais		1		
+poltron		1		
+polytechnicien		1		
+pompeux		1		
+pompier		1		
+ponction		1		
+ponctuation		1		
+ponctuel		1		
+ponctuer		1		
+pontife		1		
+ponte		1		
+populeux		1		
+populo		1		
+porphyre		1		
+portable		1		
+portant	(bien)	1		
+à bout portant		1		
+porte-avion		1		
+portemanteaux		1		
+porte-bagages		1		
+porte-monnaie		1		
+portraitiste		1		
+posé	(adj.:sérieux)	1		
+possession		1		
+poster		1		
+postérité		1		
+postier		1		
+postillon		1		
+potage		1		
+potager		1		
+pot-au-feu		1		
+potasse		1		
+potasser		1		
+pote	(fam.:copain)	1		
+potée		1		
+potelé		1		
+potentiomètre		1		
+potins		1		
+potion		1		
+poubelle		1		
+pouilleux		1		
+poularde		1		
+pouponnière		1		
+pourvoir		1		
+poussée		1		
+poussette		1		
+poussiéreux		1		
+poutre		1		
+pouvoir d'achat		1		
+préalable	(au)	1		
+prêcher		1		
+précieusement		1		
+précipice		1		
+prédécesseur		1		
+prédilection		1		
+prédominer		1		
+préjudice		1		
+présent	(nom.)	1		
+presqu'île		1		
+présider		1		
+pressant		1		
+présumé		1		
+primitivement		1		
+prince		1		
+priser		1		
+privilégié		1		
+procession		1		
+prodigieuse		1		
+prodigieux		1	0	
+producteur		1		
+profil		1		
+profitable		1		
+profiteur		1		
+progressivement		1		
+prolonger		1		
+prometteur		1		
+promotion		1		
+prône		1		
+pronostiqueur		1		
+prostrer		1		
+protection		1		
+protectorat		1		
+protestant		1		
+protester		1		
+prothèse		1		
+prouesse		1		
+provenance		1		
+provençal	(langue)	1		
+providentiel		1		
+proviseur		1		
+psychologiquement		1		
+psychotechnique		1		
+puce		1		
+pudding		1		
+puiser		1		
+pulluler		1		
+punaise	(interj.)	1		
+pupitre		1		
+pureté		1		
+purification		1		
+purulent"		1		
+purulent		1	0	
+quadriller		1		
+quadruplé		1		
+qualifié		1		
+quant à soi		1		
+quartier-maître		1		
+quérirqueu		1		
+queue d'ale		1		
+queue-leu-leu		1		
+quincaillerie		1		
+quinzième		1		
+qui que c'est que		1		
+rabâcher		1		
+rabatteur		1		
+rabiot		1		
+rabot		1		
+raboter		1		
+rabouter	(remettre bout à bout	1		
+raccommoder	(pronom.)	1		
+raccompagner		1		
+raccorder		1		
+raccourci	(nom.)	1		
+race		1		
+racoler		1		
+radiation		1		
+radiophonique		1		
+rafale		1		
+raffût		1		
+rafistoler		1		
+rager		1		
+raid		1		
+raide		1		
+raisiné		1		
+rajeunir		1		
+rajouter		1		
+rallonger		1		
+ramper		1		
+randonnée		1		
+raréfier	(pronom.)	1		
+rapporteur		1		
+rareté		1		
+rasseoir		1		
+rat		1		
+ratatouille	(correction	1		
+rationnel		1		
+rationnellement		1		
+rationner		1		
+rattrapage		1		
+rauque		1		
+ravage		1		
+rave		1		
+ravin		1		
+rayure		1		
+réalisateur		1		
+réapprouver		1		
+rebarbouillar		1		
+rebeller	(pronom.)	1		
+rebord		1		
+recalcifiante		1		
+recalcifiant		1	0	
+récapituler		1		
+receveur		1		
+rechange		1		
+rechanger		1		
+rechanter		1		
+réchapper		1		
+récitant		1		
+réclamation		1		
+recoin		1		
+réconfortant		1		
+reconnaissable		1		
+reconnaissant		1		
+reconstituer		1		
+recopier		1		
+recréer		1		
+recruter		1		
+rectangulaire		1		
+recteur		1		
+rectification		1		
+récupérable		1		
+rédacteur		1		
+rédaction		1		
+redémarrer		1		
+redevance		1		
+redire		1		
+redondance		1		
+redoutable		1		
+rééditer		1		
+référence		1		
+réformer		1		
+reflet		1		
+réforme		1		
+refoulement		1		
+refoutre		1		
+refroidir		1		
+refuge		1		
+regagner		1		
+régionaliste		1		
+régir		1		
+réglage		1		
+réglementer		1		
+réglo		1		
+régner		1		
+regrettable		1		
+regrouper		1		
+réincarnation		1		
+réjouir		1		
+réjouissant		1		
+reluquer		1		
+relative		1		
+relevé		1		
+remanier		1		
+remariage		1		
+remblai		1		
+remblayer		1		
+remontée		1		
+remorquer		1		
+remorqueur		1		
+rémouleur		1		
+rempailleur		1		
+remue-ménage		1		
+rémunérateur		1		
+renaissance		1		
+rendu		1		
+renfermé	(nom.)	1		
+renfermer		1		
+renfrogner		1		
+renommée		1		
+renouveau		1		
+rentier		1		
+renversement		1		
+repartir		1		
+repassage		1		
+repeinturlurer		1		
+répercuter	(pronom.)	1		
+répétitrice		1		
+repiquer		1		
+repli		1		
+replier	(pronom.)	1		
+reporter		1		
+reposant		1		
+reposoir		1		
+représailles		1		
+répression		1		
+repriser		1		
+reproduction		1		
+reproduire		1		
+républicaine		1		
+réputé		1		
+réquisitionner		1		
+résidu		1		
+résine		1		
+résonner		1		
+résoudre		1		
+respectabilité		1		
+respectif		1		
+respiration		1		
+ressemblance		1		
+restreint		1		
+ressaisir		1		
+ressuyer		1		
+restaurer	(pronom.)	1		
+restreindre		1		
+rétablir		1		
+retardataire		1		
+retomber		1		
+retournement		1		
+retracer		1		
+retrancher		1		
+retranscrire		1		
+rétribuer		1		
+rétroviseur		1		
+révélateur		1		
+révélation		1		
+revenant		1		
+revendiquer		1		
+rêverie		1		
+réversibilité		1		
+revêtir		1		
+révision		1		
+révolte		1		
+révolutionner		1		
+revoyure		1		
+rhabilleur		1		
+rhinite		1		
+ride		1		
+rigide		1		
+rigole		1		
+rillettes		1		
+rime		1		
+rimer		1		
+risette		1		
+rite		1		
+rive		1		
+rivière		1		
+riz		1		
+robuste		1		
+rocailleuse		1		
+rocailleux		1	0	
+rond de cuir		1		
+rondelette		1		
+rondelet		1	0	
+ronger		1		
+roquet		1		
+rosière		1		
+roucoulade		1		
+rotation		1		
+rougir		1		
+rouiller		1		
+roulette		1		
+roussir		1		
+routinier		1		
+rucher		1		
+rugissement		1		
+rupiner		1		
+rustique		1		
+rythmique		1		
+sabler	(jeter du sable	1		
+sagement		1		
+salamalec		1		
+salement		1		
+saler		1		
+salissant		1		
+sanatorium		1		
+saouler		1		
+saquer		1		
+sarcastique		1		
+sarcelle		1		
+sarcler		1		
+sardine		1		
+satiriste		1		
+satisfaisant		1		
+satyre		1		
+saucer		1		
+sauf	(adj.)	1		
+saute-mouton		1		
+sauvetage		1		
+savamment		1		
+saveur		1		
+savoir	(nom.)	1		
+savoureux		1		
+scabreux		1		
+scandaleux		1		
+scandinave		1		
+scénique		1		
+schématiser		1		
+schnaps		1		
+sciatique		1		
+scierie		1		
+scission		1		
+scolairement		1		
+scolarité		1		
+scrupule		1		
+scrupuleusement		1		
+sculpteur		1		
+sculpter		1		
+sculpture		1		
+secondaire		1		
+secundo		1		
+séduction		1		
+séduire		1		
+segment		1		
+séjourner		1		
+select		1		
+sélection		1		
+sélectionner		1		
+semence		1		
+séminaire		1		
+sensation		1		
+sensiblement		1		
+sensuel		1		
+sentencieux		1		
+séquence		1		
+séquestration		1		
+sermon		1		
+serpent		1		
+serrure		1		
+serveur		1		
+serviteur		1		
+servo-moteur		1		
+shaker		1		
+shooter		1		
+short		1		
+side-car		1		
+signalisation		1		
+signification		1		
+silhouette		1		
+simpliste		1		
+singe		1		
+sinistre	(nom.)	1		
+sinus	(anatom.)	1		
+sitôt		1		
+slave		1		
+snack-bar		1		
+soc		1		
+sociable		1		
+sociétaire		1		
+soda		1		
+solfège		1		
+solvable		1		
+sombre		1		
+somme	(masc.)	1		
+somnoler		1		
+somptueuse		1		
+somptueux		1	0	
+sonde		1		
+sonder		1		
+sonnet		1		
+sonnette		1		
+sonneur		1		
+soporifique		1		
+soprano		1		
+sorcellerie		1		
+sornette	(s)	1		
+souche		1		
+soucier	(pronom.)	1		
+soufflé		1		
+soufflure		1		
+souffrant		1		
+souffre-douleur		1		
+soufre		1		
+soufré		1		
+souhait		1		
+soûl		1		
+souligner		1		
+soûlographie		1		
+soumettre		1		
+soupente		1		
+sourd		1		
+sourdine	(en)	1		
+souriant		1		
+soutien		1		
+spaghetti		1		
+spécialisation		1		
+spécifier		1		
+spécimen		1		
+spéculer		1		
+spirale		1		
+splendeur		1		
+squelette		1		
+stabiliser		1		
+stabilité		1		
+stagiaire		1		
+stand		1		
+standing		1		
+stannifère		1		
+statique		1		
+sténographie		1		
+stèle		1		
+stériliser		1		
+stopper		1		
+strict		1		
+stupéfaction		1		
+stupéfait		1		
+stupeur		1		
+stylistique		1		
+stylo		1		
+su	(nom.)	1		
+subit		1		
+subit	subit	1	0	
+subit	subite	1		
+subitement		1		
+subjonctif		1		
+submerger		1		
+subordonner		1		
+subside		1		
+subsidiaire		1		
+subsister		1		
+substance		1		
+substantif		1		
+subtilité		1		
+substitution		1		
+subvenir		1		
+suc		1		
+succursale		1		
+sucrer	(pronom.)(s'enrichir)	1		
+suffoquer		1		
+suggérer		1		
+suggestion		1		
+sulfate		1		
+suppléante		1		
+suppléant		1	0	
+supplice		1		
+suppositoire		1		
+supputer		1		
+suranné		1		
+surchauffer		1		
+surélever		1		
+surmenage		1		
+surmener		1		
+surnager		1		
+surnommer		1		
+surprenant		1		
+sursaut		1		
+survivant		1		
+susciter		1		
+suspension		1		
+sustenter	(pronom.)	1		
+symbolique		1		
+symétrique		1		
+syndical		1		
+syndiqué		1		
+synonyme		1		
+synoptique		1		
+synovie		1		
+syntaxe		1		
+synthétique		1		
+tact		1		
+taie	(d'oreiller)	1		
+taillis		1		
+tambouille		1		
+tampon		1		
+tango		1		
+tank		1		
+tapir	(pronom.)	1		
+tapoter		1		
+taquiner		1		
+tarabiscoter		1		
+tarder		1		
+tardif		1		
+tarte		1		
+tassé	(fig.)	1		
+tasser		1		
+tatane		1		
+tatillage		1		
+tégument		1		
+teinte		1		
+teinturerie		1		
+télégraphier		1		
+télégraphique		1		
+télescoper		1		
+téméraire		1		
+témérité		1		
+tenace		1		
+ténacité tenant		1		
+tenture		1		
+térébinthe		1		
+ternir	(pronom.)	1		
+terrestre		1		
+terreur		1		
+terrier		1		
+territorial		1		
+textuellement		1		
+théorème		1		
+théoricien		1		
+théoriquement		1		
+thoracique		1		
+thym		1		
+thyroïde		1		
+tiède		1		
+tigresse		1		
+timbale		1		
+timbrée	(voix)	1		
+tirade		1		
+tirette		1		
+toilettes		1		
+tolérer		1		
+tombe		1		
+tombée		1		
+tome	(fém. fromage)	1		
+tondre		1		
+tonner		1		
+torcher		1		
+tordre		1		
+tordu		1		
+torride		1		
+torse		1		
+tortionnaire		1		
+tortue		1		
+torturer		1		
+touchant		1		
+touring-club		1		
+tournant	(nom.)	1		
+tonton		1		
+trace		1		
+trachée		1		
+traditionnel		1		
+trahison		1		
+traîne		1		
+trancher		1		
+transatlantique		1		
+transcription		1		
+transition		1		
+transmission		1		
+transplanter		1		
+travelling		1		
+traverse		1		
+traversée		1		
+traversine		1		
+treillis		1		
+trempette		1		
+trépidation		1		
+tresse		1		
+triage		1		
+tribal		1		
+tribune		1		
+tricher		1		
+trieuse		1		
+trimer		1		
+trio		1		
+triomphal		1		
+tripler		1		
+trisser		1		
+tristement		1		
+trompeuse		1		
+trot		1		
+trotter		1		
+trouille		1		
+trouvaille		1		
+truquage		1		
+turbiner		1		
+tsar		1		
+tuerie		1		
+tunique		1		
+turban		1		
+turfiste		1		
+tune		1		
+tutélaire		1		
+tutelle		1		
+tuteur		1		
+tutoyer		1		
+tympan		1		
+typhon		1		
+typique		1		
+tyran		1		
+uhlan		1		
+ukrainien		1		
+ulcère		1		
+ultérieurement		1		
+unanimité		1		
+unilatéral		1		
+union		1		
+unisson		1		
+unité		1		
+universel		1		
+urbanisme		1		
+urgence		1		
+urée		1		
+uriner		1		
+urique		1		
+usé		1		
+useur		1		
+usinier		1		
+ustensile		1		
+usure		1		
+utilement		1		
+vaccin		1		
+vacher		1		
+vacherie		1		
+vadrouille		1		
+vadrouiller		1		
+vague	(nom.)	1		
+vaillamment		1		
+vaincre		1		
+vainement		1		
+valdinguer		1		
+vallon		1		
+vanille		1		
+vareuse		1		
+variante		1		
+variation		1		
+varlope		1		
+vautrer	(pronom.)	1		
+végéter		1		
+véhémence		1		
+velouté		1		
+vendéen		1		
+ventiler		1		
+venue		1		
+véranda		1		
+verdure		1		
+verger		1		
+véridique		1		
+vers	(nom.)	1		
+vert-pistache		1		
+vertèbre		1		
+vertical		1		
+vertueux		1		
+verve		1		
+vestibule		1		
+vêtir		1		
+vétusté		1		
+vicaire		1		
+vice-versa		1		
+victoire		1		
+victoria		1		
+vieillard		1		
+vieillesse		1		
+viennoise		1		
+viol		1		
+violence		1		
+violente		1		
+violer		1		
+virée		1		
+virgule		1		
+virtuel		1		
+visibilité		1		
+visible		1		
+vison		1		
+vitrage		1		
+vitré		1		
+vitreux		1		
+vocalise		1		
+voiler		1		
+voirie		1		
+voisiner		1		
+volage		1		
+volaille		1		
+volontaire	(nom.)	1		
+volontairement		1		
+volt		1		
+vosgien		1		
+voyant	(mécanique)	1		
+voyeur		1		
+zeste		1		
+zigoto		1		
+zinc		1		
+zoologique		1		
+zozotter		1		
