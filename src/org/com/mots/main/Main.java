@@ -8,6 +8,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.StringTokenizer;
+import java.util.TreeMap;
 import java.util.regex.Pattern;
 
 import org.apache.commons.io.FileUtils;
@@ -41,12 +42,18 @@ public class Main {
 				contagem.put(word, 1);
 			}
 		}
-		
-		
+
+		/* 3.1) colocando ordem no map */
+		// Ordenar pelo value, quantidade de usos
+//		contagem = FileUtil.sortByValue(contagem);
+
+		// Ordenar pela palavra pra gente comparar as coisas
+		Map<String, Integer> treeMap = new TreeMap<String, Integer>(contagem);
+
 		/* 4) Contabilizar ocorrencia das palavras */
 
-		for (Entry<String, Integer> key : contagem.entrySet()) {
-			System.out.println("\""+ key.getKey() + "\" : " + key.getValue());
+		for (Entry<String, Integer> key : treeMap.entrySet()) {
+			System.out.println("" + key.getKey() + " : " + key.getValue());
 		}
 	}
 
@@ -63,7 +70,7 @@ public class Main {
 	public LinkedList<String> split(List<String> lines) {
 		LinkedList<String> words = new LinkedList<String>();
 
-		Pattern pattern = Pattern.compile("\\ ");
+		// Pattern pattern = Pattern.compile("\\ ");
 
 		for (String currentLine : lines) {
 			StringTokenizer tokenizer = new StringTokenizer(currentLine);
