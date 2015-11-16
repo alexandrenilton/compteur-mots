@@ -21,129 +21,155 @@ import org.xml.sax.InputSource;
 
 public class TextParser {
 
-	StringBuffer TextBuffer = null;
-	FileInputStream fin = null;
-	InputSource inSource = null;
+    StringBuffer TextBuffer = null;
+    FileInputStream fin = null;
+    InputSource inSource = null;
 
-	public static InputStream returnInputStreamFromPage(String urlString) {
-		URL url;
-		InputStream is = null;
+    public static InputStream returnInputStreamFromPage(String urlString) {
+        URL url;
+        InputStream is = null;
 
-		try {
-			url = new URL(urlString);
-			URLConnection openConnection = url.openConnection();
-			openConnection.addRequestProperty("User-Agent",
-					"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0");
-			is = openConnection.getInputStream();
-		} catch (MalformedURLException mue) {
-			mue.printStackTrace();
-		} catch (IOException ioe) {
-			ioe.printStackTrace();
-		}
-		return is;
-	}
+        try {
+            url = new URL(urlString);
+            URLConnection openConnection = url.openConnection();
+            openConnection.addRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0");
+            is = openConnection.getInputStream();
+        } catch (MalformedURLException mue) {
+            mue.printStackTrace();
+        } catch (IOException ioe) {
+            ioe.printStackTrace();
+        }
+        return is;
+    }
 
-	void processNode(Node node) {
-		if (node == null)
-			return;
-		// Process a text node
-		if (node.getNodeType() == Node.TEXT_NODE) {
-			TextBuffer.append(node.getNodeValue());
-		} else if (node.hasChildNodes()) {
-			// Process the Node's children
+    void processNode(Node node) {
+        if (node == null)
+            return;
+        // Process a text node
+        if (extractNode(node)) {
+            if (node.getNodeType() == Node.TEXT_NODE) {
+                TextBuffer.append(node.getNodeValue());
+            } else if (node.hasChildNodes()) {
+                // Process the Node's children
 
-			NodeList childList = node.getChildNodes();
-			int childLen = childList.getLength();
+                NodeList childList = node.getChildNodes();
+                int childLen = childList.getLength();
 
-			for (int count = 0; count < childLen; count++)
-				processNode(childList.item(count));
-		} else
-			return;
-	}// Extracts text from HTML Document
+                for (int count = 0; count < childLen; count++) {
+                    if (extractNode(childList.item(count))) {
+                        processNode(childList.item(count));
+                    }
+                }
+            } else
+                return;
+        } else {
+            return;
+        }
+    }// Extracts text from HTML Document
 
-	String htmltoText(File file) {
+    public static boolean extractNode(Node node) {
+        if (node.getNodeName().contains("SCRIPT")) {
+            return false;
+        }
+        if (node.getNodeName().contains("HEAD")) {
+            return false;
+        }
+        if (node.getNodeValue() == null) {
+            return true;
+        }
+        if (node.getNodeValue().contains("//<!")) {
+            return false;
+        }
+        if (node.getNodeValue().contains("<!--")) {
+            return false;
+        }
 
-		DOMFragmentParser parser = new DOMFragmentParser();
+        return true;
+    }
 
-		File f = file;
+    String htmltoText(File file) {
 
-		try {
-			fin = new FileInputStream(f);
-		} catch (Exception e) {
-			System.out.println("Unable to open HTML file " + file.getName() + " for reading.");
-			return null;
-		}
+        DOMFragmentParser parser = new DOMFragmentParser();
 
-		try {
-			inSource = new InputSource(fin);
-		} catch (Exception e) {
-			System.out.println("Unable to open Input source from HTML file " + file.getName());
-			return null;
-		}
+        File f = file;
 
-		CoreDocumentImpl codeDoc = new CoreDocumentImpl();
-		DocumentFragment doc = codeDoc.createDocumentFragment();
+        try {
+            fin = new FileInputStream(f);
+        } catch (Exception e) {
+            System.out.println("Unable to open HTML file " + file.getName() + " for reading.");
+            return null;
+        }
 
-		try {
-			parser.parse(inSource, doc);
-		} catch (Exception e) {
-			System.out.println("Unable to parse HTML file " + file.getName());
-			return null;
-		}
+        try {
+            inSource = new InputSource(fin);
+        } catch (Exception e) {
+            System.out.println("Unable to open Input source from HTML file " + file.getName());
+            return null;
+        }
 
-		TextBuffer = new StringBuffer();
+        CoreDocumentImpl codeDoc = new CoreDocumentImpl();
+        DocumentFragment doc = codeDoc.createDocumentFragment();
 
-		// Node is a super interface of DocumentFragment, so no typecast needed
-		processNode(doc);
+        try {
+            parser.parse(inSource, doc);
+        } catch (Exception e) {
+            System.out.println("Unable to parse HTML file " + file.getName());
+            return null;
+        }
 
-		System.out.println("Done.");
+        TextBuffer = new StringBuffer();
 
-		return TextBuffer.toString();
-	}
+        // Node is a super interface of DocumentFragment, so no typecast needed
+        processNode(doc);
 
-	// Writes the parsed text from HTML to a file
-	void writeTexttoFile(String htmlText, String fileName) {
+        System.out.println("Done.");
 
-		System.out.println("\nWriting HTML text to output text file " + fileName + "....");
-		try {
-			PrintWriter pw = new PrintWriter(fileName);
-			pw.print(htmlText);
-			pw.close();
-		} catch (Exception e) {
-			System.out.println("An exception occurred in writing the html text to file.");
-			e.printStackTrace();
-		}
-		System.out.println("Done.");
-	}
+        return TextBuffer.toString();
+    }
 
-	// Extracts text from an HTML Document and writes it to a text file
-	public static void main(String args[]) {
+    // Writes the parsed text from HTML to a file
+    void writeTexttoFile(String htmlText, String fileName) {
 
-		String url = "https://www.immigration-quebec.gouv.qc.ca/fr/index.html";
-		InputStream input = returnInputStreamFromPage(url);
-		File tempFile = criarArquivoTemporario(input);
+        System.out.println("\nWriting HTML text to output text file " + fileName + "....");
+        try {
+            PrintWriter pw = new PrintWriter(fileName);
+            pw.print(htmlText);
+            pw.close();
+        } catch (Exception e) {
+            System.out.println("An exception occurred in writing the html text to file.");
+            e.printStackTrace();
+        }
+        System.out.println("Done.");
+    }
 
-		TextParser htmlTextParserObj = new TextParser();
-		String htmlToText = htmlTextParserObj.htmltoText(tempFile);
+    // Extracts text from an HTML Document and writes it to a text file
+    public static void main(String args[]) {
 
-		if (htmlToText == null) {
-			System.out.println("HTML to Text Conversion failed.");
-		} else {
-			System.out.println("\nThe text parsed from the HTML Document....\n" + htmlToText);
-			htmlTextParserObj.writeTexttoFile(htmlToText, tempFile.getName());
-		}
-	}
+        String url = "https://www.immigration-quebec.gouv.qc.ca/fr/index.html";
+        InputStream input = returnInputStreamFromPage(url);
+        File tempFile = criarArquivoTemporario(input);
 
-	private static File criarArquivoTemporario(InputStream input) {
-		File tempFile = new File("Teste.txt");
-		try {
-			FileOutputStream out = new FileOutputStream(tempFile);
-			IOUtils.copy(input, out);
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-		return tempFile;
-	}
+        TextParser htmlTextParserObj = new TextParser();
+        String htmlToText = htmlTextParserObj.htmltoText(tempFile);
+
+        if (htmlToText == null) {
+            System.out.println("HTML to Text Conversion failed.");
+        } else {
+            System.out.println("\nThe text parsed from the HTML Document....\n" + htmlToText);
+            htmlTextParserObj.writeTexttoFile(htmlToText, tempFile.getName());
+        }
+    }
+
+    private static File criarArquivoTemporario(InputStream input) {
+        File tempFile = new File("Teste.txt");
+        try {
+            FileOutputStream out = new FileOutputStream(tempFile);
+            IOUtils.copy(input, out);
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return tempFile;
+    }
 }
